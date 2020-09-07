@@ -1,58 +1,66 @@
 <template>
   <div class="main">
     <div class="sidebar">
-      <h4 id="title">{{data.name}}</h4>
-      <span align="left" v-for="(v,k) in data.result" :key="k">
-        <button
-          v-if="v.correct_answer[0]==v.answer[0]"
-          style="background-color:green;margin-left:2px"
-          @click="goAnchor(v.question_id)"
-        >{{k+1}}</button>
+      <label class="drop" for="_1">
+        <h4>{{data.name}}</h4>
+      </label>
 
-        <button v-else style="background-color:red" @click="goAnchor(v.question_id)">{{k+1}}</button>
-      </span>
-      <br />
-      <br />
-      {{data.score}} / {{200-data.score}}
-      <button @click="submit()">submit</button>
+      <input id="_1" type="checkbox" />
+      <div>
+        <span align="left" v-for="(v,k) in data.result" :key="k">
+          <button
+            v-if="v.correct_answer[0]==v.answer[0] && showAnswer"
+            style="background-color:cyan;margin-left:2px"
+            @click="goAnchor(v.question_id)"
+          >{{k+1}}</button>
+
+          <button
+            v-else-if="v.correct_answer[0]!==v.answer[0] && showAnswer"
+            style="background-color:red;margin-left:2px"
+            @click="goAnchor(v.question_id)"
+          >{{k+1}}</button>
+          <button v-else style="margin-left:2px" @click="goAnchor(v.question_id)">{{k+1}}</button>
+        </span>
+        <br />
+
+        <button @click="showAnswer=!showAnswer">解析答案{{data.score}} / {{200-data.score}}</button>
+
+        <button style="margin-left:2px" @click="submit()">submit</button>
+      </div>
     </div>
     <div class="content">
-      <!-- <p-radio class="p-default p-curve" name="color" color="primary-o" v-model="">Primary</p-radio>
-      <p-radio class="p-default p-curve" name="color" color="danger-o">Danger</p-radio>-->
-
+      <textarea v-model="jsonText" cols="80" rows="3" placeholder="copy json string"></textarea>
       <div :id="v.question_id" align="left" v-for="(v,k) in data.result" :key="k">
         {{k+1}}. {{v.content | replaceHtmlTag}}
         <!-- {{ v.correct_answer[0] }} {{ v.answer[0] }} -->
         <p style="margin-left:20px" v-for="(vo,ko) in v.option" :key="ko">
-          <input
-            v-if="vo.id == v.answer[0]"
-            type="radio"
-            :id="vo.id"
+          <p-radio
+            class="p-default p-curve"
             :name="vo.question_id"
+            color="primary-o"
+            :checked="vo.id === v.answer[0]?true:false"
+            hover-color="primary-o"
             :value="vo.id"
             v-model="v.answer[0]"
-            checked
-          />
-          <input
-            v-else
-            type="radio"
-            :id="vo.id"
-            :name="vo.question_id"
-            :value="vo.id"
-            v-model="v.answer[0]"
-          />
-          <span
-            v-if="vo.id == v.correct_answer[0]"
-            style="color:#0075ff"
-          >{{arr[ko]}}. {{vo.content | replaceHtmlTag }}</span>
-          <span
-            v-else-if="vo.id == v.answer[0] && v.correct_answer[0] !== v.answer[0]"
-            style="color:red"
-          >{{arr[ko]}}. {{vo.content | replaceHtmlTag }}</span>
-          <span v-else>{{arr[ko]}}. {{vo.content | replaceHtmlTag }}</span>
+            hover="true"
+          >
+            {{arr[ko]}}. {{vo.content | replaceHtmlTag }}
+            <label
+              slot="hover-label"
+              v-if="showAnswer"
+            >
+              <span
+                v-if="vo.id === v.correct_answer[0]"
+                style="color:blue"
+              >{{arr[ko]}}.{{vo.content | replaceHtmlTag }} -正确答案</span>
+              <!-- {{vo.id}} -->
+              <span v-else style="color:red">{{arr[ko]}}.{{vo.content | replaceHtmlTag }} - 错误答案</span>
+            </label>
+            <label slot="hover-label" v-else>{{arr[ko]}}. {{vo.content | replaceHtmlTag }}</label>
+          </p-radio>
         </p>
 
-        <div style="margin-left:16px">解析：{{ v.analysis }}</div>
+        <div style="margin-left:16px" v-if="showAnswer">解析：{{ v.analysis }}</div>
         <br />
       </div>
     </div>
@@ -63,13 +71,13 @@
 import aJson from './a.json';
 import bJson from './b.json';
 
-// import PrettyRadio from 'pretty-checkbox-vue/radio';
-// import 'pretty-checkbox/src/pretty-checkbox.scss';
+import PrettyRadio from 'pretty-checkbox-vue/radio';
+import 'pretty-checkbox/src/pretty-checkbox.scss';
 
 export default {
   name: 'Paper',
   components: {
-    // 'p-radio': PrettyRadio
+    'p-radio': PrettyRadio
   },
   filters: {
     replaceHtmlTag(str) {
@@ -79,9 +87,33 @@ export default {
   data() {
     return {
       arr: ['A', 'B', 'C', 'D'],
+      showAnswer: false,
+      jsonText: undefined,
       data: undefined,
       aJson,
       bJson
+    }
+  },
+  watch: {
+    $route: {
+      handler: function (route) {
+        console.log(route.params.id)
+        if (route.params.id === 'a') {
+          this.data = aJson.data
+          console.log(this.data)
+        } else if (route.params.id === 'b') {
+          this.data = bJson.data
+          console.log(this.data)
+        }
+      },
+      immediate: true
+    },
+    jsonText(val) {
+      console.log(!val, val)
+      if (val) {
+        this.data = JSON.parse(val).data
+        console.log(this.data)
+      }
     }
   },
   created() {
@@ -113,8 +145,34 @@ export default {
 
 <!-- Add "scoped" attribute to limit CSS to this component only -->
 <style scoped>
-h3 {
-  margin: 40px 0 0;
+.drop {
+  cursor: pointer;
+  display: block;
+  background: #090;
+}
+
+.drop + input {
+  display: none; /* hide the checkboxes */
+}
+
+.drop + input + div {
+  display: none;
+}
+
+.drop + input:checked + div {
+  display: block;
+}
+h4 {
+  font-size: 18px;
+  margin: 5px 0px 5px 0px;
+}
+.menuItem p {
+  height: 0;
+  overflow: hidden;
+  transition: height 0.5s ease;
+}
+.menuItem p:target {
+  height: 120px;
 }
 body {
   margin: 0;
@@ -129,18 +187,18 @@ body {
   background: #ccc;
 }
 .main {
-  margin-top: 54px;
+  margin-top: 10px;
   height: calc(100% - 54px);
 }
 .sidebar {
   position: fixed;
-  top: 54px;
+  top: 0px;
   bottom: 0;
   left: 0;
   width: 300px;
   border-right: 1px solid #e4e6e9;
   background: grey;
-  background-color: #fff;
+  background-color: SteelBlue;
 }
 .content {
   padding-left: 301px;
