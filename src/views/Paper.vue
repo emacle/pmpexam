@@ -1,6 +1,7 @@
 <template>
-  <div>
-    <header>
+  <div class="main">
+    <div class="sidebar">
+      <h4 id="title">{{data.name}}</h4>
       <span align="left" v-for="(v,k) in data.result" :key="k">
         <button
           v-if="v.correct_answer[0]==v.answer[0]"
@@ -9,14 +10,13 @@
         >{{k+1}}</button>
 
         <button v-else style="background-color:red" @click="goAnchor(v.question_id)">{{k+1}}</button>
-
-        <br v-if="(k+1)%40==0" />
       </span>
-      正确: {{data.score }} 错误: {{ 200-data.score }}
-    </header>
-    <section>
-      <h4 id="title">{{data.name}}</h4>
-
+      <br />
+      <br />
+      {{data.score}} / {{200-data.score}}
+      <button @click="submit()">submit</button>
+    </div>
+    <div class="content">
       <!-- <p-radio class="p-default p-curve" name="color" color="primary-o" v-model="">Primary</p-radio>
       <p-radio class="p-default p-curve" name="color" color="danger-o">Danger</p-radio>-->
 
@@ -30,9 +30,17 @@
             :id="vo.id"
             :name="vo.question_id"
             :value="vo.id"
+            v-model="v.answer[0]"
             checked
           />
-          <input v-else type="radio" :id="vo.id" :name="vo.question_id" :value="vo.id" />
+          <input
+            v-else
+            type="radio"
+            :id="vo.id"
+            :name="vo.question_id"
+            :value="vo.id"
+            v-model="v.answer[0]"
+          />
           <span
             v-if="vo.id == v.correct_answer[0]"
             style="color:#0075ff"
@@ -47,13 +55,14 @@
         <div style="margin-left:16px">解析：{{ v.analysis }}</div>
         <br />
       </div>
-      <button @click="goAnchor('title')">gotop</button>
-    </section>
+    </div>
   </div>
 </template>
 
 <script>
 import aJson from './a.json';
+import bJson from './b.json';
+
 // import PrettyRadio from 'pretty-checkbox-vue/radio';
 // import 'pretty-checkbox/src/pretty-checkbox.scss';
 
@@ -71,18 +80,20 @@ export default {
     return {
       arr: ['A', 'B', 'C', 'D'],
       data: undefined,
-      aJson
+      aJson,
+      bJson
     }
   },
   created() {
-    console.log('a.json...', aJson)
-    console.log(this.$route);
-    console.log(this.$route.params.id);
+    // console.log(this.$route);
+    // console.log(this.$route.params.id);
     if (this.$route.params.id === 'a') {
       this.data = aJson.data
       console.log(this.data)
+    } else if (this.$route.params.id === 'b') {
+      this.data = bJson.data
+      console.log(this.data)
     }
-    // else { }
   },
   mounted: function () {
   },
@@ -91,6 +102,10 @@ export default {
     goAnchor(anchor) {
       // 注册表单盒子的类名为 form-wrap-app
       this.$el.querySelector('#' + anchor).scrollIntoView();
+    },
+    submit() {
+      console.log('newsubmit...', this.data.result[0].answer)
+      alert(this.data.result[0].answer)
     }
   }
 }
@@ -101,41 +116,35 @@ export default {
 h3 {
   margin: 40px 0 0;
 }
-html,
 body {
+  margin: 0;
   height: 100%;
 }
-body,
-ul {
-  margin: 0;
-}
-header,
-footer {
-  position: absolute;
-  line-height: 20px;
-  left: 0;
-  right: 30px;
-  z-index: 1;
-  color: aquamarine;
-  text-align: left;
-  background: #333;
-}
-header {
+.header {
   top: 0;
+  width: 100%;
+  height: 54px;
+  position: fixed;
+  border-bottom: 1px solid #e4e6e9;
+  background: #ccc;
 }
-footer {
+.main {
+  margin-top: 54px;
+  height: calc(100% - 54px);
+}
+.sidebar {
+  position: fixed;
+  top: 54px;
   bottom: 0;
-}
-section {
-  padding: 30px;
-  position: absolute;
-  top: 80px;
-  right: 0;
-  bottom: 48px;
   left: 0;
-  overflow: auto;
+  width: 300px;
+  border-right: 1px solid #e4e6e9;
+  background: grey;
+  background-color: #fff;
 }
-li {
-  padding: 10px 0;
+.content {
+  padding-left: 301px;
+  overflow-y: auto;
+  background-color: #fff;
 }
 </style>

@@ -1,7 +1,7 @@
 <template>
   <div id="app">
-    <router-link to="/helloworld1">helloworld1</router-link>
-    <router-link to="/paper">Paper</router-link>
+    <router-link to="/paper/a">Paper-A</router-link>|
+    <router-link to="/paper/b">Paper-B</router-link>
     <router-view />
   </div>
 </template>
