@@ -1,57 +1,55 @@
 <template>
-  <div>
-    <van-sticky>
-      <van-nav-bar :title="data.name" right-text="菜单" @click-right="show = true" />
-    </van-sticky>
-    <van-popup v-model="show" position="right" :style="{ width:'30%',height: '100%'}">
-      <!-- :style="{ height: '100%', width:'20%' }" -->
+  <div class="main">
+    <van-nav-bar
+      title="标题"
+      left-text="返回"
+      right-text="按钮"
+      left-arrow
+      @click-left="onClickLeft"
+      @click-right="onClickRight"
+    />
+    <div class="sidebar">
+      <label class="drop" for="_1">
+        <h4>{{data.name}}</h4>
+      </label>
 
-      <span v-for="(v,k) in data.result" :key="k">
-        <van-tag
-          :plain="showAnswer?false:true"
-          :type="showAnswer?'success':'primary'"
-          size="medium"
-          v-if="v.correct_answer[0]==v.answer[0] && showAnswer"
-          style="margin-left:2px;margin-bottom:2px"
-          @click="goAnchor(v.question_id)"
-        >{{k+1}}</van-tag>
-        <van-tag
-          :plain="showAnswer?false:true"
-          :type="showAnswer?'danger':'primary'"
-          size="medium"
-          v-else-if="v.correct_answer[0]!==v.answer[0] && showAnswer"
-          style="margin-left:2px;margin-bottom:2px"
-          @click="goAnchor(v.question_id)"
-        >{{k+1}}</van-tag>
-        <van-tag
-          :plain="showAnswer?false:true"
-          type="primary"
-          size="medium"
-          style="margin-left:2px;margin-bottom:2px"
-          v-else
-          @click="goAnchor(v.question_id)"
-        >{{k+1}}</van-tag>
-        <!-- <br v-if="(k+1)%30==0" /> -->
-      </span>
-      <br />
+      <input id="_1" type="checkbox" />
+      <div>
+        <span align="left" v-for="(v,k) in data.result" :key="k">
+          <button
+            v-if="v.correct_answer[0]==v.answer[0] && showAnswer"
+            style="background-color:cyan;margin-left:2px"
+            @click="goAnchor(v.question_id)"
+          >{{k+1}}</button>
 
-      <van-button
-        type="primary"
-        size="small"
-        @click="showAnswer=!showAnswer"
-      >解析答案{{data.score}} / {{200-data.score}}</van-button>
+          <button
+            v-else-if="v.correct_answer[0]!==v.answer[0] && showAnswer"
+            style="background-color:red;margin-left:2px"
+            @click="goAnchor(v.question_id)"
+          >{{k+1}}</button>
+          <van-tag
+            size="medium"
+            v-else
+            style="margin-left:2px"
+            @click="goAnchor(v.question_id)"
+          >{{k+1}}</van-tag>
+          <!-- <button v-else style="margin-left:2px" @click="goAnchor(v.question_id)">{{k+1}}</button> -->
+        </span>
+        <br />
 
-      <van-button type="primary" size="small" style="margin-left:2px" @click="submit()">submit</van-button>
-    </van-popup>
+        <button @click="showAnswer=!showAnswer">解析答案{{data.score}} / {{200-data.score}}</button>
 
-    <textarea v-model="jsonText" placeholder="copy json string"></textarea>
-    <!-- <van-button type="primary">主要按钮</van-button> -->
-
-    <div :id="v.question_id" align="left" v-for="(v,k) in data.result" :key="k">
-      {{k+1}}. {{v.content | replaceHtmlTag}}
-      <!-- {{ v.correct_answer[0] }} {{ v.answer[0] }} -->
-      <van-list>
-        <van-cell v-for="(vo,ko) in v.option" :key="ko">
+        <button style="margin-left:2px" @click="submit()">submit</button>
+      </div>
+    </div>
+    <div class="content">
+      <textarea v-model="jsonText" cols="80" rows="3" placeholder="copy json string"></textarea>
+      <!-- <van-button type="primary">主要按钮</van-button> -->
+      <button></button>
+      <div :id="v.question_id" align="left" v-for="(v,k) in data.result" :key="k">
+        {{k+1}}. {{v.content | replaceHtmlTag}}
+        <!-- {{ v.correct_answer[0] }} {{ v.answer[0] }} -->
+        <p style="margin-left:20px" v-for="(vo,ko) in v.option" :key="ko">
           <p-radio
             class="p-default p-curve"
             :name="vo.question_id"
@@ -76,11 +74,11 @@
             </label>
             <label slot="hover-label" v-else>{{arr[ko]}}. {{vo.content | replaceHtmlTag }}</label>
           </p-radio>
-        </van-cell>
-      </van-list>
+        </p>
 
-      <div style="margin-left:16px" v-if="showAnswer">解析：{{ v.analysis }}</div>
-      <br />
+        <div style="margin-left:16px" v-if="showAnswer">解析：{{ v.analysis }}</div>
+        <br />
+      </div>
     </div>
   </div>
 </template>
@@ -107,7 +105,6 @@ export default {
     return {
       arr: ['A', 'B', 'C', 'D'],
       showAnswer: false,
-      show: false,
       jsonText: undefined,
       data: undefined,
       aJson,
@@ -159,8 +156,7 @@ export default {
     // 跳到注册
     goAnchor(anchor) {
       // 注册表单盒子的类名为 form-wrap-app
-      this.$el.querySelector('#' + anchor).scrollIntoView(true)
-      window.scrollBy(0, -50); // 偏移顶部offset
+      this.$el.querySelector('#' + anchor).scrollIntoView();
     },
     submit() {
       console.log('newsubmit...', this.data.result[0].answer)
@@ -172,7 +168,64 @@ export default {
 
 <!-- Add "scoped" attribute to limit CSS to this component only -->
 <style scoped>
+.drop {
+  cursor: pointer;
+  display: block;
+  background: #090;
+}
+
+.drop + input {
+  display: none; /* hide the checkboxes */
+}
+
+.drop + input + div {
+  display: none;
+}
+
+.drop + input:checked + div {
+  display: block;
+}
+h4 {
+  font-size: 18px;
+  margin: 5px 0px 5px 0px;
+}
+.menuItem p {
+  height: 0;
+  overflow: hidden;
+  transition: height 0.5s ease;
+}
+.menuItem p:target {
+  height: 120px;
+}
+body {
+  margin: 0;
+  height: 100%;
+}
+.header {
+  top: 0;
+  width: 100%;
+  height: 54px;
+  position: fixed;
+  border-bottom: 1px solid #e4e6e9;
+  background: #ccc;
+}
+.main {
+  margin-top: 10px;
+  height: calc(100% - 54px);
+}
 .sidebar {
+  position: fixed;
+  top: 0px;
+  bottom: 0;
+  left: 0;
+  width: 300px;
+  border-right: 1px solid #e4e6e9;
+  background: grey;
   background-color: SteelBlue;
+}
+.content {
+  padding-left: 301px;
+  overflow-y: auto;
+  background-color: #fff;
 }
 </style>
