@@ -1,0 +1,6609 @@
+{
+	"data": {
+		"total_score": 200,
+		"name": "bJson",
+		"result": [
+			{
+				"correct_answer": [
+					"x7823D"
+				],
+				"answer": [
+					"x7823D"
+				],
+				"analysis": "本题考结束项目或阶段输入—项目章程。项目章程记录了项目成功标准、审批要求,以及由谁来签署项目结束。可理解是项目经理和发起人之间的协议。",
+				"question_id": "zzQuestionDiv-zzQuestionDiv7823",
+				"content": "1、\t\t项目经理和项目发起人在合同收尾期间发生争议。在确定项目完成时，哪一份文件是项目经理和项目发起人之间协议的根据？【单选】",
+				"option": [
+					{
+						"content": "A：验收的可交付成果",
+						"id": "x7823A",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7823"
+					},
+					{
+						"content": "B：项目范围说明书",
+						"id": "x7823B",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7823"
+					},
+					{
+						"content": "C：项目管理计划",
+						"id": "x7823C",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7823"
+					},
+					{
+						"content": "D：项目章程",
+						"id": "x7823D",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7823"
+					}
+				]
+			},
+			{
+				"correct_answer": [
+					"x7824C"
+				],
+				"answer": [
+					"x7824C"
+				],
+				"analysis": "本题考结束项目或阶段输出—组织过程资产（经验教训知识库）。根据题目描述，当前处于收尾过程组，也就是结束项目或阶段过程。而且题目强调目前正在“记录”最终项目活动，那么在项目收尾中“记录”最重要的是经验教训和历史信息，以备后续项目或阶段所使用。",
+				"question_id": "zzQuestionDiv-zzQuestionDiv7824",
+				"content": "2、\t\t一位高级项目经理正在指导新项目经理终结项目活动。记录最终项目活动时，高级项目经理应该将什么列为关键效益？【单选】",
+				"option": [
+					{
+						"content": "A：提供案例研究和客户参考",
+						"id": "x7824A",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7824"
+					},
+					{
+						"content": "B：允许最终产品交付和质量分析",
+						"id": "x7824B",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7824"
+					},
+					{
+						"content": "C：提供经验教训和历史信息",
+						"id": "x7824C",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7824"
+					},
+					{
+						"content": "D：允许提交发票并从客户处收到最终付款",
+						"id": "x7824D",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7824"
+					}
+				]
+			},
+			{
+				"correct_answer": [
+					"x7825A"
+				],
+				"answer": [
+					"x7825A"
+				],
+				"analysis": "本题考识别相关方输出—相关方登记册。项目中出现了新的相关方，那么首先应该将该新相关方更新到相关方登记册中，并对该相关方进行分析，将相关的信息也更新进去。",
+				"question_id": "zzQuestionDiv-zzQuestionDiv7825",
+				"content": "3、\t\t由于升职，一位新相关方加入到一个项目中，该相关方对其新角色的操作责任有良好的认识，但未接受过与该项目角色相关的培训。\r\n项目经理应该怎么做？\r\n【单选】",
+				"option": [
+					{
+						"content": "A：与新相关方开会，审查相关项目文件并收集背景信息，然后更新相关方登记册",
+						"id": "x7825A",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7825"
+					},
+					{
+						"content": "B：请新相关方书面确认他们对新角色的理解，然后更新项目章程",
+						"id": "x7825B",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7825"
+					},
+					{
+						"content": "C：更新项目治理计划以添加这位新相关方，并包含相关职责的描述以反映这项变更",
+						"id": "x7825C",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7825"
+					},
+					{
+						"content": "D：修订工作分解结构（WBS），以包括这位新相关方的相关可交付成果",
+						"id": "x7825D",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7825"
+					}
+				]
+			},
+			{
+				"correct_answer": [
+					"x7826C"
+				],
+				"answer": [
+					"x7826D"
+				],
+				"analysis": "本题考识别风险工具—数据分析（根本原因分析）。题目描述“征集改进质量和产生机会的意��”以及“每个意见都带有一定的风险”，说明题目要求的工具要同时满足识别风险和管理质量两个过程，那么两个过程相重合的工具可以选择因果图，因果图是管理质量的工具，根本原因分析是识别风险的工具，因果图和根本原因分析两个工具都是查找问题根本原因的，可以通用。",
+				"question_id": "zzQuestionDiv-zzQuestionDiv7826",
+				"content": "4、\t\t项目经理和项目团队已经开展头脑风暴，征集改进质量和产生机会的意见，项目经理知道每个意见都带有一定的风险。\r\n项目经理应使用哪一项来与执行项目发起人沟通这个信息？\r\n【单选】",
+				"option": [
+					{
+						"content": "A：亲和图",
+						"id": "x7826A",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7826"
+					},
+					{
+						"content": "B：帕累托图",
+						"id": "x7826B",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7826"
+					},
+					{
+						"content": "C：因果图",
+						"id": "x7826C",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7826"
+					},
+					{
+						"content": "D：概率和影响矩阵",
+						"id": "x7826D",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7826"
+					}
+				]
+			},
+			{
+				"correct_answer": [
+					"x7827B"
+				],
+				"answer": [
+					"x7827B"
+				],
+				"analysis": "本题考规划采购管理输出—采购工作说明书。依据项目范围基准,为每次采购编制工作说明书(SOW),仅对将要包含在相关合同中的那一部分项目范围进行定义。工作说明书会充分详细地描述拟采购的产品、服务或成果,以便潜在卖方确定是否有能力提供此类产品、服务或成果。所以是否应该包含该需求，应该查看采购工作说明书。",
+				"question_id": "zzQuestionDiv-zzQuestionDiv7827",
+				"content": "5、\t\t项目经理从项目团队和供应商处收到一连串电子邮件，争论最近收到的一个可交付成果，项目团队认为该可交付成果未能满足特定需求，但供应商却坚持他们不知道这个需求。\r\n项目经理首先应该查阅哪份文件？\r\n【单选】",
+				"option": [
+					{
+						"content": "A：沟通管理计划",
+						"id": "x7827A",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7827"
+					},
+					{
+						"content": "B：工作说明书（SOW）",
+						"id": "x7827B",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7827"
+					},
+					{
+						"content": "C：需求管理计划",
+						"id": "x7827C",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7827"
+					},
+					{
+						"content": "D：工作分解结构（WBS）",
+						"id": "x7827D",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7827"
+					}
+				]
+			},
+			{
+				"correct_answer": [
+					"x7828A"
+				],
+				"answer": [
+					"x7828A"
+				],
+				"analysis": "本题考监督沟通工具—会议，输出—变更请求。项目经理发送了状态报告，但是一些相关方不了解项目状态。这可能是两个问题，一个是发送的状态报告不符合这些相关方的阅读习惯，或者状态报告不符合相关方信息的接受方式。所以要解决这个问题，需要先了解问题出在哪里，然后再尝试通过变更流程来更新沟通管理计划或相关方参与计划。",
+				"question_id": "zzQuestionDiv-zzQuestionDiv7828",
+				"content": "6、\t\t项目经理向所有相关方发送定期状态报告，报告内容包括项目成就列表、即将完成的目标和目前的挑战。但是，一些相关方仍然抱怨说他们不了解项目的状态。\r\n项目经理应该怎么做？\r\n【单选】",
+				"option": [
+					{
+						"content": "A：联系这些相关方以了解他们担心的问题，并在实施变更之前遵循变更请求过程",
+						"id": "x7828A",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7828"
+					},
+					{
+						"content": "B：向这些相关方分发一份新的、更详细的状态报告",
+						"id": "x7828B",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7828"
+					},
+					{
+						"content": "C：要求这些相关方审查沟通管理计划并向他们提供最新的状态报告",
+						"id": "x7828C",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7828"
+					},
+					{
+						"content": "D：与这些相关方和项目团队开会，以提供更详细的项目状态更新",
+						"id": "x7828D",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7828"
+					}
+				]
+			},
+			{
+				"correct_answer": [
+					"x7829C"
+				],
+				"answer": [
+					"x7829C"
+				],
+				"analysis": "本题考规划风险应对工具—威胁应对措施（转移）。交钥匙合同（Turnkey Contract）属于总包合同的一种方式，也就是由业主方出资由施工方施工完成项目，将风险的应对转移给施工方，这属于风险的转移策略。",
+				"question_id": "zzQuestionDiv-zzQuestionDiv7829",
+				"content": "7、\t\t一家全球性公司希望开设一个新办事处，在新地区开拓业务。他们决定使用交钥匙式合同来实施这个项目。\r\n该公司使用的是什么类型的风险应对策略？\r\n【单选】",
+				"option": [
+					{
+						"content": "A：分享",
+						"id": "x7829A",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7829"
+					},
+					{
+						"content": "B：规避",
+						"id": "x7829B",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7829"
+					},
+					{
+						"content": "C：转移",
+						"id": "x7829C",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7829"
+					},
+					{
+						"content": "D：减轻",
+						"id": "x7829D",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7829"
+					}
+				]
+			},
+			{
+				"correct_answer": [
+					"x7830A"
+				],
+				"answer": [
+					"x7830A"
+				],
+				"analysis": "本题考制定进度计划工具—进度压缩。根据当前的资源进行工作所花费时间和要求时间出现了冲突，那么需要通过进度压缩工具来完成。由于当前的情况可以通过加班、并行工作进行，所以选B会比较片面，所以选A更好。",
+				"question_id": "zzQuestionDiv-zzQuestionDiv7830",
+				"content": "8、\t\t项目经理必须为政府编制一份工厂生产能力报告。这份报告将通过对400家工厂的总经理进行调查而创建，并且必须在四个月内完成。然而，根据现有资源以及调查每位总经理所需的时间，该项目预计需要一年时间。\r\n项目经理应使用什么工具或技术来满足预期期限？\r\n【单选】",
+				"option": [
+					{
+						"content": "A：进度压缩",
+						"id": "x7830A",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7830"
+					},
+					{
+						"content": "B：快速跟进",
+						"id": "x7830B",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7830"
+					},
+					{
+						"content": "C：标杆对照",
+						"id": "x7830C",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7830"
+					},
+					{
+						"content": "D：统计抽样",
+						"id": "x7830D",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7830"
+					}
+				]
+			},
+			{
+				"correct_answer": [
+					"x7831A"
+				],
+				"answer": [
+					"x7831A"
+				],
+				"analysis": "本题考收集需求工具—数据收集（标杆对照）。题目强调收集更多的系统需求，那么可以对应到数据收集工具，本题中ABC都属于收据收集技术，A属于标杆对照，B和C都属于专家判断，所以如果两个选项的本质相同，那么这两个选项就都不会去选，A就成了最佳答案。",
+				"question_id": "zzQuestionDiv-zzQuestionDiv7831",
+				"content": "9、\t\t项目经理正在管理一个先进的计费系统项目。项目经理已经检查了现有的计费系统以及公司项目管理信息系统（PMIS）中的经验教训知识库。项目经理将可能收集更多的系统需求。\r\n项目经理下一步应该怎么做？\r\n【单选】",
+				"option": [
+					{
+						"content": "A：参考现有的行业最佳实践",
+						"id": "x7831A",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7831"
+					},
+					{
+						"content": "B：咨询任何有经验的内部或外部团队",
+						"id": "x7831B",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7831"
+					},
+					{
+						"content": "C：与外部主题专家（SME）一起工作",
+						"id": "x7831C",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7831"
+					},
+					{
+						"content": "D：与内容业务和技术支持资源一起工作",
+						"id": "x7831D",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7831"
+					}
+				]
+			},
+			{
+				"correct_answer": [
+					"x7832D"
+				],
+				"answer": [
+					"x7832D"
+				],
+				"analysis": "本题考结束项目或阶段输入—项目管理计划，验收的可交付成果。项目经理已经准备好结束一个项目，那么项目收尾的前提是成果已经验收完成，而且项目如何收尾，是在项目管理计划中进行定义，所以选择D最佳。",
+				"question_id": "zzQuestionDiv-zzQuestionDiv7832",
+				"content": "10、\t\t项目经理已经准备好结束一个项目。项目经理下一步应该怎么做？【单选】",
+				"option": [
+					{
+						"content": "A：管理质量来确认可交付成果是否符合标准",
+						"id": "x7832A",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7832"
+					},
+					{
+						"content": "B：根据项目章程衡量可交付成果，并请求客户验收",
+						"id": "x7832B",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7832"
+					},
+					{
+						"content": "C：解决所有项目风险，以确保可交付成果将被验收",
+						"id": "x7832C",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7832"
+					},
+					{
+						"content": "D：审查项目管理计划，以确保完成范围并请求客户验收",
+						"id": "x7832D",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7832"
+					}
+				]
+			},
+			{
+				"correct_answer": [
+					"x7833C"
+				],
+				"answer": [
+					"x7833C"
+				],
+				"analysis": "本题考控制范围输入—需求跟踪矩阵。题目中描述可交付成果未能满足相关方期望，这句话可以理解为可交付成果和相关方需求不一致，需求跟踪矩阵中涉及到可交付成果和需求的关联，所以选C比较好。需求跟踪矩阵有助于探查任何变更或对范围基准的任何偏离对项目目标的影响,它还可以提供受控需求的状态。",
+				"question_id": "zzQuestionDiv-zzQuestionDiv7833",
+				"content": "11、\t\t项目经理已经在一个项目上工作了三个月，该项目是关于在公司的网站上发布一个新功能。然而，一个关键相关方感到不满，因为可交付成果未能满足他们的期望。\r\n项目经理应该查阅哪份文件？\r\n【单选】",
+				"option": [
+					{
+						"content": "A：范围管理计划",
+						"id": "x7833A",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7833"
+					},
+					{
+						"content": "B：项目范围说明书",
+						"id": "x7833B",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7833"
+					},
+					{
+						"content": "C：需求跟踪矩阵",
+						"id": "x7833C",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7833"
+					},
+					{
+						"content": "D：需求文件",
+						"id": "x7833D",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7833"
+					}
+				]
+			},
+			{
+				"correct_answer": [
+					"x7834C"
+				],
+				"answer": [
+					"x7834C"
+				],
+				"analysis": "本题考风险领域流程。项目中识别到了风险，应该做风险定性和定量分析，之后做风险应对的规划，包括了具体的行动和主���和备用应对策略，风险的应对也要指定负责人。所以本题选择C最合适。",
+				"question_id": "zzQuestionDiv-zzQuestionDiv7834",
+				"content": "12、\t\t项目经理完成项目计划并提交所有文件以供审批，没有分配延迟审批的时间。\r\n若要解决这个潜在风险，项目经理应该事先做什么？\r\n【单选】",
+				"option": [
+					{
+						"content": "A：选择一名风险责任人并将该责任人确定的行动纳入计划文件中",
+						"id": "x7834A",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7834"
+					},
+					{
+						"content": "B：与项目干系人分享这个潜在风险信息，以加快审批",
+						"id": "x7834B",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7834"
+					},
+					{
+						"content": "C：计划具体的行动，包括主要和备用策略，并选择一名风险责任人",
+						"id": "x7834C",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7834"
+					},
+					{
+						"content": "D：提前启动项目，以避免影响进度",
+						"id": "x7834D",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7834"
+					}
+				]
+			},
+			{
+				"correct_answer": [
+					"x7835D"
+				],
+				"answer": [
+					"x7835D"
+				],
+				"analysis": "本题考控制范围输出—项目管理计划更新。“一项新的政府规定活动批准”，可以理解为是一项范围变更得到了批准，批准后需要先更新项目管理计划，再按照最新的项目管理计划去执行变更。",
+				"question_id": "zzQuestionDiv-zzQuestionDiv7835",
+				"content": "13、\t\t一家公司聘用一名项目经理来管理与之前完成的一个类似的新项目。在该项目执行期间一项新的政府规定活动批准。\r\n项目经理下一步应该怎么做？\r\n【单选】",
+				"option": [
+					{
+						"content": "A：请求专家判断",
+						"id": "x7835A",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7835"
+					},
+					{
+						"content": "B：获得这项政府规定的相关培训",
+						"id": "x7835B",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7835"
+					},
+					{
+						"content": "C：参阅经验教训知识库",
+						"id": "x7835C",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7835"
+					},
+					{
+						"content": "D：修订项目管理计划",
+						"id": "x7835D",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7835"
+					}
+				]
+			},
+			{
+				"correct_answer": [
+					"x7836D"
+				],
+				"answer": [
+					"x7836D"
+				],
+				"analysis": "本题考结束项目或阶段输出—项目文件更新，最终报告，组织过程资产更新。“组件已签署并转让所有权”意味着成果完成并移交，在项目管理生命周期中，只有结束项目或阶段过程属于项目收尾，用来做成果移交。四个选项只有D选项属于结束项目过阶段的输出。",
+				"question_id": "zzQuestionDiv-zzQuestionDiv7836",
+				"content": "14、\t\t项目经理担心团队成员会花费太多时间去帮助最近委托的一个项目组件的运营和维护人员，项目经理应该查阅哪一份文件来确认该组件是否已签署并转让所有权？【单选】",
+				"option": [
+					{
+						"content": "A：组织过程资产更新，采购协议和最终报告",
+						"id": "x7836A",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7836"
+					},
+					{
+						"content": "B：组织过程资产更新，采购协议和项目文件更新",
+						"id": "x7836B",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7836"
+					},
+					{
+						"content": "C：组织过程资产更新，采购协议和相关方参与计划",
+						"id": "x7836C",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7836"
+					},
+					{
+						"content": "D：组织过程资产更新，最终报告和项目文件更新",
+						"id": "x7836D",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7836"
+					}
+				]
+			},
+			{
+				"correct_answer": [
+					"x7837A"
+				],
+				"answer": [
+					"x7837A"
+				],
+				"analysis": "本题考管理质量工具—问题解决，数据表现（因果图）。项目经理在测试阶段发现了问题，也就是在控制质量过程发现了问题，其结果为质量控制测量结果，会成为管理质量过程的输入。管理质量中的问题解决工具用来产生合适的解决方案，问题解决中的步骤包括了根本原因分析，可以使用因果图来完成。",
+				"question_id": "zzQuestionDiv-zzQuestionDiv7837",
+				"content": "15、\t\t公司正在开发一种新产品。在测试阶段，客户发现该产品的一个严重缺陷。\r\n项目经理应该使用什么来确定合适的解决方案？\r\n【单选】",
+				"option": [
+					{
+						"content": "A：因果图",
+						"id": "x7837A",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7837"
+					},
+					{
+						"content": "B：六西格玛",
+						"id": "x7837B",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7837"
+					},
+					{
+						"content": "C：专家判断",
+						"id": "x7837C",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7837"
+					},
+					{
+						"content": "D：面向X的设计",
+						"id": "x7837D",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7837"
+					}
+				]
+			},
+			{
+				"correct_answer": [
+					"x7838C"
+				],
+				"answer": [
+					"x7838C"
+				],
+				"analysis": "本题考收集需求工具—决策（投票—大多数原则）。题目描述要求“达成共识”，四个选项中，只有C和D也就是投票能够达成共识，而题目又描述“项目团队仍然不赞同许多事项”，所以没有办法通过一致同意来完成决策，使用大多数原则比较合适。名义小组是排序工具，用来找出排序靠前的意见，而亲和图是通过分类来进行审查和分析的工具，都不合适。",
+				"question_id": "zzQuestionDiv-zzQuestionDiv7838",
+				"content": "16、\t\t在进行了几次会议来确定项目活动之后，项目团队仍然不赞同许多事项。项目经理应该使用什么来达成共识？【单选】",
+				"option": [
+					{
+						"content": "A：名义小组技术",
+						"id": "x7838A",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7838"
+					},
+					{
+						"content": "B：亲和图",
+						"id": "x7838B",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7838"
+					},
+					{
+						"content": "C：大多数原则",
+						"id": "x7838C",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7838"
+					},
+					{
+						"content": "D：一致同意原则",
+						"id": "x7838D",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7838"
+					}
+				]
+			},
+			{
+				"correct_answer": [
+					"x7839B"
+				],
+				"answer": [
+					"x7839B"
+				],
+				"analysis": "本题考实施整体变更控制过程。相关方提出变更，需要走变更流程，下一步应该把变更提交给CCB。",
+				"question_id": "zzQuestionDiv-zzQuestionDiv7839",
+				"content": "17、\t\t对于一个软件开发项目，大部分功能都已经过客户同意。该客户也是一位相关方，负责审查需求规格书。项目开始后，该客户的老板（之前未被识别为一位相关方）参与项目并要求对批准的需求进行变更。这导致项目发生严重返工并延长时间表。\r\n项目经理应该怎么做？\r\n【单选】",
+				"option": [
+					{
+						"content": "A：将其添加进风险登记册",
+						"id": "x7839A",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7839"
+					},
+					{
+						"content": "B：向变更控制委员会（CCB）提交一项变更",
+						"id": "x7839B",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7839"
+					},
+					{
+						"content": "C：修订项目管理计划，以包含这些更新",
+						"id": "x7839C",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7839"
+					},
+					{
+						"content": "D：规划时间和资源的缓冲区，以补偿预期之外的变更请求",
+						"id": "x7839D",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7839"
+					}
+				]
+			},
+			{
+				"correct_answer": [
+					"x7840A"
+				],
+				"answer": [
+					"x7840A"
+				],
+				"analysis": "本题考制定项目章程过程。题目强调目前项目正处于启动阶段，而B、C、D三个选项都属于规划过程组的产出，只有A符合启动过程组的要求。",
+				"question_id": "zzQuestionDiv-zzQuestionDiv7840",
+				"content": "18、\t\t两家公司之间并购项目正处于启动阶段，显然这个项目将对这两个组织产生影响，若要确保项目成功，发起人应关注下列哪一项？【单选】",
+				"option": [
+					{
+						"content": "A：明确定义项目目标、优先事项和战略",
+						"id": "x7840A",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7840"
+					},
+					{
+						"content": "B：预算",
+						"id": "x7840B",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7840"
+					},
+					{
+						"content": "C：沟通管理计划",
+						"id": "x7840C",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7840"
+					},
+					{
+						"content": "D：变更管理计划",
+						"id": "x7840D",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7840"
+					}
+				]
+			},
+			{
+				"correct_answer": [
+					"x7841A"
+				],
+				"answer": [
+					"x7841A"
+				],
+				"analysis": "本题考规划资源管理输入—事业环境因素。项目经理要培养文化敏感性，就需要对这些文化内容进行学习，并尊重文化。D选项过于绝对，了解每个团队成员文化的每个细节，这个不现实。",
+				"question_id": "zzQuestionDiv-zzQuestionDiv7841",
+				"content": "19、\t\t项目经理刚加入一家公司，之前没有管理过具有国际团队成员的项目，项目经理应该如何培养文化敏感性？【单选】",
+				"option": [
+					{
+						"content": "A：认识到需要学习文化，设法了解当地习俗，并在与团队成员一起工作时保持灵活性",
+						"id": "x7841A",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7841"
+					},
+					{
+						"content": "B：与人力资源部门开会，以获得这方面的正式培训",
+						"id": "x7841B",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7841"
+					},
+					{
+						"content": "C：拒绝该项目，理由是与文化多样化人员一起工作存在困难",
+						"id": "x7841C",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7841"
+					},
+					{
+						"content": "D：了解每个团队成员文化的每个细节，以便对他们的需求保持敏感",
+						"id": "x7841D",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7841"
+					}
+				]
+			},
+			{
+				"correct_answer": [
+					"x7842D"
+				],
+				"answer": [
+					"x7842B"
+				],
+				"question_id": "zzQuestionDiv-zzQuestionDiv7842",
+				"content": "20、\t\t一个项目符合预算，但落后于进度，因为之前已公布将在两个月内完成该产品，客户体验副总裁（VP）为项目施加压力。副总裁要求项目经理缩短产品的测试阶段，以满足已公布的产品发布日期。\r\n项目经理下一步应该怎么做？\r\n【单选】",
+				"option": [
+					{
+						"content": "A：创建一个显示新产品发布日期的项目预测报告，这可能会改变副总裁的想法",
+						"id": "x7842A",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7842"
+					},
+					{
+						"content": "B：分析可以进行减少哪些以及如何减少以满足副总裁的要求",
+						"id": "x7842B",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7842"
+					},
+					{
+						"content": "C：通知测试团队，已经缩短时间范围并且必须得到满足",
+						"id": "x7842C",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7842"
+					},
+					{
+						"content": "D：分析缩短测试时间的可能方案，以符合副总裁的要求",
+						"id": "x7842D",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7842"
+					}
+				]
+			},
+			{
+				"correct_answer": [
+					"x7843D"
+				],
+				"answer": [
+					"x7843D"
+				],
+				"analysis": "本题考实施整体变更控制输入—变更请求。由于法律的变化，那么会涉及到项目基准的变化，应该通过变更流程来更新项目管理计划。",
+				"question_id": "zzQuestionDiv-zzQuestionDiv7843",
+				"content": "21、\t\t在项目执行阶段，批准了一项监管法律，责令立即遵守。这项法律影响项目的范围、进度和成本。\r\n项目经理首先应该做什么？\r\n【单选】",
+				"option": [
+					{
+						"content": "A：减轻风险",
+						"id": "x7843A",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7843"
+					},
+					{
+						"content": "B：更新项目管理计划",
+						"id": "x7843B",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7843"
+					},
+					{
+						"content": "C：将问题升级上报给高级管理层",
+						"id": "x7843C",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7843"
+					},
+					{
+						"content": "D：开始变更请求",
+						"id": "x7843D",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7843"
+					}
+				]
+			},
+			{
+				"correct_answer": [
+					"x7844A"
+				],
+				"answer": [
+					"x7844C"
+				],
+				"analysis": "本题考结束项目或阶段输出—项目文件更新。题目描述“项目已经交付了一个应用程序”，在所有过程中，只有结束项目或阶段过程会涉及到交付。而四个选项中只有A是结束项目或阶段的输出。",
+				"question_id": "zzQuestionDiv-zzQuestionDiv7844",
+				"content": "22、\t\t一个项目已经交付了一个应用程序。但是，在与相关方的会议中，发现该产品没有达到法律要求。项目经理应该怎么做？【单选】",
+				"option": [
+					{
+						"content": "A：更新需求文档",
+						"id": "x7844A",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7844"
+					},
+					{
+						"content": "B：修订项目管理计划",
+						"id": "x7844B",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7844"
+					},
+					{
+						"content": "C：提出变更请求",
+						"id": "x7844C",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7844"
+					},
+					{
+						"content": "D：实施要求的变更",
+						"id": "x7844D",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7844"
+					}
+				]
+			},
+			{
+				"correct_answer": [
+					"x7845A"
+				],
+				"answer": [
+					"x7845A"
+				],
+				"analysis": "本题考监督相关方参与工具—数据分析（相关方分析），输出—项目管理计划更新（相关方参与计划）。“维权组织”是一个新的相关方，对项目出现了抵制，那么就需要对该新的相关方进行分析，并更新相关方参与计划来解决这些相关方抵制问题。",
+				"question_id": "zzQuestionDiv-zzQuestionDiv7845",
+				"content": "23、\t\t一个工厂扩建项目已接近完成50%，这时一群当地居民组成一个维权组织来抗议该项目，项目经理应该怎么做？【单选】",
+				"option": [
+					{
+						"content": "A：执行相关方分析，并相应调整相关方参与计划",
+						"id": "x7845A",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7845"
+					},
+					{
+						"content": "B：通知项目发起人，该维权组织体现了项目进度的一个风险",
+						"id": "x7845B",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7845"
+					},
+					{
+						"content": "C：与该维权组织开会，将其需求添加到该项目中",
+						"id": "x7845C",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7845"
+					},
+					{
+						"content": "D：教育该维权组织，让其了解该项目将为社区带来的好处",
+						"id": "x7845D",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7845"
+					}
+				]
+			},
+			{
+				"correct_answer": [
+					"x7846A"
+				],
+				"answer": [
+					"x7846A"
+				],
+				"analysis": "本题考规划质量管理输入—组织过程资产。发起人要求项目经理制定质量管理计划，这描述本过程是规划质量管理，A输入其输入，也就是组织过程资产。C错误，成本效益分析和标杆对照样本是项目经理的职责。",
+				"question_id": "zzQuestionDiv-zzQuestionDiv7846",
+				"content": "24、\t\t一位新项目经理加入了由高级项目经理监督的项目。发起人要求新项目经理制定质量管理计划，项目经理应该怎么做？【单选】",
+				"option": [
+					{
+						"content": "A：向高级项目经理咨询已制定的质量过程和计划，并在选择适当的标准时寻求指导",
+						"id": "x7846A",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7846"
+					},
+					{
+						"content": "B：与客户开会收集需求",
+						"id": "x7846B",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7846"
+					},
+					{
+						"content": "C：要求发起人提供成本效益分析和标杆对照样本",
+						"id": "x7846C",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7846"
+					},
+					{
+						"content": "D：提交变更请求以推迟质量管理计划的制定，直至创建质量指标和质量核对单",
+						"id": "x7846D",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7846"
+					}
+				]
+			},
+			{
+				"correct_answer": [
+					"x7847A"
+				],
+				"answer": [
+					"x7847B"
+				],
+				"analysis": "本题考管理质量过程输入—项目文件（质量测量指标），输入—项目管理计划（质量管理计划）。题目强调要“执行”质量管理计划，质量领域中涉及执行的是管理质量，可以参考质量测量指标来执行管理质量过程。本题的B和C都是管理质量的工具，在本题中并没有办法进行取舍，所以从出题人的角度来看，选择输入更优先于工具。",
+				"question_id": "zzQuestionDiv-zzQuestionDiv7847",
+				"content": "25、\t\t一个大型项目包含将由分包商执行的许多阶段，团队成员各自负责一个阶段。\r\n项目经理应该使用什么来执行质量管理计划？\r\n【单选】",
+				"option": [
+					{
+						"content": "A：质量测量指标",
+						"id": "x7847A",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7847"
+					},
+					{
+						"content": "B：质量审计",
+						"id": "x7847B",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7847"
+					},
+					{
+						"content": "C：根本原因分析",
+						"id": "x7847C",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7847"
+					},
+					{
+						"content": "D：因果分析",
+						"id": "x7847D",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7847"
+					}
+				]
+			},
+			{
+				"correct_answer": [
+					"x7848B"
+				],
+				"answer": [
+					"x7848B"
+				],
+				"analysis": "本题考管理质量工具—问题解决。“用户地址簿信息的迁移不正确”，说明出现了严重的问题错误，那么应该遵循问题解决流程，先确定问题的根本原因，再找出问题的最佳解决方案。即使想要选A，向相关方解释情况，也要先查找原因。",
+				"question_id": "zzQuestionDiv-zzQuestionDiv7848",
+				"content": "26、\t\t一家组织执行了电子邮件迁移项目，虽然电子邮件迁移成功，但用户地址簿信息的迁移却不正确，这会影响到该组织的内部沟通。\r\n项目经理应该怎么做？\r\n【单选】",
+				"option": [
+					{
+						"content": "A：向所有相关方解释这种情况，然后就后续步骤达成一致",
+						"id": "x7848A",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7848"
+					},
+					{
+						"content": "B：确定迁移错误的根本原因",
+						"id": "x7848B",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7848"
+					},
+					{
+						"content": "C：要求项目团队提出纠正措施",
+						"id": "x7848C",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7848"
+					},
+					{
+						"content": "D：请求发起人批准延长项目时间",
+						"id": "x7848D",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7848"
+					}
+				]
+			},
+			{
+				"correct_answer": [
+					"x7849A"
+				],
+				"answer": [
+					"x7849A"
+				],
+				"analysis": "本题考控制成本工具—数据分析（挣值分析）。根据题意，BAC=100,000，PV=100,000*80%=80,000，EV=100,000*75%=75,000，AC=72,000。SPI=75000/80000=0.9375，CPI=75000/72000=1.0416。CPI>1，说明低于预算。所以答案选A。",
+				"question_id": "zzQuestionDiv-zzQuestionDiv7849",
+				"content": "27、\t\t到目前为止本该完成80%的一个项目只完成了75%，项目总预算为100,000美元，已完工作实际成本（ACWP）为72,000美元。\r\n根据这些信息可以确定什么？\r\n【单选】",
+				"option": [
+					{
+						"content": "A：该项目低于预算，其进度绩效指数（SPI）为0.94，成本绩效指数（CPI）为1.04",
+						"id": "x7849A",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7849"
+					},
+					{
+						"content": "B：该项目超出预算，其SPI为1.07，CPI为0.96",
+						"id": "x7849B",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7849"
+					},
+					{
+						"content": "C：该项目超出预算，其SPI为0.94，CPI为1.04",
+						"id": "x7849C",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7849"
+					},
+					{
+						"content": "D：该项目低于预算，其SPI为0.94，CPI为0.96",
+						"id": "x7849D",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7849"
+					}
+				]
+			},
+			{
+				"correct_answer": [
+					"x7850C"
+				],
+				"answer": [
+					"x7850C"
+				],
+				"analysis": "本题考结束项目或阶段工具—会议。项目已经收尾，而且确认相关方不同意的内容不属于项目工作，那么可以将这些除外责任需求建议当做一个新项目来做。由于题目描述已经做了项目评估，所以B选项也不能选。",
+				"question_id": "zzQuestionDiv-zzQuestionDiv7850",
+				"content": "28、\t\t在收尾会议上，项目发起人表示根据项目评估，项目取得成功。但一位相关方却不同意，因为没有实现他们的需求。项目经理指出，相关方的需求在项目范围说明书中被称为项目除外情况。\r\n项目经理下一步应该怎么做？\r\n【单选】",
+				"option": [
+					{
+						"content": "A：忽略该相关方的争论并继续进行收尾会议",
+						"id": "x7850A",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7850"
+					},
+					{
+						"content": "B：建议进行项目评估以确保项目已完成",
+						"id": "x7850B",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7850"
+					},
+					{
+						"content": "C：建议将这些需求作为另一个项目的范围",
+						"id": "x7850C",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7850"
+					},
+					{
+						"content": "D：在问题日志中添加该问题",
+						"id": "x7850D",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7850"
+					}
+				]
+			},
+			{
+				"correct_answer": [
+					"x7851B"
+				],
+				"answer": [
+					"x7851B"
+				],
+				"analysis": "本题考控制采购输入—项目管理计划（采购管理计划），协议。要求供应商修改产品模块，需要先查看合同中是否有相应的规定。",
+				"question_id": "zzQuestionDiv-zzQuestionDiv7851",
+				"content": "29、\t\t由于项目执行期间的范围变更，项目经理确定供应商必须对一个已在使用的产品模块进行更改。项目经理首先应该做什么？【单选】",
+				"option": [
+					{
+						"content": "A：准备一份变更请求，以更新供应商的合同条款",
+						"id": "x7851A",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7851"
+					},
+					{
+						"content": "B：检查采购管理计划和合同条款",
+						"id": "x7851B",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7851"
+					},
+					{
+						"content": "C：将该信息更新到风险登记册和问题日志",
+						"id": "x7851C",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7851"
+					},
+					{
+						"content": "D：直接与供应商谈判达成协议",
+						"id": "x7851D",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7851"
+					}
+				]
+			},
+			{
+				"correct_answer": [
+					"x7852A"
+				],
+				"answer": [
+					"x7852A"
+				],
+				"analysis": "本题考监督风险输入—项目管理计划（风险管理计划），输出—变更请求，项目管理计划更新（风险管理计划）。“在项目开始时选择的风险管理方法”属于风险管理计划的内容，计划的改变需要走变更流程，而风险领域的变更如何进行，应该先查看风险管理计划。",
+				"question_id": "zzQuestionDiv-zzQuestionDiv7852",
+				"content": "30、\t\t根据迄今为止取得的项目进展，项目团队希望改变他们在项目开始时选择的风险管理方法，项目经理批准这项请求以确保项目成功，并继续进行项目活动。\r\n项目经理本应怎么做？\r\n【单选】",
+				"option": [
+					{
+						"content": "A：查阅风险管理计划，并鼓励项目团队遵循项目的约定变更控制流程",
+						"id": "x7852A",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7852"
+					},
+					{
+						"content": "B：拒绝进行变更，因为这种方法已经获得相关方的同意",
+						"id": "x7852B",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7852"
+					},
+					{
+						"content": "C：告诉项目团队，风险管理方法是根据项目需求确定的，不能改变",
+						"id": "x7852C",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7852"
+					},
+					{
+						"content": "D：因项目团队确定新的风险管理方法而奖励团队",
+						"id": "x7852D",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7852"
+					}
+				]
+			},
+			{
+				"correct_answer": [
+					"x7853D"
+				],
+				"answer": [
+					"x7853C"
+				],
+				"analysis": "本题考变更流程。题目描述“已遵循纠正措施和变更管理程序”，说明变更已经进入正式变更流程。四个选项中D选项属于变更流程中的各个步骤。A选项的问题日志、工作绩效数据，C选项中的工作绩效报告均不在流程中。B选项，项目经理不能直接批准变更请求。",
+				"question_id": "zzQuestionDiv-zzQuestionDiv7853",
+				"content": "31、\t\t项目经理正在开展与IT系统开发相关的项目。负责安装服务器的一位团队成员询问项目经理是否可以订购具有比原计划更快处理器的服务器。这款服务器来自同一制造商，成本大致相同。主题专家（SME）分析并确定已遵循纠正措施和变更管理程序。\r\n项目经理下一步应该怎么做？\r\n【单选】",
+				"option": [
+					{
+						"content": "A：更新问题日志、变更请求和工作绩效数据",
+						"id": "x7853A",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7853"
+					},
+					{
+						"content": "B：批准变更请求、更新项目管理计划并评估事业环境因素",
+						"id": "x7853B",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7853"
+					},
+					{
+						"content": "C：更新项目文件、项目管理计划和工作绩效报告",
+						"id": "x7853C",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7853"
+					},
+					{
+						"content": "D：与相关方沟通、更新变更日志并执行变更",
+						"id": "x7853D",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7853"
+					}
+				]
+			},
+			{
+				"correct_answer": [
+					"x7854D"
+				],
+				"answer": [
+					"x7854D"
+				],
+				"analysis": "本题考控制成本工具—数据分析（挣值分析）。根据题目给出数据分析，CV=EV-AC=523,000-643,000=-120,000；SV=EV-PV=523,000-623,000=100,000。",
+				"question_id": "zzQuestionDiv-zzQuestionDiv7854",
+				"content": "32、\t\t在一个价值100万美元的项目中途，项目经理进行挣值分析（EVA）。分析显示计划价值（PV）为623,000美元，挣值（EV）为523,000美元，实际成本（AC）为643,000美元。\r\n根据这些数字，项目的成本偏差（CV）和进度偏差（SV）分别是多少？\r\n【单选】",
+				"option": [
+					{
+						"content": "A：CV=+120,000美元，SV=+100,000美元",
+						"id": "x7854A",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7854"
+					},
+					{
+						"content": "B：CV=+100,000美元，SV=+120,000美元",
+						"id": "x7854B",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7854"
+					},
+					{
+						"content": "C：CV=-100,000美元，SV=-120,000美元",
+						"id": "x7854C",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7854"
+					},
+					{
+						"content": "D：CV=-120,000美元，SV=-100,000美元",
+						"id": "x7854D",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7854"
+					}
+				]
+			},
+			{
+				"correct_answer": [
+					"x7855A"
+				],
+				"answer": [
+					"x7855A"
+				],
+				"analysis": "本题考监督沟通内容。由于项目的规模发生了变化，当前规模增大，导致项目规模增大，人员组织增加，那么沟通规划也要进行相应的更新。由于组织的变化，所以原计划已经行不通，所以B错误；C和D选项对题目遇到问题帮助不大。",
+				"question_id": "zzQuestionDiv-zzQuestionDiv7855",
+				"content": "33、\t\t一个项目的规模已经大到由指导委员会取代单一的项目发起人。项目经理应该怎么做来适应这种新发展？【单选】",
+				"option": [
+					{
+						"content": "A：认识到相关方结构发生了变化，并量身定制与这个团队的沟通",
+						"id": "x7855A",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7855"
+					},
+					{
+						"content": "B：按照最初的计划继续工作，同时认识到该项目现在包括其他相关方",
+						"id": "x7855B",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7855"
+					},
+					{
+						"content": "C：为团队组织一次与新的指导委员会一起召开的会议，继续进行项目工作",
+						"id": "x7855C",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7855"
+					},
+					{
+						"content": "D：与新的委员会分享当前的状态报告",
+						"id": "x7855D",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7855"
+					}
+				]
+			},
+			{
+				"correct_answer": [
+					"x7856A"
+				],
+				"answer": [
+					"x7856A"
+				],
+				"analysis": "本题考制定项目章程工具—人际关系与团队技能���引导）。两位团队成员拒绝一起参加项目，需要通过引导技术来使相关方的意见达成一致。本题的D选项是冲突管理中的解决步骤，但是由于两位团队成员是不愿意一起工作，而不是意见冲突，所以自行解决冲突无助于合作来签署章程。",
+				"question_id": "zzQuestionDiv-zzQuestionDiv7856",
+				"content": "34、\t\t两名团队队员拒绝一起参加同一个项目，两名团队成员的参与对实现项目目标是有必要的。若要确保两名团队成员一起合作获得项目章程的签署，项目经理应该怎么做？【单选】",
+				"option": [
+					{
+						"content": "A：鼓励两位成员发挥团队精神，并在需要时获得职能经理的支持",
+						"id": "x7856A",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7856"
+					},
+					{
+						"content": "B：让两位成员参阅团队章程，并在需要时获得职能经理的支持",
+						"id": "x7856B",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7856"
+					},
+					{
+						"content": "C：鼓励两位团队成员从其职能经理那里获得支持",
+						"id": "x7856C",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7856"
+					},
+					{
+						"content": "D：鼓励团队成员自行解决冲突",
+						"id": "x7856D",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7856"
+					}
+				]
+			},
+			{
+				"correct_answer": [
+					"x7857A"
+				],
+				"answer": [
+					"x7857A"
+				],
+				"analysis": "本题考实施整体变更控制输入—项目管理计划（变更管理计划）。团队成员对于变更有不同的意见，但是对于变更具体应该持什么太多以及如何执行，应该查看变更管理计划，并按照变更流程来做。",
+				"question_id": "zzQuestionDiv-zzQuestionDiv7857",
+				"content": "35、\t\t一个项目正在执行当中，这时一些变更引起团队的注意。这些变更是必要的，但每个人对于他们认为正确的事情都有不同意见。\r\n项目经理应该怎么做？\r\n【单选】",
+				"option": [
+					{
+						"content": "A：确保整个团队和干系人理解并遵循变更管理计划",
+						"id": "x7857A",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7857"
+					},
+					{
+						"content": "B：与项目发起人和董事会开会解决这个问题",
+						"id": "x7857B",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7857"
+					},
+					{
+						"content": "C：与团队成员开会审查这个问题，并在需要时请求变更",
+						"id": "x7857C",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7857"
+					},
+					{
+						"content": "D：对项目实施所有请求的变更，并与团队沟通",
+						"id": "x7857D",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7857"
+					}
+				]
+			},
+			{
+				"correct_answer": [
+					"x7858B"
+				],
+				"answer": [
+					"x7858B"
+				],
+				"analysis": "本题考结束项目或阶段输出—组织过程资产更新。在项目结束时，除了要收集项目的绩效，还需要做经验教训总结，这是项目收尾的重要活动，所以题目强调“这份指南中没有考虑从过往项目中获得的经验教训”，而经验教训是要总结到组织过程资产的，所以本题选B。",
+				"question_id": "zzQuestionDiv-zzQuestionDiv7858",
+				"content": "36、\t\t一家公司已经为项目经理设计了一份指南，以便在每个项目结束时举行审查会议，其目的是收集项目的负面和正面影响，刚开始一个项目的项目经理发现，这份指南中没有考虑从过往项目中获得的经验教训。\r\n这份指南应包含什么内容？\r\n【单选】",
+				"option": [
+					{
+						"content": "A：头脑风暴",
+						"id": "x7858A",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7858"
+					},
+					{
+						"content": "B：对组织过程资产的审查",
+						"id": "x7858B",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7858"
+					},
+					{
+						"content": "C：执行摘要数据表",
+						"id": "x7858C",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7858"
+					},
+					{
+						"content": "D：事业环境因素研究",
+						"id": "x7858D",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7858"
+					}
+				]
+			},
+			{
+				"correct_answer": [
+					"x7859B"
+				],
+				"answer": [
+					"x7859B"
+				],
+				"analysis": "本题考结束项目或阶段输入—验收的可交付成果。项目已经结束，如果成果移交，就不应该出现变更请求，这说明项目没有获得正式验收。应该让项目获得正式验收，来避免出现这类的问题。",
+				"question_id": "zzQuestionDiv-zzQuestionDiv7859",
+				"content": "37、\t\t一个项目已经结束，然而，项目经理和项目团队成员仍然被要求解决技术问题，进行一些小变更，并评估新的需求，若要保证项目开发的产品或服务现在具有运营支持，项目经理应该怎么做？【单选】",
+				"option": [
+					{
+						"content": "A：执行项目移交",
+						"id": "x7859A",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7859"
+					},
+					{
+						"content": "B：获得项目验收",
+						"id": "x7859B",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7859"
+					},
+					{
+						"content": "C：解散项目团队并找到一个新项目",
+						"id": "x7859C",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7859"
+					},
+					{
+						"content": "D：就像产品仍在开发中一样满足所有剩余需求",
+						"id": "x7859D",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7859"
+					}
+				]
+			},
+			{
+				"correct_answer": [
+					"x7860A"
+				],
+				"answer": [
+					"x7860A"
+				],
+				"analysis": "本题考规划质量管理工具—数据收集（标杆对照）。标杆对照是将实际或计划的项目实践或项目的质量标准与可比项目的实践或标准进行比较,以便识别最佳实践,形成改进意见,并为绩效考核提供依据。作为标杆的项目可以来自执行组织内部或外部,或者来自同一应用领域或其他应用领域。标杆对照也允许用不同应用领域或行业的项目做类比。",
+				"question_id": "zzQuestionDiv-zzQuestionDiv7860",
+				"content": "38、\t\t一家公司启动一个项目，旨在下一季度结束前提高客户满意度，项目经理应该如何确定最佳实践？【单选】",
+				"option": [
+					{
+						"content": "A：使用标杆对照",
+						"id": "x7860A",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7860"
+					},
+					{
+						"content": "B：组织焦点小组会议",
+						"id": "x7860B",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7860"
+					},
+					{
+						"content": "C：安排一次引导式研讨会",
+						"id": "x7860C",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7860"
+					},
+					{
+						"content": "D：创建一份亲和图",
+						"id": "x7860D",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7860"
+					}
+				]
+			},
+			{
+				"correct_answer": [
+					"x7861A"
+				],
+				"answer": [
+					"x7861A"
+				],
+				"analysis": "本题考制定进度计划过程内容。当前项目经理正在制定进度计划，由于进度计划没有形成基准，所以规划过程组完成之前，项目经理可以直接对进度计划进行修改。本题使用排除法，题目中没有提到资源问题，所以B选项不合适；题目没有强调范围问题，所以不选C；当前遇到的问题是进度的差异，D选项不能解决问题，所以D选项不正确。",
+				"question_id": "zzQuestionDiv-zzQuestionDiv7861",
+				"content": "39、\t\t项目经理正在为一个新项目制定项目进度计划。根据项目经理的经验，该项目需要两年才能完成。然而，公司总监要求该项目在18个月内完成。\r\n项目经理应该怎么做？\r\n【单选】",
+				"option": [
+					{
+						"content": "A：根据总监的要求修订项目进度计划",
+						"id": "x7861A",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7861"
+					},
+					{
+						"content": "B：使用资源平衡来平均项目团队成员的任务",
+						"id": "x7861B",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7861"
+					},
+					{
+						"content": "C：��少项目范围以满足修订的项目进度计划",
+						"id": "x7861C",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7861"
+					},
+					{
+						"content": "D：保持项目进度计划不变，但显示这种变更对其他制约因素的影响",
+						"id": "x7861D",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7861"
+					}
+				]
+			},
+			{
+				"correct_answer": [
+					"x7862C"
+				],
+				"answer": [
+					"x7862C"
+				],
+				"analysis": "本题考识别风险输出—风险登记册。“现场资源在接下来的两周内将不可用”属于项目风险，需要记录在风险登记册中。",
+				"question_id": "zzQuestionDiv-zzQuestionDiv7862",
+				"content": "40、\t\t项目经理从第三方供应商处收到通知说，分配给客户所在地的现场资源在接下来的两周内将不可用。项目经理应该更新哪一份文件？【单选】",
+				"option": [
+					{
+						"content": "A：问题日志",
+						"id": "x7862A",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7862"
+					},
+					{
+						"content": "B：团队任务",
+						"id": "x7862B",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7862"
+					},
+					{
+						"content": "C：风险登记册",
+						"id": "x7862C",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7862"
+					},
+					{
+						"content": "D：责任分配���阵",
+						"id": "x7862D",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7862"
+					}
+				]
+			},
+			{
+				"correct_answer": [
+					"x7863D"
+				],
+				"answer": [
+					"x7863D"
+				],
+				"analysis": "本题考组织过程资产内容。组织过程资产分为两类，一类是流程、程序、模板等，需要PMO来帮助更新；第二类是在整个项目期间结合项目信息而更新的。例如,整个项目期间会持续更新与财务绩效、经验教训、绩效指标和问题以及缺陷相关的信息。",
+				"question_id": "zzQuestionDiv-zzQuestionDiv7863",
+				"content": "41、\t\t项目经理在两个期限紧迫的项目之间轮替，尽管时间有限，但他决定从这两个项目中收集经验教训。项目经理应如何收集经验教训？【单选】",
+				"option": [
+					{
+						"content": "A：在每个项目完成时记录经验教训",
+						"id": "x7863A",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7863"
+					},
+					{
+						"content": "B：请求知识管理部门的帮助",
+						"id": "x7863B",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7863"
+					},
+					{
+						"content": "C：存档项目会议的所有会议记录",
+						"id": "x7863C",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7863"
+					},
+					{
+						"content": "D：从启动阶段开始，定期记录经验教训",
+						"id": "x7863D",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7863"
+					}
+				]
+			},
+			{
+				"correct_answer": [
+					"x7864D"
+				],
+				"answer": [
+					"x7864D"
+				],
+				"analysis": "本题考管理团队输入—项目管理计划（资源管理计划）。项目中出现资源的变动，做出相应的响应，应该先查看资源管理计划，资源管理计划中记录了管理资源的原则和方法。",
+				"question_id": "zzQuestionDiv-zzQuestionDiv7864",
+				"content": "42、\t\t在一个项目中途，一位关键项目团队成员由于私事请假两个月，项目经理首先应该怎么做？【单选】",
+				"option": [
+					{
+						"content": "A：询问这位关键团队成员是否可以推迟请假",
+						"id": "x7864A",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7864"
+					},
+					{
+						"content": "B：与职能经理协商换一名团队成员",
+						"id": "x7864B",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7864"
+					},
+					{
+						"content": "C：评估对项目的影响",
+						"id": "x7864C",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7864"
+					},
+					{
+						"content": "D：审查资源管理计划",
+						"id": "x7864D",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7864"
+					}
+				]
+			},
+			{
+				"correct_answer": [
+					"x7865B"
+				],
+				"answer": [
+					"x7865B"
+				],
+				"analysis": "本题考收集需求工具—专家判断。题目要求收集需求，而A、B、D三个选项都是收集需求的工具，那么就需要从题干中找关键字。题目中强调“在该市场中没有经验”，项目经理需要经验，可以通过专家判断来获取。",
+				"question_id": "zzQuestionDiv-zzQuestionDiv7865",
+				"content": "43、\t\t一家公司正在冒险进入一项新业务，但之前在该市场中没有经验，项目经理应使用什么工具或技术来收集需求？【单选】",
+				"option": [
+					{
+						"content": "A：原型法",
+						"id": "x7865A",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7865"
+					},
+					{
+						"content": "B：专家判断",
+						"id": "x7865B",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7865"
+					},
+					{
+						"content": "C：产品分析",
+						"id": "x7865C",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7865"
+					},
+					{
+						"content": "D：制定决策",
+						"id": "x7865D",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7865"
+					}
+				]
+			},
+			{
+				"correct_answer": [
+					"x7866B"
+				],
+				"answer": [
+					"x7866B"
+				],
+				"analysis": "本题考实施整体变更控制过程。项目中的变更必须是正式的，而且要根据变更管理计划中定义的变更流程来指导进行，变更流程外的变更请求是不被允许的。",
+				"question_id": "zzQuestionDiv-zzQuestionDiv7866",
+				"content": "44、\t\t项目团队成员习惯于在制定好的变更控制过程之外进行变更。在一次团队会议上，向公司董事会发出另一个变更请求。\r\n项目经理应该怎么做？\r\n【单选】",
+				"option": [
+					{
+						"content": "A：接受该变更请求，并继续管理项目以满足其要求和进度计划",
+						"id": "x7866A",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7866"
+					},
+					{
+						"content": "B：通知请求者应该通过变更控制过程来处理变更",
+						"id": "x7866B",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7866"
+					},
+					{
+						"content": "C：召开一次团队建设会议，希望团队在所有变更之后重新走回正轨",
+						"id": "x7866C",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7866"
+					},
+					{
+						"content": "D：向项目发起人询问有关变更和项目绩效的详细信息",
+						"id": "x7866D",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7866"
+					}
+				]
+			},
+			{
+				"correct_answer": [
+					"x7867A"
+				],
+				"answer": [
+					"x7867A"
+				],
+				"analysis": "本题考监督沟通输入—项目管理计划（沟通管理计划），监督相关方参与（相关方参与计划）。“这种沟通方式未能满足相关方的期望”，说明相关方的沟通需求没有被满足，相关方沟通需求属于沟通管理计划和相关方参与计划的内容。",
+				"question_id": "zzQuestionDiv-zzQuestionDiv7867",
+				"content": "45、\t\t一个项目延迟交付，且需要进行变更才能获得理想的可交付成果质量级别。项目经理签发正式的变更请求，并与所有相关方沟通变更，然后项目经理得知这种沟通方式未能满足相关方的期望。\r\n项目经理应该怎么做？\r\n【单选】",
+				"option": [
+					{
+						"content": "A：审查沟通管理计划和相关方参与计划",
+						"id": "x7867A",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7867"
+					},
+					{
+						"content": "B：签发变更请求，在项目管理计划中包含相关方的期望",
+						"id": "x7867B",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7867"
+					},
+					{
+						"content": "C：与项目发起人开会，以更好地了解相关方的期望",
+						"id": "x7867C",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7867"
+					},
+					{
+						"content": "D：遵循沟通管理计划，并签发一份状态报告",
+						"id": "x7867D",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7867"
+					}
+				]
+			},
+			{
+				"correct_answer": [
+					"x7868B"
+				],
+				"answer": [
+					"x7868B"
+				],
+				"analysis": "本题考风险管理流程。项目中识别了风险，如果要规划风险应对，应该先进行风险的定性和定量分析，所以本题选择B比较好。",
+				"question_id": "zzQuestionDiv-zzQuestionDiv7868",
+				"content": "46、\t\t在项目执行过程中，职能经理识别到有关外包团队的新内部风险，职能经理要求项目经理提供一个不会对项目产生负面影响的快速解决方案。\r\n项目经理应该怎么做？\r\n【单选】",
+				"option": [
+					{
+						"content": "A：制定风险分解结构（RBS）",
+						"id": "x7868A",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7868"
+					},
+					{
+						"content": "B：根据影响的严重程度来评估风险",
+						"id": "x7868B",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7868"
+					},
+					{
+						"content": "C：实现风险策略",
+						"id": "x7868C",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7868"
+					},
+					{
+						"content": "D：使用变更管理计划",
+						"id": "x7868D",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7868"
+					}
+				]
+			},
+			{
+				"correct_answer": [
+					"x7869C"
+				],
+				"answer": [
+					"x7869C"
+				],
+				"analysis": "本题考结束项目或阶段工具—会议。会议用于确认可交付成果已通过验收,确定已达到退出标准,正式关闭合同,评估相关方满意度,收集经验教训,传递项目知识和信息,以及庆祝成功。参会者可包括项目团队成员,以及参与项目或受项目影响的其他相关方。在本题中，C选项要比A选项更好，因为项目的相关方并不一定所有人都参加该经验教训总结会议。",
+				"question_id": "zzQuestionDiv-zzQuestionDiv7869",
+				"content": "47、\t\t涉及一家全球公司10家分公司的项目即将完成。项目经理正在安排召开一次经验教训总结会议。\r\n项目经理应该邀请谁来参加会议？\r\n【单选】",
+				"option": [
+					{
+						"content": "A：所有相关方",
+						"id": "x7869A",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7869"
+					},
+					{
+						"content": "B：项目经理的业务部门主管",
+						"id": "x7869B",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7869"
+					},
+					{
+						"content": "C：项目团队的所有成员",
+						"id": "x7869C",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7869"
+					},
+					{
+						"content": "D：高级管理层",
+						"id": "x7869D",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7869"
+					}
+				]
+			},
+			{
+				"correct_answer": [
+					"x7870B"
+				],
+				"answer": [
+					"x7870B"
+				],
+				"analysis": "本题考监督风险输出—项目文件更新（风险登记册更新）。由于风险的敞口增加，那么以往制定的风险应对措施也不再合适，应该对风险应对措施进行及时更新。",
+				"question_id": "zzQuestionDiv-zzQuestionDiv7870",
+				"content": "48、\t\t在项目开始时提出一个涉及盗窃的安全风险，并且创建一个行动项作为应对措施。两个月后，敞口增加，现在必须考虑新的行动项。但是，项目经理不愿意增加新的风险或更新当前的风险，因为已经制定了计划应对措施。\r\n项目经理应该怎么做？\r\n【单选】",
+				"option": [
+					{
+						"content": "A：创建另一个风险，因为每个已识别到的风险都有一个应对措施",
+						"id": "x7870A",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7870"
+					},
+					{
+						"content": "B：采用新的应对措施更新现有风险，因为一种风险可能有多个应对措施",
+						"id": "x7870B",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7870"
+					},
+					{
+						"content": "C：制定一份管理计划以处理已识别风险的应对措施",
+						"id": "x7870C",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7870"
+					},
+					{
+						"content": "D：在决定如何进行之前，检查风险责任人的数量",
+						"id": "x7870D",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7870"
+					}
+				]
+			},
+			{
+				"correct_answer": [
+					"x7871B"
+				],
+				"answer": [
+					"x7871B"
+				],
+				"analysis": "本题考监督相关方参与过程内容。项目经理应该让相关方持续地参与项目过程，就需要让相关方定期参与项目的关键决策，才能提高相关方的主人翁意识。",
+				"question_id": "zzQuestionDiv-zzQuestionDiv7871",
+				"content": "49、\t\t一家组织正在开展一个软件应用程序开发项目。有不同的相关方参与到该项目的不同阶段。\r\n项目经理应该如何让相关方在整个项目过程中参与？\r\n【单选】",
+				"option": [
+					{
+						"content": "A：使用来自相关方的信息来制定项目需求",
+						"id": "x7871A",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7871"
+					},
+					{
+						"content": "B：定期与所有相关方确认关键项目决策",
+						"id": "x7871B",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7871"
+					},
+					{
+						"content": "C：让相关方参与制定项目商业论证",
+						"id": "x7871C",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7871"
+					},
+					{
+						"content": "D：不断与所有相关方分享项目状态报告",
+						"id": "x7871D",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7871"
+					}
+				]
+			},
+			{
+				"correct_answer": [
+					"x7872A"
+				],
+				"answer": [
+					"x7872A"
+				],
+				"analysis": "本题考规划风险应对输出—项目文件更新（风险登记册）。项目经理识别了风险，风险识别后，要做风险分析和风险应对，四个选项中只有A选项合适。",
+				"question_id": "zzQuestionDiv-zzQuestionDiv7872",
+				"content": "50、\t\t在项目实施过程中，营销部门通知项目经理说，产品的市场需求已经发生了变化，之前未曾预料到这些变化，可能会跟着影响潜在的销售数量，并可能影响项目范围。\r\n项目经理应该怎么做？\r\n【单选】",
+				"option": [
+					{
+						"content": "A：规划风险应对，并更新风险登记册",
+						"id": "x7872A",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7872"
+					},
+					{
+						"content": "B：应用预测方法",
+						"id": "x7872B",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7872"
+					},
+					{
+						"content": "C：计划使用应急储备并更新风险减轻计划",
+						"id": "x7872C",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7872"
+					},
+					{
+						"content": "D：使用挣值管理（EVM）方法",
+						"id": "x7872D",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7872"
+					}
+				]
+			},
+			{
+				"correct_answer": [
+					"x7873A"
+				],
+				"answer": [
+					"x7873A"
+				],
+				"analysis": "本题考制定进度计划工具—关键路径法。根据关键路径的定义，网络图中持续时间最长的路径是关键路径。由于每个任务的持续时间都是三天，那么可以得出最长的路径是HIJ=10+3+3=16天。",
+				"question_id": "zzQuestionDiv-zzQuestionDiv7873",
+				"content": "51、\t\t项目经理得知，由于供应商的延误，任务I应该在任务H开始10天后开始，项目经理生成一份网络图，其中每个任务有三天的持续时间，并重新评估关键路径。\r\n新的关键路径是什么？\r\n【单选】",
+				"option": [
+					{
+						"content": "A：H-I-J",
+						"id": "x7873A",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7873"
+					},
+					{
+						"content": "B：A-B-C-D-E",
+						"id": "x7873B",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7873"
+					},
+					{
+						"content": "C：H-F-G",
+						"id": "x7873C",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7873"
+					},
+					{
+						"content": "D：H-C-D-E",
+						"id": "x7873D",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7873"
+					}
+				]
+			},
+			{
+				"correct_answer": [
+					"x7874B"
+				],
+				"answer": [
+					"x7874B"
+				],
+				"analysis": "本题考规划沟通管理输出—沟通管理计划。根据题意，可以了解到当前的沟通方法和信息频率并不适合该相关方，应该在项目的早期针对不同的相关方制定沟通策略。",
+				"question_id": "zzQuestionDiv-zzQuestionDiv7874",
+				"content": "52、\t\t一个项目已经发生偏差几个月了。这种状态已通过电子邮件在每周报告中发送给所有相关方。一位关键相关方刚刚得到这一偏差，并对只通过电子邮件通知他们感到不安。\r\n若要预防这个问题，项目经理应该事先做什么？\r\n【单选】",
+				"option": [
+					{
+						"content": "A：确认所有相关方都收到并理解每份状态报告",
+						"id": "x7874A",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7874"
+					},
+					{
+						"content": "B：为每个相关方选择适当的沟通方法",
+						"id": "x7874B",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7874"
+					},
+					{
+						"content": "C：直接与关键相关方就重要问题或项目偏差进行接洽",
+						"id": "x7874C",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7874"
+					},
+					{
+						"content": "D：计划与关键相关方定期举行会议以报告项目状态",
+						"id": "x7874D",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7874"
+					}
+				]
+			},
+			{
+				"correct_answer": [
+					"x7875A"
+				],
+				"answer": [
+					"x7875C"
+				],
+				"analysis": "本题考监督风险工具—会议。根据题意，我们了解“风险减轻程序和工作的预算减少”，这可能是之前已经识别到的风险，现在遇到对风险的变化进行分析，分析之后再更新风险登记册。",
+				"question_id": "zzQuestionDiv-zzQuestionDiv7875",
+				"content": "53、\t\t在执行一个道路维修项目期间，风险减轻程序和工作的预算减少，项目经理首先应该怎么做？【单选】",
+				"option": [
+					{
+						"content": "A：执行风险分析",
+						"id": "x7875A",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7875"
+					},
+					{
+						"content": "B：提交变更请求",
+						"id": "x7875B",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7875"
+					},
+					{
+						"content": "C：更新风险登记册",
+						"id": "x7875C",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7875"
+					},
+					{
+						"content": "D：修订成本基准",
+						"id": "x7875D",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7875"
+					}
+				]
+			},
+			{
+				"correct_answer": [
+					"x7876C"
+				],
+				"answer": [
+					"x7876C"
+				],
+				"analysis": "本题考制定项目章程输出—项目章程（高层级风险）。题目强调项目启动，那么可以将本题归到制定项目章程过程。该过程输出是项目章程，其中12项内容之一是高层级风险。本题不能选D，竞争对手分析属于公司战略分析部分，不属于项目范畴。其他两项也不属于启动过程组。",
+				"question_id": "zzQuestionDiv-zzQuestionDiv7876",
+				"content": "54、\t\t一家公司计划交付一种新产品，但目前无法获得需要的技能。若要启动这个项目，项目经理应该把重点放在哪里？【单选】",
+				"option": [
+					{
+						"content": "A：详细的项目需求",
+						"id": "x7876A",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7876"
+					},
+					{
+						"content": "B：质量控制",
+						"id": "x7876B",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7876"
+					},
+					{
+						"content": "C：高层级风险的评估",
+						"id": "x7876C",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7876"
+					},
+					{
+						"content": "D：竞争对手分析",
+						"id": "x7876D",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7876"
+					}
+				]
+			},
+			{
+				"correct_answer": [
+					"x7877C"
+				],
+				"answer": [
+					"x7877C"
+				],
+				"analysis": "本题考建设团队工具—人际关系与团队技能（团队建设），管理团队工具—冲突管理（合作/解决问题）。项目团队成员不合作，那么需要进行团队建设，而且不合作可以理解为冲突，可以通过冲突管理来解决，进行团队建设活动，可以理解为合作/解决问题方法。",
+				"question_id": "zzQuestionDiv-zzQuestionDiv7877",
+				"content": "55、\t\t因为一些团队成员不合作，一个拥有多元化团队的项目经理需要处理冲突。项目经理应该怎么做？【单选】",
+				"option": [
+					{
+						"content": "A：定期召开电话会议反复重申共同目标，并向该团队成员解释应该作为一个团队共同合作",
+						"id": "x7877A",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7877"
+					},
+					{
+						"content": "B：与不合作的团队成员开会",
+						"id": "x7877B",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7877"
+					},
+					{
+						"content": "C：与所有团队成员一起进行团队建设活动",
+						"id": "x7877C",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7877"
+					},
+					{
+						"content": "D：向所有团队成员发送一封电子邮件解释说，这种行为是不能容忍的",
+						"id": "x7877D",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7877"
+					}
+				]
+			},
+			{
+				"correct_answer": [
+					"x7878C"
+				],
+				"answer": [
+					"x7878C"
+				],
+				"analysis": "本题考识别相关方输出—相关方登记册。展示项目章程意味这目前在启动过程组，启动过程组需要识别相关方，了解到相关方的期望，以便后续制定相关方参与计划。",
+				"question_id": "zzQuestionDiv-zzQuestionDiv7878",
+				"content": "56、\t\t项目经理向指导委员会展示项目章程。指导委员会非常担心预先分配的资源，因为相关方不了解他们在项目中的参与情况。\r\n若要避免这个问题，项目经理应该事先做什么？\r\n【单选】",
+				"option": [
+					{
+						"content": "A：获得相关方的期望",
+						"id": "x7878A",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7878"
+					},
+					{
+						"content": "B：管理相关方参与程度",
+						"id": "x7878B",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7878"
+					},
+					{
+						"content": "C：完成相关方登记册",
+						"id": "x7878C",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7878"
+					},
+					{
+						"content": "D：定义每个相关方的角色和职责",
+						"id": "x7878D",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7878"
+					}
+				]
+			},
+			{
+				"correct_answer": [
+					"x7879B"
+				],
+				"answer": [
+					"x7879B"
+				],
+				"analysis": "本题考制定项目管理计划工具—专家判断。题目中描述的高级工程师隶属于指导委员会，目的是为了监督项目管理计划的制定，其不同意计划制定的部分不是个人恩怨或冲突，而是为了让计划能够得到完整制定，那么对于该工程师提出的问题，应该加以解决，来满足其需要。",
+				"question_id": "zzQuestionDiv-zzQuestionDiv7879",
+				"content": "57、\t\t项目发起人任命一位高级工程师到指导委员会，来帮助监督项目管理计划。该工程师经常不同意由项目团队制定的计划，并在提交批准之前对项目管理计划表达严重关切。\r\n项目经理应该怎么做？\r\n【单选】",
+				"option": [
+					{
+						"content": "A：通知项目发起人，该工程师延迟了规划过程",
+						"id": "x7879A",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7879"
+					},
+					{
+						"content": "B：与指导委员会一起审查项目计划，并解决该工程师提出的任何问题",
+						"id": "x7879B",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7879"
+					},
+					{
+						"content": "C：与该工程师进行私下会议，了解并解决他关切的问题",
+						"id": "x7879C",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7879"
+					},
+					{
+						"content": "D：提交项目管理计划，并在以后通过遵循变更管理程序解决该工程师关切的问题",
+						"id": "x7879D",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7879"
+					}
+				]
+			},
+			{
+				"correct_answer": [
+					"x7880B"
+				],
+				"answer": [
+					"x7880B"
+				],
+				"analysis": "本题考监控项目工作输出—变更请求。题目中对于文档格式的要求是客户提出来的，由于项目的目标是为客户服务，应该重点考虑客户的要求，对于原格式，应该提交变更请求，由CCB来审批格式的改变。",
+				"question_id": "zzQuestionDiv-zzQuestionDiv7880",
+				"content": "58、\t\t两个项目团队正在为同一个项目工作。一个团队在海外的客户现场工作，另一个团队在公司总部工作。客户要求新的文档格式以符合当地法律以及战略供应商的新要求。位于公司总部的团队抱怨说，公司已有程序和政策规定不允许对文档格式进行任何变更。\r\n客户现场的项目经理应该怎么做？\r\n【单选】",
+				"option": [
+					{
+						"content": "A：向前推进项目，并在问题日志中更新客户请求的详细信息",
+						"id": "x7880A",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7880"
+					},
+					{
+						"content": "B：请求变更以获得公司总部的新格式",
+						"id": "x7880B",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7880"
+					},
+					{
+						"content": "C：根据客户请求修改格式，并通知公司团队",
+						"id": "x7880C",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7880"
+					},
+					{
+						"content": "D：与公司总部的项目经理召开视频会议以解决该问题",
+						"id": "x7880D",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7880"
+					}
+				]
+			},
+			{
+				"correct_answer": [
+					"x7881A"
+				],
+				"answer": [
+					"x7881A"
+				],
+				"analysis": "本题考识别风险输出—风险登记册。题目描述的“项目经理担心可能威胁到项目成功的意外事件”属于风险，应该在项目的早期识别风险并评估。",
+				"question_id": "zzQuestionDiv-zzQuestionDiv7881",
+				"content": "59、\t\t项目经理加入一个刚刚开始的项目。项目发起人和项目团队向新项目经理保证项目具有足够的预算和符合实际的进度计划。项目经理担心可能威胁到项目成功的意外事件。\r\n项目经理应该怎么做？\r\n【单选】",
+				"option": [
+					{
+						"content": "A：识别并评估任何项目风险",
+						"id": "x7881A",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7881"
+					},
+					{
+						"content": "B：请求项目发起人为项目规划提供额外资金",
+						"id": "x7881B",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7881"
+					},
+					{
+						"content": "C：与职能经理讨论潜在的计划外风险",
+						"id": "x7881C",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7881"
+					},
+					{
+						"content": "D：关注按计划执行项目",
+						"id": "x7881D",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7881"
+					}
+				]
+			},
+			{
+				"correct_answer": [
+					"x7882C"
+				],
+				"answer": [
+					"x7882C"
+				],
+				"analysis": "以这里答案为准。",
+				"question_id": "zzQuestionDiv-zzQuestionDiv7882",
+				"content": "60、\t\t项目发起人通知项目经理一种产品可能会对客户产生不利于健康的影响。因此，发起人要求改变生产材料。\r\n项目经理应该怎么做？\r\n【单选】",
+				"option": [
+					{
+						"content": "A：通过遵循实施整体变更控制过程，进一步调查该事项",
+						"id": "x7882A",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7882"
+					},
+					{
+						"content": "B：立即实施这项变更并提交正式文档的变更请求",
+						"id": "x7882B",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7882"
+					},
+					{
+						"content": "C：停止当前工作，并启动实施整体变更控制过程",
+						"id": "x7882C",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7882"
+					},
+					{
+						"content": "D：拒绝该请求，因为已超出范围",
+						"id": "x7882D",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7882"
+					}
+				]
+			},
+			{
+				"correct_answer": [
+					"x7883B"
+				],
+				"answer": [
+					"x7883B"
+				],
+				"analysis": "本题考规划采购管理输出—采购工作说明书。题目要求“要确保他们的报价具有可比性”，报价的可比性是在统一的质量标准上，才可以对成本进行比较的，所以应该先统一产品的要求标准。",
+				"question_id": "zzQuestionDiv-zzQuestionDiv7883",
+				"content": "61、\t\t项目经理想要采购一些定制产品，且可以从多个供应商处获得相同等级和质量的定制产品。若要确保他们的报价具有可比性，采购包中应包含哪些内容？【单选】",
+				"option": [
+					{
+						"content": "A：定制产品的成本估算",
+						"id": "x7883A",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7883"
+					},
+					{
+						"content": "B：详细说明所需产品必须属性和测量指标的工作说明书（SOW）",
+						"id": "x7883B",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7883"
+					},
+					{
+						"content": "C：经批准的项目范围说明书、工作分解结构（WBS）和WBS词典",
+						"id": "x7883C",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7883"
+					},
+					{
+						"content": "D：风险管理计划以及风险管理审查报告",
+						"id": "x7883D",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7883"
+					}
+				]
+			},
+			{
+				"correct_answer": [
+					"x7884D"
+				],
+				"answer": [
+					"x7884D"
+				],
+				"analysis": "本题考规划采购管理输入—组织过程资产（合同类型）。对于长期合同，对买方最好的就是总价加经济价格调整合同(FPEPA)。这种合同适用于两种情况:卖方履约期将跨越几年时间, 或将以不同货币支付价款。它是总价合同的一种类型,但合同中包含了特殊条款,允许 根据条件变化,如通货膨胀、某些特殊商品的成本增加(或降低),以事先确定的方式 对合同价格进行最终调整。",
+				"question_id": "zzQuestionDiv-zzQuestionDiv7884",
+				"content": "62、\t\t对于一个长期的基础设施项目，由于全球商业环境，项目经理必须获得风险最小的供应商，项目经理应该使用什么合同类型？【单选】",
+				"option": [
+					{
+						"content": "A：固定总价合同（FFP）",
+						"id": "x7884A",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7884"
+					},
+					{
+						"content": "B：成本加固定费用合同（CPFF）",
+						"id": "x7884B",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7884"
+					},
+					{
+						"content": "C：总价加激励费用合同（FPIF）",
+						"id": "x7884C",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7884"
+					},
+					{
+						"content": "D：总价加经济价格调整合同（FP-EPA）",
+						"id": "x7884D",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7884"
+					}
+				]
+			},
+			{
+				"correct_answer": [
+					"x7885D"
+				],
+				"answer": [
+					"x7885D"
+				],
+				"analysis": "本题考控制范围输出—变更请求。未经控制的产品或项目范围的扩大(未对时间、成本和资源做相应调整)被称为范围蔓延。范围蔓延应该通过变更管理程序来加以控制。",
+				"question_id": "zzQuestionDiv-zzQuestionDiv7885",
+				"content": "63、\t\t项目团队正在努力进行可交付成果的工作，以满足计划的进度，一名团队成员发现范围蔓延正在影响项目成本。\r\n项目经理应该怎么做？\r\n【单选】",
+				"option": [
+					{
+						"content": "A：执行风险评估和范围变更管理程序",
+						"id": "x7885A",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7885"
+					},
+					{
+						"content": "B：允许范围蔓延，并与变更控制委员会（CCB）沟通以获得批准",
+						"id": "x7885B",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7885"
+					},
+					{
+						"content": "C：估算对项目的影响，并将结果传达给项目相关方",
+						"id": "x7885C",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7885"
+					},
+					{
+						"content": "D：调查为什么会发生范围蔓延，并立即启动变更管理程序",
+						"id": "x7885D",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7885"
+					}
+				]
+			},
+			{
+				"correct_answer": [
+					"x7886D"
+				],
+				"answer": [
+					"x7886D"
+				],
+				"analysis": "本题考制定项目管理计划工具—人际关系与团队技能（引导），滚动式规划。题目描述当前的计划得到了三个国家的批准，理论上应该得到全部重要相关方的批准项目才可以批准执行，但是项目不可能无限制的等待下去，由于大多数同意，项目可以先开始执行，再等待其他相关方的意见。",
+				"question_id": "zzQuestionDiv-zzQuestionDiv7886",
+				"content": "64、\t\t一个项目已经启动，该项目拟标准化四个国家的人力资源模块开发。每个国家都有不同的人力资源管理流程。其中两个国家的相关方没有提供任何意见，迫使项目经理在没有他们的意见情况下制定项目计划。因此，项目经理使用基于其中两个国家当前流程的标准方法创建了一份项目计划，并将其发送给四个国家的所有相关方进行批准。到目前为止已收到三份批准。\r\n项目经理下一步应该怎么做？\r\n【单选】",
+				"option": [
+					{
+						"content": "A：开始项目执行，因为项目计划不需要所有相关方的意见",
+						"id": "x7886A",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7886"
+					},
+					{
+						"content": "B：开始项目，因为大多数相关方已经批准了这项计划",
+						"id": "x7886B",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7886"
+					},
+					{
+						"content": "C：等到所有项目相关方都参与并批准项目计划，然后开始项目执行",
+						"id": "x7886C",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7886"
+					},
+					{
+						"content": "D：等待所有相关方的意见，然后由于大多数相关方已经批准，先开始项目执行",
+						"id": "x7886D",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7886"
+					}
+				]
+			},
+			{
+				"correct_answer": [
+					"x7887A"
+				],
+				"answer": [
+					"x7887A"
+				],
+				"analysis": "本题考结束项目或阶段工具—会议。项目已经结束，如果要在将来避免这种情况，应该做经验教训的总结。",
+				"question_id": "zzQuestionDiv-zzQuestionDiv7887",
+				"content": "65、\t\t在一次迭代结束时，一位团队成员告诉项目经理，由于几天前出现且无法解决的问题，一个计划任务未完成，若要在将来避免这种情况，项目经理应该怎么做？【单选】",
+				"option": [
+					{
+						"content": "A：在回顾总结会议上讨论该问题",
+						"id": "x7887A",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7887"
+					},
+					{
+						"content": "B：在演示中说明该问题",
+						"id": "x7887B",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7887"
+					},
+					{
+						"content": "C：在下一次迭代规划会上讨论该问题",
+						"id": "x7887C",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7887"
+					},
+					{
+						"content": "D：在下一次每日站会上审查该问题",
+						"id": "x7887D",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7887"
+					}
+				]
+			},
+			{
+				"correct_answer": [
+					"x7888A"
+				],
+				"answer": [
+					"x7888A"
+				],
+				"analysis": "本题考规划风险应对工具—应急应对策略。根据题意，我们可以把“这个活动的两个项目资源调去”理解为已经识别的风险，那么对于该情况应该制定好应急应对策略，那么首先我们应该先查阅风险登记册中的应急应对策略是什么来进行下一步处理。BCD都可以理解为是应急应对策略的一种。",
+				"question_id": "zzQuestionDiv-zzQuestionDiv7888",
+				"content": "66、\t\t在执行关键路径上的一项活动时，职能主管将涉及这个活动的两个项目资源调去支持解决某个应急情况。\r\n项目经理应该怎么做？\r\n【单选】",
+				"option": [
+					{
+						"content": "A：实施应急计划",
+						"id": "x7888A",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7888"
+					},
+					{
+						"content": "B：快速跟进关键路径",
+						"id": "x7888B",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7888"
+					},
+					{
+						"content": "C：与职能经理协商分配替代资源",
+						"id": "x7888C",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7888"
+					},
+					{
+						"content": "D：将该问题升级上报给该职能经理的上级",
+						"id": "x7888D",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7888"
+					}
+				]
+			},
+			{
+				"correct_answer": [
+					"x7889D"
+				],
+				"answer": [
+					"x7889D"
+				],
+				"analysis": "本题考识别相关方输出—相关方登记册。四个选项中只有D选项属于相关方登记册的内容。",
+				"question_id": "zzQuestionDiv-zzQuestionDiv7889",
+				"content": "67、\t\t项目经理已经完成识别相关方的工作。之前，由于没有对项目经理和相关方的影响力或职权方面规定区别，项目经理在管理相关方方面有困难。\r\n在相关方登记册中需要包含哪一项信息？\r\n【单选】",
+				"option": [
+					{
+						"content": "A：新相关方的变更请求",
+						"id": "x7889A",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7889"
+					},
+					{
+						"content": "B：相关方效益管理计划",
+						"id": "x7889B",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7889"
+					},
+					{
+						"content": "C：相关方参与计划",
+						"id": "x7889C",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7889"
+					},
+					{
+						"content": "D：相关方分类",
+						"id": "x7889D",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7889"
+					}
+				]
+			},
+			{
+				"correct_answer": [
+					"x7890A"
+				],
+				"answer": [
+					"x7890B"
+				],
+				"analysis": "本题考规划采购管理输出—采购管理计划（风险管理事项）。项目中识别出了资源风险，可能会涉及到外购资源或服务。本题不能选风险管理计划，风险管理计划不记录具体风险，具体风险应该记录在风险登记册中。",
+				"question_id": "zzQuestionDiv-zzQuestionDiv7890",
+				"content": "68、\t\t在制定资源管理计划时，一位项目经理得知，完成一项关键任务所需的技能组合供不应求且需求很高。项目经理将这个问题记录在资源管理计划中。\r\n若要包含这个问题，应该更新哪一份其他文件？\r\n【单选】",
+				"option": [
+					{
+						"content": "A：采购管理计划",
+						"id": "x7890A",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7890"
+					},
+					{
+						"content": "B：风险管理计划",
+						"id": "x7890B",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7890"
+					},
+					{
+						"content": "C：培训手册",
+						"id": "x7890C",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7890"
+					},
+					{
+						"content": "D：团队开发过程",
+						"id": "x7890D",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7890"
+					}
+				]
+			},
+			{
+				"correct_answer": [
+					"x7891A"
+				],
+				"answer": [
+					"x7891A"
+				],
+				"analysis": "本题考制定项目章程输入—商业文件（商业论证）。能够帮助项目经理完成项目章程的，只能是制定项目章程过程输入，四个选项中只有A属于。",
+				"question_id": "zzQuestionDiv-zzQuestionDiv7891",
+				"content": "69、\t\t一名新项目经理收到一份项目章程草案，哪些信息将帮助项目经理参与完成这份文件？【单选】",
+				"option": [
+					{
+						"content": "A：商业论证",
+						"id": "x7891A",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7891"
+					},
+					{
+						"content": "B：项目进度计划",
+						"id": "x7891B",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7891"
+					},
+					{
+						"content": "C：成本基准",
+						"id": "x7891C",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7891"
+					},
+					{
+						"content": "D：项目管理信息系统（PMIS）",
+						"id": "x7891D",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7891"
+					}
+				]
+			},
+			{
+				"correct_answer": [
+					"x7892B"
+				],
+				"answer": [
+					"x7892B"
+				],
+				"analysis": "本题考控制范围输出—变更请求。相关方提交变更请求，应该遵循变更管理计划来提交变更请求，由CCB来批准。",
+				"question_id": "zzQuestionDiv-zzQuestionDiv7892",
+				"content": "70、\t\t某位项目相关方对已批准的产品设计进行变更，程序员仅需少量工作就可进行这项变更，但是存在一个风险，即另一位相关方将不同意这项变更。\r\n项目经理应该怎么做？\r\n【单选】",
+				"option": [
+					{
+						"content": "A：由于不存在重大的财务影响，因此实施这项变更",
+						"id": "x7892A",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7892"
+					},
+					{
+						"content": "B：根据变更管理计划创建一份变更请求",
+						"id": "x7892B",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7892"
+					},
+					{
+						"content": "C：请求项目发起人的批准",
+						"id": "x7892C",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7892"
+					},
+					{
+						"content": "D：与相关相关方谈判接受这项变更",
+						"id": "x7892D",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7892"
+					}
+				]
+			},
+			{
+				"correct_answer": [
+					"x7893A"
+				],
+				"answer": [
+					"x7893A"
+				],
+				"analysis": "本题考定义范围输出—项目范围说明书（验收标准）。用户的要求是要被定义为项目范围，并且由验收标准来约束，所以对于符合验收标准并且得到客户验收的产品，不能予以变更，所以答案选择A比较好。",
+				"question_id": "zzQuestionDiv-zzQuestionDiv7893",
+				"content": "71、\t\t客户在用户测试期间同意最终产品，但现在却有另一种想法。若要解决这个问题，项目经理应该查阅哪一份文件？【单选】",
+				"option": [
+					{
+						"content": "A：验收标准",
+						"id": "x7893A",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7893"
+					},
+					{
+						"content": "B：质量管理计划",
+						"id": "x7893B",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7893"
+					},
+					{
+						"content": "C：需求文件",
+						"id": "x7893C",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7893"
+					},
+					{
+						"content": "D：项目章程",
+						"id": "x7893D",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7893"
+					}
+				]
+			},
+			{
+				"correct_answer": [
+					"x7894C"
+				],
+				"answer": [
+					"x7894C"
+				],
+				"analysis": "本题考创建WBS过程内容—100%规则。WBS 包含了全部的产品和项目工作,包括项目管理工作。通过把 WBS 底层的所有工作逐层向上汇总,来确保既没有遗漏的工作,也没有多余的工作。这有时被称为100% 规则。也就是说遗漏了可交付成果会导致项目目标无法实现，所以在发现该问题的时候，应该将遗漏的成果添加到WBS中。",
+				"question_id": "zzQuestionDiv-zzQuestionDiv7894",
+				"content": "72、\t\t项目经理负责管理一个处于执行阶段的项目，并希望审查项目范围以进行成本估算。项目经理发现在工作分解结构（WBS）中遗漏了一些可交付成果。\r\n项目经理下一步应该怎么做？\r\n【单选】",
+				"option": [
+					{
+						"content": "A：询问相关方是否需要添加这些遗漏的可交付成果",
+						"id": "x7894A",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7894"
+					},
+					{
+						"content": "B：请求项目管理办公室（PMO）批准这项工作的额外资金",
+						"id": "x7894B",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7894"
+					},
+					{
+						"content": "C：根据100%的规则将工作添加到WBS中，并重新计算项目总成本",
+						"id": "x7894C",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7894"
+					},
+					{
+						"content": "D：要求主题专家（SMEs）检查这些可交付成果是否有必要",
+						"id": "x7894D",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7894"
+					}
+				]
+			},
+			{
+				"correct_answer": [
+					"x7895C"
+				],
+				"answer": [
+					"x7895C"
+				],
+				"analysis": "本题考实施定量风险分析工具—数据分析（决策树分析）。由于题目中提到的新技术有利有弊，所以我们要决定这个新技术是否使用，可以使用决策树，决策树也成为预期货币价值分析分析技术（EMV）。用决策树在若干备选行动方案中选择一个最佳方案。在决策树中,用不同的分 支代表不同的决策或事件,即项目的备选路径。每个决策或事件都有相关的成本和单个项目风险(包括威胁和机会)。决策树分支的终点表示沿特定路径发展的最后结果,可以是负面或正面的结果。",
+				"question_id": "zzQuestionDiv-zzQuestionDiv7895",
+				"content": "73、\t\t最近发布的一项新技术可以将正在进行的开发任务加快30%。团队非常渴望使用这项新技术，但识别到由于缺乏知识和支持而可能出现问题的风险。\r\n项目经理和团队如何确定使用这种技术是否会让项目受益？\r\n【单选】",
+				"option": [
+					{
+						"content": "A：审查风险管理计划，以确定新技术是否是一项不必要的风险",
+						"id": "x7895A",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7895"
+					},
+					{
+						"content": "B：实施定量风险分析，且如果风险排在前10位，就拒绝使用这项技术",
+						"id": "x7895B",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7895"
+					},
+					{
+						"content": "C：使用预期货币价值（EMV）技术，并且如果EMV为正值，则使用这项技术",
+						"id": "x7895C",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7895"
+					},
+					{
+						"content": "D：执行敏感性分析，以确定对项目结果的潜在影响",
+						"id": "x7895D",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7895"
+					}
+				]
+			},
+			{
+				"correct_answer": [
+					"x7896B"
+				],
+				"answer": [
+					"x7896B"
+				],
+				"analysis": "本题考规划质量管理工具—质量成本。题目强调“防止”，所以属于质量成本中的预防成本。预防成本。预防特定项目的产品、可交付成果或服务质量低劣所带来的相关成本。",
+				"question_id": "zzQuestionDiv-zzQuestionDiv7896",
+				"content": "74、\t\t一家农业设备制造商因一个缺陷部件而召回数千个产品。这个问题导致许多客户不满，公司花费500万美元来修理和更换零件。\r\n哪一种成本预算类型可以防止这个问题？\r\n【单选】",
+				"option": [
+					{
+						"content": "A：非一致性成本",
+						"id": "x7896A",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7896"
+					},
+					{
+						"content": "B：一致性成本",
+						"id": "x7896B",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7896"
+					},
+					{
+						"content": "C：矩阵图",
+						"id": "x7896C",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7896"
+					},
+					{
+						"content": "D：多标准决策分析",
+						"id": "x7896D",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7896"
+					}
+				]
+			},
+			{
+				"correct_answer": [
+					"x7897A"
+				],
+				"answer": [
+					"x7897B"
+				],
+				"analysis": "本题考变更流程。IT经理提出了和原计划不符的要求，这属于变更请求，项目经理在识别变更后应该先进行影响评估，再将变更提交给CCB。",
+				"question_id": "zzQuestionDiv-zzQuestionDiv7897",
+				"content": "75、\t\t在一个IT基础设施项目的执行阶段，IT经理要求提供比预算中最初包含的服务器更昂贵的服务器。项目经理应该怎么做？【单选】",
+				"option": [
+					{
+						"content": "A：执行风险评估",
+						"id": "x7897A",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7897"
+					},
+					{
+						"content": "B：提出变更请求",
+						"id": "x7897B",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7897"
+					},
+					{
+						"content": "C：在范围说明书中核实该请求",
+						"id": "x7897C",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7897"
+					},
+					{
+						"content": "D：批准该请求",
+						"id": "x7897D",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7897"
+					}
+				]
+			},
+			{
+				"correct_answer": [
+					"x7898B"
+				],
+				"answer": [
+					"x7898B"
+				],
+				"analysis": "本题考规划风险应对工具—威胁应对策略（转移）。转移涉及到将应对威胁的责任转移给第三方,让第三方管理风险并承担威胁发生的影响。采用转移策略,通常需要向承担威胁的一方支付风险转移费用。风险转移可能需要通过一系列行动才得以实现,包括(但不限于)购买保险、使用履约保函、使用担保书、使用保证书等。也可以通过签订协议,把具体风险的归属和责任转移给第三方。题目中提出的“外包”属于转移策略。",
+				"question_id": "zzQuestionDiv-zzQuestionDiv7898",
+				"content": "76、\t\t在一个多功能项目的规划阶段，项目经理发现没有足够的资源来生产软件包，项目经理通过与第三方公司签署服务水平协议（SLA）来外包此软件包的生产。\r\n项目经理使用的是哪一项风险应对策略？\r\n【单选】",
+				"option": [
+					{
+						"content": "A：减轻",
+						"id": "x7898A",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7898"
+					},
+					{
+						"content": "B：转移",
+						"id": "x7898B",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7898"
+					},
+					{
+						"content": "C：接受",
+						"id": "x7898C",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7898"
+					},
+					{
+						"content": "D：规避",
+						"id": "x7898D",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7898"
+					}
+				]
+			},
+			{
+				"correct_answer": [
+					"x7899A"
+				],
+				"answer": [
+					"x7899A"
+				],
+				"analysis": "本题考建设团队工具—培训。题目要求“增强团队绩效”，那么属于建设团队范畴，建设团队工具包括培训，A和D都属于培训。题目描述经验丰富的资源和初级资源都有问题，所以都需要培训，那么D就会比较片面。",
+				"question_id": "zzQuestionDiv-zzQuestionDiv7899",
+				"content": "77、\t\t由于项目资源的专业水平不同，项目经理注意到进度计划绩效问题。一些经验丰富的资源会检查不必要的细节，而一些初级资源则需要长时间才能完成任务。\r\n项目经理应该怎么做来增强团队绩效？\r\n【单选】",
+				"option": [
+					{
+						"content": "A：根据需要提供培训，并为所有团队成员实施一份核对单",
+						"id": "x7899A",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7899"
+					},
+					{
+						"content": "B：请高级资源为初级资源提供协助",
+						"id": "x7899B",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7899"
+					},
+					{
+						"content": "C：更换初级资源，并通知高级资源",
+						"id": "x7899C",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7899"
+					},
+					{
+						"content": "D：对初级员工进行培训",
+						"id": "x7899D",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7899"
+					}
+				]
+			},
+			{
+				"correct_answer": [
+					"x7900D"
+				],
+				"answer": [
+					"x7900D"
+				],
+				"analysis": "本题考帕累托图内容。帕累托图能够帮助识别造成大多数问题的少数重要原因。项目中出现了很多缺陷，可以通过排序来了解最重要的原因，以便制定决策。",
+				"question_id": "zzQuestionDiv-zzQuestionDiv7900",
+				"content": "78、\t\t从大量数据中获得的质量报告表明，目前的可交付成果存在许多缺陷。项目经理应该使用什么工具或技术来获得制定决策的洞察力？【单选】",
+				"option": [
+					{
+						"content": "A：亲和图",
+						"id": "x7900A",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7900"
+					},
+					{
+						"content": "B：石川图",
+						"id": "x7900B",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7900"
+					},
+					{
+						"content": "C：控制图",
+						"id": "x7900C",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7900"
+					},
+					{
+						"content": "D：帕累托分析",
+						"id": "x7900D",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7900"
+					}
+				]
+			},
+			{
+				"correct_answer": [
+					"x7901C"
+				],
+				"answer": [
+					"x7901C"
+				],
+				"analysis": "本题考收集需求输入—项目章程。项目章程中包含可交付成果的概述信息，也可以包括假设条件和制约因素等信息。",
+				"question_id": "zzQuestionDiv-zzQuestionDiv7901",
+				"content": "79、\t\t项目经理与项目团队开会收集需求。团队成员向项目经理询问相关方是否熟悉项目的假设条件、制约因素和可交付成果。\r\n哪一份文件将概述这些信息？\r\n【单选】",
+				"option": [
+					{
+						"content": "A：项目范围说明书",
+						"id": "x7901A",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7901"
+					},
+					{
+						"content": "B：工作说明书（SOW）",
+						"id": "x7901B",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7901"
+					},
+					{
+						"content": "C：项目章程",
+						"id": "x7901C",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7901"
+					},
+					{
+						"content": "D：建议邀请书（RFP）",
+						"id": "x7901D",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7901"
+					}
+				]
+			},
+			{
+				"correct_answer": [
+					"x7902D"
+				],
+				"answer": [
+					"x7902D"
+				],
+				"analysis": "本题考结束项目或阶段输入—验收的可交付成果。项目经理已经完成了合同成果，并批准推出了该产品（endorse），由于没有得到用户的验收，所以用户不满意并提起诉讼。所以在推出产品前，应该先正式通知用户合同完成，得到用户的验收。",
+				"question_id": "zzQuestionDiv-zzQuestionDiv7902",
+				"content": "80、\t\t一个采用固定总价（FFP）合同的项目已经到达其最终里程碑。��目经理对最终产品充满信心，并向客户背书该产品。一周后，项目发起人通知项目经理，客户正在针对其所背书的产品向他们公司提起诉讼。\r\n若要避免这种情况，项目经理事先应该做什么？\r\n【单选】",
+				"option": [
+					{
+						"content": "A：确认项目团队向客户收费的工作小时数",
+						"id": "x7902A",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7902"
+					},
+					{
+						"content": "B：向客户背书该产品之前重新测试该产品",
+						"id": "x7902B",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7902"
+					},
+					{
+						"content": "C：花时间与客户一起了解项目的需求",
+						"id": "x7902C",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7902"
+					},
+					{
+						"content": "D：要求客户正式书面通知合同已经完成",
+						"id": "x7902D",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7902"
+					}
+				]
+			},
+			{
+				"correct_answer": [
+					"x7903A"
+				],
+				"answer": [
+					"x7903A"
+				],
+				"analysis": "本题考监督风险输出—项目文件更新（风险登记册）。题目描述当前项目依赖于政府的补贴政策，而政府宣布该项目“可能”不会继续补贴，并没有明确说明以后不再补贴，只是提高了不再补贴的概率，所以属于风险水平的提高，并没有实际产生问题，所以本题选择A比较合适。",
+				"question_id": "zzQuestionDiv-zzQuestionDiv7903",
+				"content": "81、\t\t当地政府为节能活动提供补贴，一家组织正在规划一个安装太阳能电池板以降低能源成本的项目。在太阳能电池板项目启动后，政府宣布太阳能电池板可能不会继续符合补贴资格。\r\n项目经理应该怎么做？\r\n【单选】",
+				"option": [
+					{
+						"content": "A：提高风险水平",
+						"id": "x7903A",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7903"
+					},
+					{
+						"content": "B：更新问题日志",
+						"id": "x7903B",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7903"
+					},
+					{
+						"content": "C：使用应急储备",
+						"id": "x7903C",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7903"
+					},
+					{
+						"content": "D：创建变更请求",
+						"id": "x7903D",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7903"
+					}
+				]
+			},
+			{
+				"correct_answer": [
+					"x7904D"
+				],
+				"answer": [
+					"x7904D"
+				],
+				"analysis": "本题考定性风险分析内容。对风险进行优先级排序，属于定性风险分析过程的内容。实施定性风险分析—通过评估单个项目风险发生的概率和影响以及其他特征,对风险进行优先级排序,从而为后续分析或行动提供基础的过程。",
+				"question_id": "zzQuestionDiv-zzQuestionDiv7904",
+				"content": "82、\t\t项目经理、团队成员以及若干名相关方共同参与一次风险研讨会，已经根据风险管理计划生成并提供一份风险报告。\r\n若要为各个项目风险进行优先级排序，现在必须执行哪一项分析？\r\n【单选】",
+				"option": [
+					{
+						"content": "A：定量风险分析",
+						"id": "x7904A",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7904"
+					},
+					{
+						"content": "B：根本原因分析",
+						"id": "x7904B",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7904"
+					},
+					{
+						"content": "C：偏差分析",
+						"id": "x7904C",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7904"
+					},
+					{
+						"content": "D：定性风险分析",
+						"id": "x7904D",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7904"
+					}
+				]
+			},
+			{
+				"correct_answer": [
+					"x7905D"
+				],
+				"answer": [
+					"x7905D"
+				],
+				"analysis": "本题考识别相关方工具—数据表现（权力利益方格）。题目描述的相关方属于高权力低利益范畴，对这样的相关方应该使用令其满意的方式管理。",
+				"question_id": "zzQuestionDiv-zzQuestionDiv7905",
+				"content": "83、\t\t项目经理正在制定相关方参与计划，并识别到一位权力等级较高但在项目中兴趣较低的相关方，项目经理应如何对待该相关方？【单选】",
+				"option": [
+					{
+						"content": "A：重点管理",
+						"id": "x7905A",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7905"
+					},
+					{
+						"content": "B：随时告知",
+						"id": "x7905B",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7905"
+					},
+					{
+						"content": "C：监督",
+						"id": "x7905C",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7905"
+					},
+					{
+						"content": "D：令其满意",
+						"id": "x7905D",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7905"
+					}
+				]
+			},
+			{
+				"correct_answer": [
+					"x7906D"
+				],
+				"answer": [
+					"x7906D"
+				],
+				"analysis": "本题考控制成本输出—变更请求。成本管理计划已经不在有效，不能继续指导项目成功前进，那么就应该提交变更请求，使成本管理计划继续有效。",
+				"question_id": "zzQuestionDiv-zzQuestionDiv7906",
+				"content": "84、\t\t一个项目已经进行了六个月，这时有人意识到由于最近批准的所需准确度方面的变更，成本管理计划不再有效。项目经理应该怎么做？【单选】",
+				"option": [
+					{
+						"content": "A：要去团队审查并修订成本管理计划",
+						"id": "x7906A",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7906"
+					},
+					{
+						"content": "B：促成一次团队会议，以审查工作分解结构（WBS）、分析每个工作包并更新成本",
+						"id": "x7906B",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7906"
+					},
+					{
+						"content": "C：召开一次团队会议，以讨论变更并带领团队更新成本管理计划",
+						"id": "x7906C",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7906"
+					},
+					{
+						"content": "D：与团队一起审查此变更对预算的影响，并确定是否有必要对成本管理计划进行变更",
+						"id": "x7906D",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7906"
+					}
+				]
+			},
+			{
+				"correct_answer": [
+					"x7907A"
+				],
+				"answer": [
+					"x7907A"
+				],
+				"analysis": "本题考识别风险输出—风险登记册。由于两个项目团队位于两个国家，而且每个团队的作风习惯不同，所以在管理团队方面存在着各种风险，应该先更新风险登记册，再寻找解决风险的应对措施。",
+				"question_id": "zzQuestionDiv-zzQuestionDiv7907",
+				"content": "85、\t\t管理层将一个国际项目分配给一位新项目经理，这是该项目经理第一次与国际团队合作，团队成员位于两个国家，数量平均分布。一个团队由最适合作为个人工作的成员组成，另一个团队由最适合作为团队工作的成员组成。\r\n项目经理应该怎么做？\r\n【单选】",
+				"option": [
+					{
+						"content": "A：更新风险登记册",
+						"id": "x7907A",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7907"
+					},
+					{
+						"content": "B：要求团队在项目期间以相同的风格工作",
+						"id": "x7907B",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7907"
+					},
+					{
+						"content": "C：修订沟通管理计划",
+						"id": "x7907C",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7907"
+					},
+					{
+						"content": "D：为团队设置一个虚拟协作工具，以便每天签到",
+						"id": "x7907D",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7907"
+					}
+				]
+			},
+			{
+				"correct_answer": [
+					"x7908A"
+				],
+				"answer": [
+					"x7908A"
+				],
+				"analysis": "本题考识别风险输出—风险登记册。分包商需要技术专家，但是其资源并不符合其要求，可能会导致项目失败，那么对于此情况应该先记录风险登记册。",
+				"question_id": "zzQuestionDiv-zzQuestionDiv7908",
+				"content": "86、\t\t项目分包商的一位关键资源需求是一个制造过程的技术专家。在项目的早期阶段，很明显分包商的员工缺乏足够的专业知识来满足质量标准。\r\n项目经理应该怎么做？\r\n【单选】",
+				"option": [
+					{
+						"content": "A：更新风险登记册",
+						"id": "x7908A",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7908"
+					},
+					{
+						"content": "B：为项目团队制定一名主题专家（SME）",
+						"id": "x7908B",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7908"
+					},
+					{
+						"content": "C：对分包商执行质量审计",
+						"id": "x7908C",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7908"
+					},
+					{
+						"content": "D：审查合同中的任何相关惩罚条款",
+						"id": "x7908D",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7908"
+					}
+				]
+			},
+			{
+				"correct_answer": [
+					"x7909B"
+				],
+				"answer": [
+					"x7909B"
+				],
+				"analysis": "本题考控制采购输入—项目管理计划（采购管理计划），协议。题目描述的内容表示是供应商提供的零件有问题，如果需要供应商纠正问题或者惩罚需要先查看协议和采购计划的相应条款，来找到方案。",
+				"question_id": "zzQuestionDiv-zzQuestionDiv7909",
+				"content": "87、\t\t客户拒绝了一项可交付成果，因为它不符合约定的质量规格。项目团队调查该问题，并确定供应商提供的零件有问题，供应商拒绝纠正这种情况。\r\n项目经理应该审查什么？\r\n【单选】",
+				"option": [
+					{
+						"content": "A：与供应商订立的服务水平协议（SLA）",
+						"id": "x7909A",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7909"
+					},
+					{
+						"content": "B：采购管理计划和合同协议",
+						"id": "x7909B",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7909"
+					},
+					{
+						"content": "C：内部质量保证报告",
+						"id": "x7909C",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7909"
+					},
+					{
+						"content": "D：资源管理计划",
+						"id": "x7909D",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7909"
+					}
+				]
+			},
+			{
+				"correct_answer": [
+					"x7910D"
+				],
+				"answer": [
+					"x7910D"
+				],
+				"analysis": "本题考识别相关方工具—专家判断。本题极具迷惑性，因为涉及到项目团队成员，容易让人认为选择资源领域，实际上由于团队还没有组成，这时候识别潜在成员只是识别相关方的内容，所以选择识别相关方的管理知识最合适。",
+				"question_id": "zzQuestionDiv-zzQuestionDiv7910",
+				"content": "88、\t\t对于一个新项目，公司要求项目经理识别潜在的项目团队成员。项目经理下一步应该怎么做？【单选】",
+				"option": [
+					{
+						"content": "A：请职能经理提供项目团队成员",
+						"id": "x7910A",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7910"
+					},
+					{
+						"content": "B：创建一份资源管理计划",
+						"id": "x7910B",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7910"
+					},
+					{
+						"content": "C：制定一份具有岗位描述的组织图",
+						"id": "x7910C",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7910"
+					},
+					{
+						"content": "D：使用专家判断",
+						"id": "x7910D",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7910"
+					}
+				]
+			},
+			{
+				"correct_answer": [
+					"x7911C"
+				],
+				"answer": [
+					"x7911C"
+				],
+				"analysis": "本题考控制采购输入—协议。采购可以提前到达并且数量更多，那么应该查看协议中的交付条款的内容，来安排采购的验收。",
+				"question_id": "zzQuestionDiv-zzQuestionDiv7911",
+				"content": "89、\t\t作为一个大型组织中关键项目的组成部分，阀门制造业务被外包给第三方，项目经理得知阀门将比预期更早到达且数量更多。\r\n项目经理下一步应该怎么做？\r\n【单选】",
+				"option": [
+					{
+						"content": "A：审查项目进度计划并快速跟进活动，以便尽早完成项目",
+						"id": "x7911A",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7911"
+					},
+					{
+						"content": "B：增加额外资源，尽早结束项目，并更新经验教训",
+						"id": "x7911B",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7911"
+					},
+					{
+						"content": "C：查询采购管理计划来审查第三方的交付条款",
+						"id": "x7911C",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7911"
+					},
+					{
+						"content": "D：审查成本和进度计划",
+						"id": "x7911D",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7911"
+					}
+				]
+			},
+			{
+				"correct_answer": [
+					"x7912A"
+				],
+				"answer": [
+					"x7912A"
+				],
+				"analysis": "本题考规划沟通管理输出—沟通管理计划。“让客户意识到可能存在的延误和问题”和“客户希望他们的技术团队直接与项目的技术团队进行沟通”这些都属于沟通领域范畴，所以需要提前对沟通进行规划，如果要解决提出的问题，应该先查看沟通管理计划。",
+				"question_id": "zzQuestionDiv-zzQuestionDiv7912",
+				"content": "90、\t\t项目发起人指出，为确保项目成功，必须让客户意识到可能存在的延误和问题。为此，客户希望他们的技术团队直接与项目的技术团队进行沟通。\r\n若要确保这项请求得以解决，项目经理应该审查哪一份文件？\r\n【单选】",
+				"option": [
+					{
+						"content": "A：沟通管理计划",
+						"id": "x7912A",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7912"
+					},
+					{
+						"content": "B：需求跟踪矩阵",
+						"id": "x7912B",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7912"
+					},
+					{
+						"content": "C：执行、负责、咨询和知情（RACI）矩阵",
+						"id": "x7912C",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7912"
+					},
+					{
+						"content": "D：项目章程",
+						"id": "x7912D",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7912"
+					}
+				]
+			},
+			{
+				"correct_answer": [
+					"x7913D"
+				],
+				"answer": [
+					"x7913D"
+				],
+				"analysis": "本题考管理沟通输入—项目管理计划（沟通管理计划）。高级经理是否能直接从团队成员处获得信息，或者团队成员通过什么方式来传递信息，相关的规则、方法、层级都写在沟通管理计划中，应该参照开计划进行沟通。",
+				"question_id": "zzQuestionDiv-zzQuestionDiv7913",
+				"content": "91、\t\t一位项目经理负责领导一个复杂项目，该项目的干系人位于若干个国家，项目经理得知一位高级经理向某个项目团队成员询问项目信息。\r\n项目经理下一步应该怎么做？\r\n【单选】",
+				"option": [
+					{
+						"content": "A：查阅干系人登记册",
+						"id": "x7913A",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7913"
+					},
+					{
+						"content": "B：审查项目管理信息系统（PMIS）",
+						"id": "x7913B",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7913"
+					},
+					{
+						"content": "C：邀请该高层级经理参加下一次项目会议",
+						"id": "x7913C",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7913"
+					},
+					{
+						"content": "D：审查沟通管理计划",
+						"id": "x7913D",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7913"
+					}
+				]
+			},
+			{
+				"correct_answer": [
+					"x7914B"
+				],
+				"answer": [
+					"x7914B"
+				],
+				"analysis": "本题考识别风险输出—风险登记册。项目���识别了风险，应该先记录风险登记册，再进行风险分析，形成风险应对措施。",
+				"question_id": "zzQuestionDiv-zzQuestionDiv7914",
+				"content": "92、\t\t一家跨国公司有一个分为10个阶段的项目落后于进度计划。团队领导通知项目经理，如果对进度计划进行赶工，项目可以按计划完成。但是，存在一些项目目标可能未满足的风险。\r\n项目经理应该怎么做？\r\n【单选】",
+				"option": [
+					{
+						"content": "A：请求项目相关方的批准",
+						"id": "x7914A",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7914"
+					},
+					{
+						"content": "B：更新风险登记册并与发起人沟通后续步骤",
+						"id": "x7914B",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7914"
+					},
+					{
+						"content": "C：使用快速跟进，而不是赶工",
+						"id": "x7914C",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7914"
+					},
+					{
+						"content": "D：修订项目管理计划，以变更项目目标",
+						"id": "x7914D",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7914"
+					}
+				]
+			},
+			{
+				"correct_answer": [
+					"x7915C"
+				],
+				"answer": [
+					"x7915C"
+				],
+				"analysis": "本题考制定项目管理计划内容。当前要求“按时完成该计划的审查”，所以对时间有特殊要求，而项目管理计划篇幅很长，会导致无法在短时间全部审查完，可以考虑将计划拆成若干部分，找最相关的人来审查特定部分。由于“相关方分散在各地”，也没有办法和所有相关方开会，所以A错误。",
+				"question_id": "zzQuestionDiv-zzQuestionDiv7915",
+				"content": "93、\t\t项目经理完成了项目管理计划的初稿，并打算将其提交给相关方进行批准。但是，项目管理计划篇幅很长，相关方分散在各地，项目经理获得批准的时间有限。\r\n若要按时完成该计划的审查，项目经理应该怎么做？\r\n【单选】",
+				"option": [
+					{
+						"content": "A：安排一次与所有相关方的会议，并在会议前发送该计划以供审查",
+						"id": "x7915A",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7915"
+					},
+					{
+						"content": "B：将该计划分别发送给每位相关方，要求他们添加他们的评论意见并返回以供更新",
+						"id": "x7915B",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7915"
+					},
+					{
+						"content": "C：将该计划划分成若干部分，并要求选定的相关方根据其专业领域审查特定部分",
+						"id": "x7915C",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7915"
+					},
+					{
+						"content": "D：安排只与关键相关方召开单独会议，以便他们完成该计划的走查",
+						"id": "x7915D",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7915"
+					}
+				]
+			},
+			{
+				"correct_answer": [
+					"x7916C"
+				],
+				"answer": [
+					"x7916C"
+				],
+				"analysis": "本题考制定项目章程工具—专家判断。当前项目还没有开始，所以属于启动过程组，可以归到制定项目章程过程。该过程主要用到的工具是专家判断。",
+				"question_id": "zzQuestionDiv-zzQuestionDiv7916",
+				"content": "94、\t\t一个项目的工作说明书（SOW）要求在六个月内交付项目，项目经理担心时间表不合理。\r\n为解决这种情况，项目经理应该怎么做？\r\n【单选】",
+				"option": [
+					{
+						"content": "A：按照SOW制定项目管理计划",
+						"id": "x7916A",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7916"
+					},
+					{
+						"content": "B：请求额外的资源",
+						"id": "x7916B",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7916"
+					},
+					{
+						"content": "C：与主题专家（SMEs）和发起人会面，以设定可实现的期望",
+						"id": "x7916C",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7916"
+					},
+					{
+						"content": "D：通知项目发起人不能满足时间表",
+						"id": "x7916D",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7916"
+					}
+				]
+			},
+			{
+				"correct_answer": [
+					"x7917C"
+				],
+				"answer": [
+					"x7917C"
+				],
+				"analysis": "本题考管理质量工具—数据表现（因果图）。因果图,又称“鱼骨图”、“why-why分析图”或“石川图”,将问题陈述的原因分解为离散的分支,有助于识别问题的主要原因或根本原因。",
+				"question_id": "zzQuestionDiv-zzQuestionDiv7917",
+				"content": "95、\t\t在生产环境中实施后识别到一个项目问题。若要识别发生这种问题的原因，项目经理应该使用什么工具或技术。【单选】",
+				"option": [
+					{
+						"content": "A：帕累托图",
+						"id": "x7917A",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7917"
+					},
+					{
+						"content": "B：直方图",
+						"id": "x7917B",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7917"
+					},
+					{
+						"content": "C：石川图",
+						"id": "x7917C",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7917"
+					},
+					{
+						"content": "D：控制图",
+						"id": "x7917D",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7917"
+					}
+				]
+			},
+			{
+				"correct_answer": [
+					"x7918D"
+				],
+				"answer": [
+					"x7918D"
+				],
+				"analysis": "本题考指导与管理项目工作输入—项目文件（风险登记册）。项目的不合规可能是在项目早期识别到的一项风险，当项目遇到此问题，首先应该查看是否有类似的应对措施。本题强调项目开发阶段，可以归到项目的执行，执行过程组的输入中只有D。",
+				"question_id": "zzQuestionDiv-zzQuestionDiv7918",
+				"content": "96、\t\t在涉及处理敏感客户数据的项目开发阶段，合规经理提出了项目不合规的问题，项目经理应首先查看哪一份文件？【单选】",
+				"option": [
+					{
+						"content": "A：工作说明书（SOW）",
+						"id": "x7918A",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7918"
+					},
+					{
+						"content": "B：项目章程",
+						"id": "x7918B",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7918"
+					},
+					{
+						"content": "C：商业论证",
+						"id": "x7918C",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7918"
+					},
+					{
+						"content": "D：风险登记册",
+						"id": "x7918D",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7918"
+					}
+				]
+			},
+			{
+				"correct_answer": [
+					"x7919D"
+				],
+				"answer": [
+					"x7919D"
+				],
+				"analysis": "本题考规划资源管理输出—资源管理计划。资源管理计划中包括了项目所需资源的角色和职责，有助于“起草若干职能要求”。",
+				"question_id": "zzQuestionDiv-zzQuestionDiv7919",
+				"content": "97、\t\t由于一个施工项目的相关方数量异常之多，因此在初始规划阶段起草若干职能要求。项目经理应该关注什么？【单选】",
+				"option": [
+					{
+						"content": "A：需求管理计划",
+						"id": "x7919A",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7919"
+					},
+					{
+						"content": "B：变更管理计划",
+						"id": "x7919B",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7919"
+					},
+					{
+						"content": "C：组织过程资产",
+						"id": "x7919C",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7919"
+					},
+					{
+						"content": "D：资源管理计划",
+						"id": "x7919D",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7919"
+					}
+				]
+			},
+			{
+				"correct_answer": [
+					"x7920C"
+				],
+				"answer": [
+					"x7920C"
+				],
+				"analysis": "本题考识别风险输出—风险登记册。项目中识别了风险，应该首先记录在风险登记册中，再进行风险分析并制定风险应对策略。",
+				"question_id": "zzQuestionDiv-zzQuestionDiv7920",
+				"content": "98、\t\t在识别一个新项目的风险时，项目团队考虑到以下内容：\r\n\t一次罕见的自然灾害可能会撞击建筑物并导致建筑物倒塌\r\n\t存储所有项目技术数据的主要现有数据库已过时，并坑能会失效\r\n项目经理应该怎么做？\r\n【单选】",
+				"option": [
+					{
+						"content": "A：请求将项目转移给另一个地理区域的团队",
+						"id": "x7920A",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7920"
+					},
+					{
+						"content": "B：建议取消该项目",
+						"id": "x7920B",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7920"
+					},
+					{
+						"content": "C：将该风险添加进风险登记册",
+						"id": "x7920C",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7920"
+					},
+					{
+						"content": "D：通知发起人这两种风险的概率和影响都非常低",
+						"id": "x7920D",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7920"
+					}
+				]
+			},
+			{
+				"correct_answer": [
+					"x7921C"
+				],
+				"answer": [
+					"x7921C"
+				],
+				"analysis": "本题考沉没成本内容。当考虑项目是否继续时，以前已经付出的努力付出的成本被称为沉默成本，所以为了项目成功，以前付出的成本将不再考虑。",
+				"question_id": "zzQuestionDiv-zzQuestionDiv7921",
+				"content": "99、\t\t项目经理聘请一位资源开发一个网站，该资源在没有完成工作的情况下突然离职。项目经理必须聘请另一位资源来完成这项工作。新聘请的资源更改网站设计，覆盖了原有设计。\r\n应如何描述与第一位资源工作相关的成本？\r\n【单选】",
+				"option": [
+					{
+						"content": "A：间接成本",
+						"id": "x7921A",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7921"
+					},
+					{
+						"content": "B：直接成本",
+						"id": "x7921B",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7921"
+					},
+					{
+						"content": "C：沉没成本",
+						"id": "x7921C",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7921"
+					},
+					{
+						"content": "D：可变成本",
+						"id": "x7921D",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7921"
+					}
+				]
+			},
+			{
+				"correct_answer": [
+					"x7922C"
+				],
+				"answer": [
+					"x7922C"
+				],
+				"analysis": "本题考监督风险输出—项目文件更新（风险登记册）。风险的概率和影响发生了变化，应该更新风险登记册中对应的风险信息。",
+				"question_id": "zzQuestionDiv-zzQuestionDiv7922",
+				"content": "100、\t\t在一个大型施工项目的规划阶段，出现了潜在的经济衰退迹象。之前关于经济衰退的风险被指定为低概率和高影响，预计持续6-12个月。项目开始后不久，发生了经济衰退，并按预期影响项目。六个月后，经济衰退影响的持续时间将更改为24-36个月。\r\n项目经理应该怎么做？\r\n【单选】",
+				"option": [
+					{
+						"content": "A：将项目工期延长24-36个月",
+						"id": "x7922A",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7922"
+					},
+					{
+						"content": "B：借用额外的运营成本",
+						"id": "x7922B",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7922"
+					},
+					{
+						"content": "C：更新风险登记册",
+						"id": "x7922C",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7922"
+					},
+					{
+						"content": "D：将项目工期延长12-24个月",
+						"id": "x7922D",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7922"
+					}
+				]
+			},
+			{
+				"correct_answer": [
+					"x7923B"
+				],
+				"answer": [
+					"x7923A"
+				],
+				"analysis": "本题考制定项目章程输出—项目章程。“项目管理办公室（PMO）启动了一个项目来实施定制的、统一的组织过程，这个过程包括在每个里程碑结束时产生所需的工作”描述的意思是每个过程的里程碑结束时都会产生工作，也就是产生项目，或者项目结束，项目章程中的内容包含了项目的审批要求和退出标准，这些都是需要相关方签署后才能实施的，所以要再每个阶段结束时进行签署，才能实现项目目标。",
+				"question_id": "zzQuestionDiv-zzQuestionDiv7923",
+				"content": "101、\t\t由于一个组织的项目发起人在地理上分散在不同地方，项目管理办公室（PMO）启动了一个项目来实施定制的、统一的组织过程，这个过程包括在每个里程碑结束时产生所需的工作。该项目的结果将被用作未来实施的原型。\r\n若要确保这个目标取得成功，项目经理应该怎么做？\r\n【单选】",
+				"option": [
+					{
+						"content": "A：制定详细的项目管理计划，与所有相关方分享",
+						"id": "x7923A",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7923"
+					},
+					{
+						"content": "B：让相关方参与并在每个阶段结束时要求签署",
+						"id": "x7923B",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7923"
+					},
+					{
+						"content": "C：促成每周状态更新的虚拟会议",
+						"id": "x7923C",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7923"
+					},
+					{
+						"content": "D：每周更新一次项目管理计划",
+						"id": "x7923D",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7923"
+					}
+				]
+			},
+			{
+				"correct_answer": [
+					"x7924A"
+				],
+				"answer": [
+					"x7924B"
+				],
+				"analysis": "本题考管理团队工具—人际关系与团队技能（冲突管理），规划风险应对工具—威胁应对策略（规避）。题目描述的内容是项目工作与职能工作发生了冲突，所以要“消除这个风险”。这里可以有两种解题思路，可以按照冲突管理解决，也可以按照风险应对措施来解决。A选项最合适，既可以理解为冲突管理中的“合作/解决问题”，也可以理解为风险应对措施中的“规避”。",
+				"question_id": "zzQuestionDiv-zzQuestionDiv7924",
+				"content": "102、\t\t一位团队成员通知项目经理他们必须完成项目之外的一项关键任务，这将对项目进度产生风险。\r\n项目经理应该怎么做来消除这个风险？\r\n【单选】",
+				"option": [
+					{
+						"content": "A：与该团队成员的经理协商另外一个时间来完成这项其他任务",
+						"id": "x7924A",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7924"
+					},
+					{
+						"content": "B：从另一个部门获得一位替代资源",
+						"id": "x7924B",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7924"
+					},
+					{
+						"content": "C：向项目发起人汇报该团队成员的经理不遵守规定",
+						"id": "x7924C",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7924"
+					},
+					{
+						"content": "D：指示该团队成员的经理释放该团队成员",
+						"id": "x7924D",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7924"
+					}
+				]
+			},
+			{
+				"correct_answer": [
+					"x7925C"
+				],
+				"answer": [
+					"x7925C"
+				],
+				"analysis": "本题考管理质量输入—质量控制测量结果，工具—问题解决。“该技术不能按预期起作用”可以理解为质量问题，那么需要到管理质量过程中解决，可以将此问题记录在问题日志中，再通过问题解决流程处理，四个选项中的C选项属于问题解决流程中的靠前步骤，进行根本原因分析后再考虑确定纠正措施等解决方案。",
+				"question_id": "zzQuestionDiv-zzQuestionDiv7925",
+				"content": "103、\t\t由于技术已在其他工厂运行，一个项目的用户验收测试被省略。但是，在实施后，该技术不能按预期起作用。\r\n项目经理应该怎么做？\r\n【单选】",
+				"option": [
+					{
+						"content": "A：查看缺陷报告以确定并解决问题",
+						"id": "x7925A",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7925"
+					},
+					{
+						"content": "B：提交变更请求",
+						"id": "x7925B",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7925"
+					},
+					{
+						"content": "C：执行根本原因分析，以确定纠正措施",
+						"id": "x7925C",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7925"
+					},
+					{
+						"content": "D：使用测试脚本来解决问题",
+						"id": "x7925D",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7925"
+					}
+				]
+			},
+			{
+				"correct_answer": [
+					"x7926B"
+				],
+				"answer": [
+					"x7926B"
+				],
+				"analysis": "本题考管理团队工具—人际关系与团队技能（冲突管理）。合作/解决问题。综合考虑不同的观点和意见,采用合作的态度和开放式对话引导各方达成共识和承诺,这种方法可以带来双赢局面。而项目经理通过安排电话会议解决冲突，属于合作/解决问题方法。",
+				"question_id": "zzQuestionDiv-zzQuestionDiv7926",
+				"content": "104、\t\t项目经理识别到本地和虚拟团队成员之间的进度优先级存在冲突。项目经理安排了一次电话会议来管理这个冲突。\r\n项目经理使用的是哪种冲突解决技巧？\r\n【单选】",
+				"option": [
+					{
+						"content": "A：缓和/包容",
+						"id": "x7926A",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7926"
+					},
+					{
+						"content": "B：合作/解决问题",
+						"id": "x7926B",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7926"
+					},
+					{
+						"content": "C：强迫/命令",
+						"id": "x7926C",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7926"
+					},
+					{
+						"content": "D：妥协/调解",
+						"id": "x7926D",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7926"
+					}
+				]
+			},
+			{
+				"correct_answer": [
+					"x7927A"
+				],
+				"answer": [
+					"x7927A"
+				],
+				"analysis": "本题考结束项目或阶段输出—最终报告。题目描述在“项目的最终收尾活动期间”，表示目前在收尾过程组，收尾过程中要做经验教训总结并做项目最终报告，如果发现项目遇到了一些问题，可以在最终报告中进行总结，并将经验教训总结在组织过程资产中。",
+				"question_id": "zzQuestionDiv-zzQuestionDiv7927",
+				"content": "105、\t\t在一个项目的最终收尾活动期间，项目经理发现项目章程包含的原始项目范围比最终项目范围的成本低。项目经理应如何处理这项信息？【单选】",
+				"option": [
+					{
+						"content": "A：在项目报告中记录原始和最终范围",
+						"id": "x7927A",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7927"
+					},
+					{
+						"content": "B：更改项目章程以反映本文件创建后所做的所有变更",
+						"id": "x7927B",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7927"
+					},
+					{
+						"content": "C：核实项目管理计划是否已更新",
+						"id": "x7927C",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7927"
+					},
+					{
+						"content": "D：审查变更请求，且如果没有包含必要的信息，则更新该变更请求",
+						"id": "x7927D",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7927"
+					}
+				]
+			},
+			{
+				"correct_answer": [
+					"x7928B"
+				],
+				"answer": [
+					"x7928B"
+				],
+				"analysis": "本题考规划资源管理输出—团队章程，建设项目团队内容。促进更好地团队合作，需要在规划阶段对资源进行良好的规划，由于团队成员的“背景、年龄和兴趣”不同，那么就需要有一个统一的记录、要求来指导团队合作。所以本题选择B最合适。",
+				"question_id": "zzQuestionDiv-zzQuestionDiv7928",
+				"content": "106、\t\t一个国际项目的团队由来自不同背景、年龄和兴趣的个人组成。项目一开始后就发现他们在苦苦努力一起合作。\r\n项目经理如何才能促进更好的团队合作？\r\n【单选】",
+				"option": [
+					{
+						"content": "A：举行正式的团队会议来讨论团队合作的重要性",
+						"id": "x7928A",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7928"
+					},
+					{
+						"content": "B：与团队开会以解释基本规则，共同愿景和价值观，并更好地理解团队成员的优先级",
+						"id": "x7928B",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7928"
+					},
+					{
+						"content": "C：请人力资源部门对团队进行多样性方面的教育和培训",
+						"id": "x7928C",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7928"
+					},
+					{
+						"content": "D：让团队自行建设，然后在下一次绩效评估会上处理问题",
+						"id": "x7928D",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7928"
+					}
+				]
+			},
+			{
+				"correct_answer": [
+					"x7929A"
+				],
+				"answer": [
+					"x7929A"
+				],
+				"analysis": "本题考管理沟通输入—工作绩效报告，工具—项目报告发布。工作 绩效报告的典型示例包括状态报告和进展报告。工作绩效报告可以包含挣值图表和信息、趋势线和预测、储备燃尽图、缺陷直方图、合同绩效信息以及风险概述信息。可以表现为有助于引起关注、制定决策和采取行动的仪表指示图、热点报告、信号灯图或其他形式。工作绩效报告主要记录了项目的绩效信息，而不会出现每个员工的绩效测量指标，所以C和D不正确，而B选项描述的是“问题”状态，应该记录在问题日志中，而不是绩效报告，所以综合来看，A选项最好。",
+				"question_id": "zzQuestionDiv-zzQuestionDiv7929",
+				"content": "107、\t\t首席执行官要求项目经理提供绩效报告，项目经理应该在这份报告中包含哪些内容？【单选】",
+				"option": [
+					{
+						"content": "A：已完成百分比和经验教训",
+						"id": "x7929A",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7929"
+					},
+					{
+						"content": "B：问题的当前状态以及更新后的相关方参与评估矩阵",
+						"id": "x7929B",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7929"
+					},
+					{
+						"content": "C：项目风险和绩效测量指标",
+						"id": "x7929C",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7929"
+					},
+					{
+						"content": "D：已完成的工作和关键绩效指标（KPIs）",
+						"id": "x7929D",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7929"
+					}
+				]
+			},
+			{
+				"correct_answer": [
+					"x7930D"
+				],
+				"answer": [
+					"x7930A"
+				],
+				"analysis": "本题考监督风险输出—变更请求（权变措施）。由于一个未知风险发生，那么项目经理针对该紧急风险应该使用应急的权变措施来应对该风险。",
+				"question_id": "zzQuestionDiv-zzQuestionDiv7930",
+				"content": "108、\t\t由于不可预见的社区反对意见，一个项目暂时停止，由于在项目规划阶段没有将其识别为一项风险，因此未将其纳入风险登记册。\r\n项目经理应该怎么做？\r\n【单选】",
+				"option": [
+					{
+						"content": "A：通过会议和头脑风暴向相关方推荐减轻措施",
+						"id": "x7930A",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7930"
+					},
+					{
+						"content": "B：重新计划剩余工作，并为未完成的任务和完成日期重新制定进度计划",
+						"id": "x7930B",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7930"
+					},
+					{
+						"content": "C：将该事项升级上报给项目发起人和职能经理",
+						"id": "x7930C",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7930"
+					},
+					{
+						"content": "D：与相关方开会以审查各种应急方案，然后推荐适当的措施",
+						"id": "x7930D",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7930"
+					}
+				]
+			},
+			{
+				"correct_answer": [
+					"x7931C"
+				],
+				"answer": [
+					"x7931C"
+				],
+				"analysis": "本题考监督相关方参与输出—变更请求。“项目经理注意到该相关方目前的参与程度不符”那么相关方参与计划针对该相关方的方案就是无效的，应该提交变更请求，该改进相关方参与计划。",
+				"question_id": "zzQuestionDiv-zzQuestionDiv7931",
+				"content": "109、\t\t在项目执行中途，一位项目经理多次收到一位关键相关方的电话要求提供项目目标和活动。项目经理注意到该相关方目前的参与程度不符。\r\n若要解决这个问题，项目经理下一步应该怎么做？\r\n【单选】",
+				"option": [
+					{
+						"content": "A：更新相关方参与度评估矩阵，以将该相关方的预期参与程度设置为支持",
+						"id": "x7931A",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7931"
+					},
+					{
+						"content": "B：在风险登记册中标记该问题，并遵守相应的行动",
+						"id": "x7931B",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7931"
+					},
+					{
+						"content": "C：提交一份变更请求以更新相关方参与计划和相关方参与评估矩阵",
+						"id": "x7931C",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7931"
+					},
+					{
+						"content": "D：与关键相关方开会，解释项目目标、状态报告、活动以及有效协作的方式",
+						"id": "x7931D",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7931"
+					}
+				]
+			},
+			{
+				"correct_answer": [
+					"x7932A"
+				],
+				"answer": [
+					"x7932A"
+				],
+				"analysis": "本题考塔克曼阶梯理论（震荡阶段）。震荡阶段。在本阶段,团队开始从事项目工作、制定技术决策和讨论项目管理方法。如果团队成员不能用合作和开放的态度对待不同观点和意见,团队环境可能变得事与愿违。",
+				"question_id": "zzQuestionDiv-zzQuestionDiv7932",
+				"content": "110、\t\t项目经理作为项目团队的一位替代项目经理人选加入一个项目。在最初的会议中，项目经理发现关于如何解决技术决策存在许多不同的意见，团队成员不尊重彼此的意见，这种环境起到反效果。\r\n该团队处于团队建设的哪个阶段？\r\n【单选】",
+				"option": [
+					{
+						"content": "A：震荡阶段",
+						"id": "x7932A",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7932"
+					},
+					{
+						"content": "B：形成阶段",
+						"id": "x7932B",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7932"
+					},
+					{
+						"content": "C：规范阶段",
+						"id": "x7932C",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7932"
+					},
+					{
+						"content": "D：成熟阶段",
+						"id": "x7932D",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7932"
+					}
+				]
+			},
+			{
+				"correct_answer": [
+					"x7933A"
+				],
+				"answer": [
+					"x7933A"
+				],
+				"analysis": "本题考确认范围过程内容。当前正处于用户验收过程中，用户抱怨需求没有得到满足，应该先了解相关方提出的反馈，然后做后续的解决方案操作。",
+				"question_id": "zzQuestionDiv-zzQuestionDiv7933",
+				"content": "111、\t\t在一个项目的用户验收阶段，一些用户抱怨他们的期望未得到满足，项目经理实现应该采取哪一项不同做法？【单选】",
+				"option": [
+					{
+						"content": "A：考虑相关方的反馈",
+						"id": "x7933A",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7933"
+					},
+					{
+						"content": "B：执行风险评估",
+						"id": "x7933B",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7933"
+					},
+					{
+						"content": "C：实施冲突管理技术",
+						"id": "x7933C",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7933"
+					},
+					{
+						"content": "D：与用户建立一种专业关系",
+						"id": "x7933D",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7933"
+					}
+				]
+			},
+			{
+				"correct_answer": [
+					"x7934C"
+				],
+				"answer": [
+					"x7934C"
+				],
+				"analysis": "本题考结束项目或阶段输入—商业文件，工具—会议。项目已经完成，如果要了解项目是否达到预期目标，应该根据商业文件进行验证，可以由相应的效益负责人来进行验证。",
+				"question_id": "zzQuestionDiv-zzQuestionDiv7934",
+				"content": "112、\t\t项目发起人非常注意与用户/客户一起制定效益分析和范围。任命的项目经理后来按时按预算完成项目。\r\n项目发起人应该如何向用户/客户确保最终可交付成果达到预期目标？\r\n【单选】",
+				"option": [
+					{
+						"content": "A：查阅工作分解结构（WBS）确认所有工作包都已成功完成",
+						"id": "x7934A",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7934"
+					},
+					{
+						"content": "B：向用户/客户指出，由于满足了进度计划和预算要求，该项目取得成功",
+						"id": "x7934B",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7934"
+					},
+					{
+						"content": "C：要求分配的效益负责人在书面报告中提供他们的反馈以进行验证",
+						"id": "x7934C",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7934"
+					},
+					{
+						"content": "D：向用户/客户提供在项目结束时使用的一份清单，列出所有已解决的事项",
+						"id": "x7934D",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7934"
+					}
+				]
+			},
+			{
+				"correct_answer": [
+					"x7935A"
+				],
+				"answer": [
+					"x7935A"
+				],
+				"analysis": "本题考规划采购管理工具—自制外购分析。当前正在创建采购管理计划，过程可以定义为规划采购管理，从排除法的角度分析，四个选项中只有A属于该过程。从题目角度分析，组织内的资源为不同的项目效力，那么要进行资质外购分析，当前资源是否能满足需求，还是需要外部获取资源或服务。",
+				"question_id": "zzQuestionDiv-zzQuestionDiv7935",
+				"content": "113、\t\t在创建采购管理计划时，项目经理发现组织内部存在的某些资源正在为其他项目效力。项目经理应该怎么做来满足这种需求？【单选】",
+				"option": [
+					{
+						"content": "A：开展自制或外购分析",
+						"id": "x7935A",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7935"
+					},
+					{
+						"content": "B：创建工作分解结构（WBS）",
+						"id": "x7935B",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7935"
+					},
+					{
+						"content": "C：制定风险登记册",
+						"id": "x7935C",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7935"
+					},
+					{
+						"content": "D：开始人员分配谈判",
+						"id": "x7935D",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7935"
+					}
+				]
+			},
+			{
+				"correct_answer": [
+					"x7936B"
+				],
+				"answer": [
+					"x7936B"
+				],
+				"analysis": "本题考规划沟通管理输出—沟通管理计划。沟通管理计划定义了项目中的信息如何流程，包括沟通的传递要求等。“团队成员希望项目经理允许直接通知发起人并生成与这种情况相关的警报”，这种信息传递形式应该记录在沟通管理计划中。",
+				"question_id": "zzQuestionDiv-zzQuestionDiv7936",
+				"content": "114、\t\t一位团队成员通知项目经理，供应商延迟交付一个重要部件，由于潜在的影响，该团队成员希望项目经理允许直接通知发起人并生成与这种情况相关的警报。\r\n项目经理应该查阅哪一份计划？\r\n【单选】",
+				"option": [
+					{
+						"content": "A：采购管理计划",
+						"id": "x7936A",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7936"
+					},
+					{
+						"content": "B：沟通管理计划",
+						"id": "x7936B",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7936"
+					},
+					{
+						"content": "C：相关方参与计划",
+						"id": "x7936C",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7936"
+					},
+					{
+						"content": "D：风险管理计划",
+						"id": "x7936D",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7936"
+					}
+				]
+			},
+			{
+				"correct_answer": [
+					"x7937C"
+				],
+				"answer": [
+					"x7937C"
+				],
+				"analysis": "本题考制定项目章程输出—项目章程，假设日志。项目章程中的总体里程碑进度计划是粗略的时间表，并没有得到细化，所以还应该将用户要求的时间表时间设定到制约因素中，对于项目中可能涉及的风险应该进行相应的风险分析。",
+				"question_id": "zzQuestionDiv-zzQuestionDiv7937",
+				"content": "115、\t\t收集完有关新项目的所有信息并制定项目章程之后，项目经理得出结论认为最初的高层级时间表有风险，客户要求这个时间表是授予项目的先决条件。\r\n项目经理应该怎么做？\r\n【单选】",
+				"option": [
+					{
+						"content": "A：正式向客户通知与时间表的偏差",
+						"id": "x7937A",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7937"
+					},
+					{
+						"content": "B：保持该时间表直到项目执行为止",
+						"id": "x7937B",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7937"
+					},
+					{
+						"content": "C：承诺该高层级时间表，突出制约因素、责任分配矩阵和风险分析",
+						"id": "x7937C",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7937"
+					},
+					{
+						"content": "D：根据原计划开始项目",
+						"id": "x7937D",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7937"
+					}
+				]
+			},
+			{
+				"correct_answer": [
+					"x7938C"
+				],
+				"answer": [
+					"x7938C"
+				],
+				"analysis": "本题考估算成本工具—自下而上估算。自下而上估算是对工作组成部分进行估算的一种方法。首先对单个工作包或活动的 成本进行最具体、细致的估算,然后把这些细节性成本向上汇总或“滚动”到更高层次,用于后续报告和跟踪。自下而上估算的准确性及其本身所需的成本,通常取决于单个活动或工作包的规模或其他属性。",
+				"question_id": "zzQuestionDiv-zzQuestionDiv7938",
+				"content": "116、\t\t一家制造公司正在实施一个利用新技术和新工艺生产新产品的项目。已经确定组件工作包的详细信息，并识别到每个组件的制约因素。管理层希望获得该项目的精确成本估算。\r\n项目经理应该使用什么估算技术？\r\n【单选】",
+				"option": [
+					{
+						"content": "A：类比估算",
+						"id": "x7938A",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7938"
+					},
+					{
+						"content": "B：三点估算法",
+						"id": "x7938B",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7938"
+					},
+					{
+						"content": "C：自下而上估算",
+						"id": "x7938C",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7938"
+					},
+					{
+						"content": "D：参数估算",
+						"id": "x7938D",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7938"
+					}
+				]
+			},
+			{
+				"correct_answer": [
+					"x7939C"
+				],
+				"answer": [
+					"x7939C"
+				],
+				"analysis": "本题考制定项目管理计划过程内容。题目描述要“启动这个过程”，过程是指开始项目，而题目还描述由于资源经验丰富，可以理解开始项目，可以理解为开始项目的执行。而项目的执行需要参考计划，那么应该先创建项目管理计划。从排除法的角度来看，四个选项没有启动过程组的内容，那么相对来讲C选项最全面合理。",
+				"question_id": "zzQuestionDiv-zzQuestionDiv7939",
+				"content": "117、\t\t一家公司要求项目经理为一项新装配技术启���一个项目。项目资源平均为公司工作15年，并认为他们可以立即开始项目。\r\n项目经理应该怎么做来启动这个过程？\r\n【单选】",
+				"option": [
+					{
+						"content": "A：制定一份培训计划",
+						"id": "x7939A",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7939"
+					},
+					{
+						"content": "B：召开项目启动大会（kick-off meeting）",
+						"id": "x7939B",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7939"
+					},
+					{
+						"content": "C：创建项目管理计划",
+						"id": "x7939C",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7939"
+					},
+					{
+						"content": "D：制定一份激励计划",
+						"id": "x7939D",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7939"
+					}
+				]
+			},
+			{
+				"correct_answer": [
+					"x7940A"
+				],
+				"answer": [
+					"x7940A"
+				],
+				"analysis": "本题考管理团队工具—人际关系与团队技能（冲突管理）。会议不断中断可以理解为是由于会议中的冲突导致，可以使用冲突管理方法来解决。",
+				"question_id": "zzQuestionDiv-zzQuestionDiv7940",
+				"content": "118、\t\t项目经理与一个由15人组成的团队召开会议，会议不断发生中断，会议目标几乎没有完成。若要解决这个问题，项目经理应该怎么做？【单选】",
+				"option": [
+					{
+						"content": "A：冲突管理",
+						"id": "x7940A",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7940"
+					},
+					{
+						"content": "B：政治意识",
+						"id": "x7940B",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7940"
+					},
+					{
+						"content": "C：非语言沟通",
+						"id": "x7940C",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7940"
+					},
+					{
+						"content": "D：积极倾听",
+						"id": "x7940D",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7940"
+					}
+				]
+			},
+			{
+				"correct_answer": [
+					"x7941C"
+				],
+				"answer": [
+					"x7941C"
+				],
+				"analysis": "本题考变更流程。是否要进行变更，要按照变更流程去走，进行影响分析，并提交给CCB。",
+				"question_id": "zzQuestionDiv-zzQuestionDiv7941",
+				"content": "119、\t\t一家公司的法律部门请求一项变更，而该变更将会影响到进度基准。但是，发起人并不认为这项变更是必要的，并希望保持发布日期。\r\n项目经理应该怎么做？\r\n【单选】",
+				"option": [
+					{
+						"content": "A：批准该变更，并应用进度优化技术来保持相同的发布日期",
+						"id": "x7941A",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7941"
+					},
+					{
+						"content": "B：拒绝该变更，因为项目发起人不认为该变更是必要的",
+						"id": "x7941B",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7941"
+					},
+					{
+						"content": "C：分析所有可能的影响，并向变更控制委员会（CCB）提交变更及其影响",
+						"id": "x7941C",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7941"
+					},
+					{
+						"content": "D：向承包商咨询该变更的可行性，并根据他们的专家意见作出决定",
+						"id": "x7941D",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7941"
+					}
+				]
+			},
+			{
+				"correct_answer": [
+					"x7942C"
+				],
+				"answer": [
+					"x7942C"
+				],
+				"analysis": "本题考识别风险输出—风险登记册。“一项新法规可能影响一个异地项目的交接日期”这是识别出的风险，风险识别后，应该先记录风险登记册，然后再分析。",
+				"question_id": "zzQuestionDiv-zzQuestionDiv7942",
+				"content": "120、\t\t以为团队成员发现一项新法规可能影响一个异地项目的交接日期。项目经理下一步应该怎么做？【单选】",
+				"option": [
+					{
+						"content": "A：要求项目发起人接受该风险",
+						"id": "x7942A",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7942"
+					},
+					{
+						"content": "B：在进度计划中添加额外时间",
+						"id": "x7942B",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7942"
+					},
+					{
+						"content": "C：更新风险登记册进行风险分析",
+						"id": "x7942C",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7942"
+					},
+					{
+						"content": "D：请主要相关方将该问题提交给变更控制委员会（CCB）",
+						"id": "x7942D",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7942"
+					}
+				]
+			},
+			{
+				"correct_answer": [
+					"x7943B"
+				],
+				"answer": [
+					"x7943B"
+				],
+				"analysis": "本题考监控项目工作输出—变更请求。本题有一些歧义，描述了“在项目结束时”，如果项目已经完成验收，那么就不会出现“会延长进度计划并增加成本”的描述，所以这里可以看做项目还没有得到验收，只是快结束时，所以应该提交变更请求。",
+				"question_id": "zzQuestionDiv-zzQuestionDiv7943",
+				"content": "121、\t\t在项目结束时要求进行一项重要变更，虽然需要进行这项变更来解决可能影响业务连续性的紧急问题，但会延长进度计划并增加成本。\r\n项目经理下一步应该怎么做？\r\n【单选】",
+				"option": [
+					{
+						"content": "A：拒绝该变更",
+						"id": "x7943A",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7943"
+					},
+					{
+						"content": "B：提交变更请求",
+						"id": "x7943B",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7943"
+					},
+					{
+						"content": "C：实施该变更",
+						"id": "x7943C",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7943"
+					},
+					{
+						"content": "D：沟通对预算和进度的影响",
+						"id": "x7943D",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7943"
+					}
+				]
+			},
+			{
+				"correct_answer": [
+					"x7944A"
+				],
+				"answer": [
+					"x7944A"
+				],
+				"analysis": "本题考管理质量过程。质量保证属于管理质量过程，该过程关注质量改进，能够防止再次发生这个问题。",
+				"question_id": "zzQuestionDiv-zzQuestionDiv7944",
+				"content": "122、\t\t由于所需的验收标准未得到满足，客户停止了里程碑付款，公司应该采用哪一种质量管理过程来阻止再次发生这个问题？【单选】",
+				"option": [
+					{
+						"content": "A：质量保证（QA）",
+						"id": "x7944A",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7944"
+					},
+					{
+						"content": "B：质量控制（QC）",
+						"id": "x7944B",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7944"
+					},
+					{
+						"content": "C：质量规划",
+						"id": "x7944C",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7944"
+					},
+					{
+						"content": "D：质量反馈",
+						"id": "x7944D",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7944"
+					}
+				]
+			},
+			{
+				"correct_answer": [
+					"x7945B"
+				],
+				"answer": [
+					"x7945B"
+				],
+				"analysis": "本题考项目启动内容。项目经理进行成本效益分析，目的是为了帮助发起人确认项目的可行性，所以本题选择B最合适。",
+				"question_id": "zzQuestionDiv-zzQuestionDiv7945",
+				"content": "123、\t\t在项目启动期间，项目经理进行了成本效益分析，结果为0.6，项目经理下一步应该怎么做？【单选】",
+				"option": [
+					{
+						"content": "A：咨询专家，寻找选择方案，并重新执行分析",
+						"id": "x7945A",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7945"
+					},
+					{
+						"content": "B：与项目发起人以其审查结果，以确认项目的可行性",
+						"id": "x7945B",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7945"
+					},
+					{
+						"content": "C：审查报告以确定是应该开始项目还是拒绝项目",
+						"id": "x7945C",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7945"
+					},
+					{
+						"content": "D：咨询相关方关于项目的批准情况",
+						"id": "x7945D",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7945"
+					}
+				]
+			},
+			{
+				"correct_answer": [
+					"x7946A"
+				],
+				"answer": [
+					"x7946A"
+				],
+				"analysis": "本题考建设团队工具—变更请求。技术部门对之前的培训来操作该服务不自信，说明之前的培训无效，应该提交变更来获得合适的培训。本题可以采取排除法，B、C、D三个选项都不符合项目经理团队建设的内容，所以这三个选项都不正确。",
+				"question_id": "zzQuestionDiv-zzQuestionDiv7946",
+				"content": "124、\t\t项目经理负责管理一个项目，该项目旨在推出一项新服务。项目经理得知，技术部门对于使用已提供的培训来操作这项服务感到不自信。\r\n项目经理首先应该怎么做？\r\n【单选】",
+				"option": [
+					{
+						"content": "A：完成一项变更控制要求并将该问题纳入经验教训中",
+						"id": "x7946A",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7946"
+					},
+					{
+						"content": "B：建议团队与制定的相关方一起审查验收标准",
+						"id": "x7946B",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7946"
+					},
+					{
+						"content": "C：将可交付成果转移给对操作这项服务更有信心的另一个团队",
+						"id": "x7946C",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7946"
+					},
+					{
+						"content": "D：停止项目以确认操作员对接受的培训感到满意",
+						"id": "x7946D",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7946"
+					}
+				]
+			},
+			{
+				"correct_answer": [
+					"x7947B"
+				],
+				"answer": [
+					"x7947B"
+				],
+				"analysis": "本题考控制成本输出—变更请求。设备的成本降低，那么项目中就不需要花费原计划的成本，那么应该按照变更管理计划来提交变更请求，按照流程来更新成本。",
+				"question_id": "zzQuestionDiv-zzQuestionDiv7947",
+				"content": "125、\t\t在一次项目会议期间，团队得知项目所需的一台设备的成本降低。成本管理计划已获得批准，项目经理应该怎么做？【单选】",
+				"option": [
+					{
+						"content": "A：继续执行项目而不通知变更控制委员会（CCB）",
+						"id": "x7947A",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7947"
+					},
+					{
+						"content": "B：遵循变更管理计划，并要求变更控制委员会批准成本变更",
+						"id": "x7947B",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7947"
+					},
+					{
+						"content": "C：更新变更管理计划，以包含该成本变更",
+						"id": "x7947C",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7947"
+					},
+					{
+						"content": "D：将该成本降低事宜通知变更控制委员会，并继续执行项目",
+						"id": "x7947D",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7947"
+					}
+				]
+			},
+			{
+				"correct_answer": [
+					"x7948C"
+				],
+				"answer": [
+					"x7948C"
+				],
+				"analysis": "本题考识别相关方输出—相关方登记册。由于文化差异导致计划不能够得到批准，这说明在项目开始的时候没有重视相关方的文化差异情况，所以应该事先识别该相关方，并对其期望、利益、影响、文化做全面分析来避免或减轻该问题。",
+				"question_id": "zzQuestionDiv-zzQuestionDiv7948",
+				"content": "126、\t\t由于跨文化差异，一个跨国项目的相关方未能批准项目管理计划，为减轻这个问题，项目经理应该事先做什么？【单选】",
+				"option": [
+					{
+						"content": "A：审查/更新问题日志，以反映项目管理计划可能不会获得批准",
+						"id": "x7948A",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7948"
+					},
+					{
+						"content": "B：要求相关方提前反馈",
+						"id": "x7948B",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7948"
+					},
+					{
+						"content": "C：更新相��方登记册并注意非语言线索",
+						"id": "x7948C",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7948"
+					},
+					{
+						"content": "D：用一种通用的沟通语言培训团队",
+						"id": "x7948D",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7948"
+					}
+				]
+			},
+			{
+				"correct_answer": [
+					"x7949D"
+				],
+				"answer": [
+					"x7949D"
+				],
+				"analysis": "本题考管理团队工具—人际关系与团队技能（冲突管理）。团队成员之前存在分歧，也就是冲突，应该通过冲突管理来解决。",
+				"question_id": "zzQuestionDiv-zzQuestionDiv7949",
+				"content": "127、\t\t在项目执行期间，某些任务所花的时间比预期长。团队成员之间存在一些分歧，并且发起人要求迅速采取行动来解决这个问题。\r\n项目经理应该怎么做？\r\n【单选】",
+				"option": [
+					{
+						"content": "A：制定团队章程",
+						"id": "x7949A",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7949"
+					},
+					{
+						"content": "B：与团队一起审查团队章程",
+						"id": "x7949B",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7949"
+					},
+					{
+						"content": "C：与人力资源部门和团队一起开会讨论这个问题",
+						"id": "x7949C",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7949"
+					},
+					{
+						"content": "D：实施冲突管理过程",
+						"id": "x7949D",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7949"
+					}
+				]
+			},
+			{
+				"correct_answer": [
+					"x7950A"
+				],
+				"answer": [
+					"x7950A"
+				],
+				"analysis": "本题考制定项目章程输出—项目章程。本题采用排除法比较好，B、C、D三个选项都是明确应该在规划过程组做的，只有A有可能在启动过程组就定义，所以本题选A最好。",
+				"question_id": "zzQuestionDiv-zzQuestionDiv7950",
+				"content": "128、\t\t一家跨国公司的组织单位有大量的产品增强功能待办事项，这些产品增强功能是暂时保留的用户故事，待批的预算申请在上周获得批准。\r\n新任命的项目经理应该将下列哪一项作为启动过程的一部分？\r\n【单选】",
+				"option": [
+					{
+						"content": "A：记录项目生命周期和方法论需求",
+						"id": "x7950A",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7950"
+					},
+					{
+						"content": "B：为所有用户故事制定一份进度计划",
+						"id": "x7950B",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7950"
+					},
+					{
+						"content": "C：对所有用户故事执行风险评估",
+						"id": "x7950C",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7950"
+					},
+					{
+						"content": "D：根据以前相同产品的项目分配资源",
+						"id": "x7950D",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7950"
+					}
+				]
+			},
+			{
+				"correct_answer": [
+					"x7951A"
+				],
+				"answer": [
+					"x7951A"
+				],
+				"analysis": "本题考控制范围内容。范围蔓延是由于没有遵守变更流程而导致的范围增加，那么为了避免范围蔓延，应该遵循正式的变更流程。",
+				"question_id": "zzQuestionDiv-zzQuestionDiv7951",
+				"content": "129、\t\t项目经理加入一个具有分布式团队、固定预算和紧迫期限的项目。在项目规划过程中，若要避免任何范围蔓延，并让团队专注于交付满足要求的产品，项目经理应该怎么做？【单选】",
+				"option": [
+					{
+						"content": "A：确保范围的任何变更都经过正式的批准过程",
+						"id": "x7951A",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7951"
+					},
+					{
+						"content": "B：与所有开发团队召开每日站会",
+						"id": "x7951B",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7951"
+					},
+					{
+						"content": "C：要求所有开发团队主管准备详细的需求",
+						"id": "x7951C",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7951"
+					},
+					{
+						"content": "D：制止相关方直接与开发团队主管交流",
+						"id": "x7951D",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7951"
+					}
+				]
+			},
+			{
+				"correct_answer": [
+					"x7952C"
+				],
+				"answer": [
+					"x7952C"
+				],
+				"analysis": "本题考结束项目或阶段工具—专家判断。“在完成项目的第一阶段后”，意味着阶段收尾，本题中只有C属于收尾工具。",
+				"question_id": "zzQuestionDiv-zzQuestionDiv7952",
+				"content": "130、\t\t一家银行正在执行一个项目，在整个组织中部署新软件。在完成项目的第一阶段后，项目经理召集所有部门的职能经理召开会议，以审查项目问题并收集经验教训。\r\n项目经理应该在会议期间使用什么来检查项目问题并分析经验教训？\r\n【单选】",
+				"option": [
+					{
+						"content": "A：头脑风暴",
+						"id": "x7952A",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7952"
+					},
+					{
+						"content": "B：因果分析",
+						"id": "x7952B",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7952"
+					},
+					{
+						"content": "C：专家判断",
+						"id": "x7952C",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7952"
+					},
+					{
+						"content": "D：散点图",
+						"id": "x7952D",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7952"
+					}
+				]
+			},
+			{
+				"correct_answer": [
+					"x7953D"
+				],
+				"answer": [
+					"x7953D"
+				],
+				"analysis": "本题考规划质量管理输出—质量管理计划。“材料检查员”检查的是材料的质量，用什么样的方式方法来检查，属于质量范畴，应该参考质量管理计划。",
+				"question_id": "zzQuestionDiv-zzQuestionDiv7953",
+				"content": "131、\t\t项目经理加入一个已经在进行当中的项目。质量审计报告显示，由一个供应商提供的一些材料在材料检查员没有出具批准文件的情况下，获得付款批准，项目经理得知检查员口头表达了批准意见，然后再提供批准文件。\r\n哪一份计划可以帮助项目经理评估这种批准方式是否符合项目管理计划？\r\n【单选】",
+				"option": [
+					{
+						"content": "A：需求管理计划",
+						"id": "x7953A",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7953"
+					},
+					{
+						"content": "B：相关方参与计划",
+						"id": "x7953B",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7953"
+					},
+					{
+						"content": "C：沟通管理计划",
+						"id": "x7953C",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7953"
+					},
+					{
+						"content": "D：质量管理计划",
+						"id": "x7953D",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7953"
+					}
+				]
+			},
+			{
+				"correct_answer": [
+					"x7954B"
+				],
+				"answer": [
+					"x7954B"
+				],
+				"analysis": "本题考监督相关方参与输出—项目文件更新（相关方登记册）。项目中出现了未曾识别的相关方，首先应该先将这些相关方记录到相关方登记册中。",
+				"question_id": "zzQuestionDiv-zzQuestionDiv7954",
+				"content": "132、\t\t一些未识别到的相关方报告说，他们的职能领域受到很大影响，但没有持续通知他们关键项目的状态。项目经理首先应该怎么做？【单选】",
+				"option": [
+					{
+						"content": "A：审查项目的沟通方法",
+						"id": "x7954A",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7954"
+					},
+					{
+						"content": "B：检查并更��相关方登记册",
+						"id": "x7954B",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7954"
+					},
+					{
+						"content": "C：确定沟通项目状态的新策略",
+						"id": "x7954C",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7954"
+					},
+					{
+						"content": "D：邀请所有相关方参加状态会议",
+						"id": "x7954D",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7954"
+					}
+				]
+			},
+			{
+				"correct_answer": [
+					"x7955B"
+				],
+				"answer": [
+					"x7955B"
+				],
+				"analysis": "本题考规划质量管理工具—数据分析（质量成本）。客户发现的质量问题，说明产品已经交付出去，那么这里使用的成本属于外部质量成本。",
+				"question_id": "zzQuestionDiv-zzQuestionDiv7955",
+				"content": "133、\t\t客户识别到一个新实施产品的性能问题。项目经理应使用哪一个质量成本（COQ）类别来估算这项成本？【单选】",
+				"option": [
+					{
+						"content": "A：预防成本",
+						"id": "x7955A",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7955"
+					},
+					{
+						"content": "B：外部失败成本",
+						"id": "x7955B",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7955"
+					},
+					{
+						"content": "C：评估成本",
+						"id": "x7955C",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7955"
+					},
+					{
+						"content": "D：内部失败成本",
+						"id": "x7955D",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7955"
+					}
+				]
+			},
+			{
+				"correct_answer": [
+					"x7956A"
+				],
+				"answer": [
+					"x7956A"
+				],
+				"analysis": "本题考变更流程。当项目中识别了一项变更，应该先进行变更的影响评估。对于变更直接拒绝和批准都是不正确的。",
+				"question_id": "zzQuestionDiv-zzQuestionDiv7956",
+				"content": "134、\t\t为限制变更的数量，项目经理制定了严格的变更管理计划，只允许批准减轻重大潜在或实质性风险的变更，一位团队成员提出了一个范围变更，该变更将消除对一个落后于进度计划的外部项目的依赖关系。\r\n项目经理应该怎么做？\r\n【单选】",
+				"option": [
+					{
+						"content": "A：与发起人和外部项目经理讨论提议的变更",
+						"id": "x7956A",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7956"
+					},
+					{
+						"content": "B：拒绝该变更，因为根据变更管理计划应避免所有变更",
+						"id": "x7956B",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7956"
+					},
+					{
+						"content": "C：接受该变更，因为这是一项预防措施",
+						"id": "x7956C",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7956"
+					},
+					{
+						"content": "D：同意该变更，因为这是一项纠正措施",
+						"id": "x7956D",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7956"
+					}
+				]
+			},
+			{
+				"correct_answer": [
+					"x7957D"
+				],
+				"answer": [
+					"x7957D"
+				],
+				"analysis": "本题考管理质量工具—数据表现（因果图）。因果图,又称“鱼骨图”��“why-why分析图”或“石川图”,将问题陈述的原因分解为离散的分支,有助于识别问题的主要原因或根本原因。",
+				"question_id": "zzQuestionDiv-zzQuestionDiv7957",
+				"content": "135、\t\t项目经理正在与质量保证（QA）专家合作，以确定生产线中许多质量偏差和缺陷背后的原因。项目经理应该使用下列哪一项来确定问题的根源？【单选】",
+				"option": [
+					{
+						"content": "A：直方图",
+						"id": "x7957A",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7957"
+					},
+					{
+						"content": "B：散点图",
+						"id": "x7957B",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7957"
+					},
+					{
+						"content": "C：矩阵图",
+						"id": "x7957C",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7957"
+					},
+					{
+						"content": "D：鱼骨图",
+						"id": "x7957D",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7957"
+					}
+				]
+			},
+			{
+				"correct_answer": [
+					"x7958B"
+				],
+				"answer": [
+					"x7958B"
+				],
+				"analysis": "本题考识别相关方工具—相关方分析。项目经理新加入一个项目，当前项目处于启动过程组，最优先应该制定项目章程和识别相关方，之后进行需求的分析，确定范围后可以确定A、C、D选项的内容。",
+				"question_id": "zzQuestionDiv-zzQuestionDiv7958",
+				"content": "136、\t\t项目经理加入一个新的价值数百万美元的项目，要求成功实施来自各部门的可交付成果，若要成功实施该项目，项目经理首先应该怎么做？【单选】",
+				"option": [
+					{
+						"content": "A：拜访客户以确保已为关键客户相关方识别到所有沟通渠道",
+						"id": "x7958A",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7958"
+					},
+					{
+						"content": "B：执行相关方分析并进行详细的需求会议",
+						"id": "x7958B",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7958"
+					},
+					{
+						"content": "C：立即识别在该项目上工作的最佳资源",
+						"id": "x7958C",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7958"
+					},
+					{
+						"content": "D：与已经成功向客户交付的外部供应商签订合同",
+						"id": "x7958D",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7958"
+					}
+				]
+			},
+			{
+				"correct_answer": [
+					"x7959B"
+				],
+				"answer": [
+					"x7959B"
+				],
+				"analysis": "本题考实施整体变更控制工具—会议。客户提出的新功能，可以理解为变更请求，变更请求应该由CCB来受理、评估和审批变更。",
+				"question_id": "zzQuestionDiv-zzQuestionDiv7959",
+				"content": "137、\t\t一名团队成员急于将客户正在考虑的新功能添加到项目的可交付成果中。在开始为这些新功能工作之前，需要谁的批准？【单选】",
+				"option": [
+					{
+						"content": "A：项目经理",
+						"id": "x7959A",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7959"
+					},
+					{
+						"content": "B：变更控制委员会（CCB）",
+						"id": "x7959B",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7959"
+					},
+					{
+						"content": "C：项目发起人",
+						"id": "x7959C",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7959"
+					},
+					{
+						"content": "D：主题专家（SME）",
+						"id": "x7959D",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7959"
+					}
+				]
+			},
+			{
+				"correct_answer": [
+					"x7960A"
+				],
+				"answer": [
+					"x7960A"
+				],
+				"analysis": "本题考确认范围输入—项目文件（需求文件），项目管理计划（范围基准）。“获得该相关方的批准”也就是成果的验收，应该考虑相关方需求和定义好的范围。",
+				"question_id": "zzQuestionDiv-zzQuestionDiv7960",
+				"content": "138、\t\t一位相关方认为最近一个项目的可交付成果没有实现，若要获得该相关方的批准，项目经理应该怎么做？【单选】",
+				"option": [
+					{
+						"content": "A：分析该相关方的需求和期望并审查项目范围",
+						"id": "x7960A",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7960"
+					},
+					{
+						"content": "B：与该相关方一起审查项目章程",
+						"id": "x7960B",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7960"
+					},
+					{
+						"content": "C：与该相关方一起审查质量管理计划",
+						"id": "x7960C",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7960"
+					},
+					{
+						"content": "D：获得该相关方的新需求并执行风险分析",
+						"id": "x7960D",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7960"
+					}
+				]
+			},
+			{
+				"correct_answer": [
+					"x7961D"
+				],
+				"answer": [
+					"x7961D"
+				],
+				"analysis": "本题考实施整体变更控制内容。项目出现范围蔓延，是由于范围的增加没有遵循变更管理计划定义的变更流程导致，那么应该在项目开始时就考虑严格和正式的过程来批准变更，来避免出现此类问题。",
+				"question_id": "zzQuestionDiv-zzQuestionDiv7961",
+				"content": "139、\t\t在项目启动阶段，项目经理审查了经验教训知识库。项目经理得知，之前有一个项目由于不断的范围蔓延而失败，这个项目无法负担额外的时间或预算。\r\n为避免项目失败，项目经理应该怎么做？\r\n【单选】",
+				"option": [
+					{
+						"content": "A：拒绝所有超出范围的变更请求",
+						"id": "x7961A",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7961"
+					},
+					{
+						"content": "B：管理关键干系人的期望",
+						"id": "x7961B",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7961"
+					},
+					{
+						"content": "C：将该信息升级上报给发起人",
+						"id": "x7961C",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7961"
+					},
+					{
+						"content": "D：包含严格和正式的过程批准变更",
+						"id": "x7961D",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7961"
+					}
+				]
+			},
+			{
+				"correct_answer": [
+					"x7962C"
+				],
+				"answer": [
+					"x7962C"
+				],
+				"analysis": "本题考风险领域内容。由于该问题会影响到依赖于该系统的其他项目，那么这些受波及的相关方应该和项目经理一起进行风险的处理。",
+				"question_id": "zzQuestionDiv-zzQuestionDiv7962",
+				"content": "140、\t\t项目经理正在开展一个内部项目，需要一个新的销售点（POS）交易系统。项目经理发现这个系统有个问题，不仅可能延迟这个项目，而且还会影响到依赖于这个系统的其他一些项目。这个问题被包含在风险登记册中，因为之前的试验认为该系统没有缺陷。\r\n项目经理应该联系谁来解决这个问题？\r\n【单选】",
+				"option": [
+					{
+						"content": "A：IT部门",
+						"id": "x7962A",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7962"
+					},
+					{
+						"content": "B：受影响的发起人",
+						"id": "x7962B",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7962"
+					},
+					{
+						"content": "C：受影响的项目经理",
+						"id": "x7962C",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7962"
+					},
+					{
+						"content": "D：运营团队",
+						"id": "x7962D",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7962"
+					}
+				]
+			},
+			{
+				"correct_answer": [
+					"x7963A"
+				],
+				"answer": [
+					"x7963A"
+				],
+				"analysis": "本题考指导与管理项目工作输入—批准的变更请求。变更请求已经获得批准，下一步执行实施即可。",
+				"question_id": "zzQuestionDiv-zzQuestionDiv7963",
+				"content": "141、\t\t项目可行性研究确定了应该创建什么产品。现在，开发与原始需求冲突的另一种产品的一项变更请求，已经获得批准，在变更请求获得批前已进行数据分析。\r\n项目经理应该怎么做？\r\n【单选】",
+				"option": [
+					{
+						"content": "A：实施该变更请求",
+						"id": "x7963A",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7963"
+					},
+					{
+						"content": "B：拒绝该变更请求",
+						"id": "x7963B",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7963"
+					},
+					{
+						"content": "C：请求详细的数据分析报告",
+						"id": "x7963C",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7963"
+					},
+					{
+						"content": "D：请求新产品的可行性报告",
+						"id": "x7963D",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7963"
+					}
+				]
+			},
+			{
+				"correct_answer": [
+					"x7964C"
+				],
+				"answer": [
+					"x7964C"
+				],
+				"analysis": "本题考实施风险应对过程内容。“资源不能按计划可用”可能是之前识别出来的风险，那么可以根据风险应对措施来确定具体的解决方法，A、B、D都是相应的风险应对措施，所以C选项优先。",
+				"question_id": "zzQuestionDiv-zzQuestionDiv7964",
+				"content": "142、\t\t在一个项目的执行阶段，一些资源不能按计划可用，项目经理应该怎么做？【单选】",
+				"option": [
+					{
+						"content": "A：将该问题上报给项目发起人",
+						"id": "x7964A",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7964"
+					},
+					{
+						"content": "B：提交变更请求",
+						"id": "x7964B",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7964"
+					},
+					{
+						"content": "C：实施风险应对计划",
+						"id": "x7964C",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7964"
+					},
+					{
+						"content": "D：与其他项目经理进行谈判",
+						"id": "x7964D",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7964"
+					}
+				]
+			},
+			{
+				"correct_answer": [
+					"x7965C"
+				],
+				"answer": [
+					"x7965C"
+				],
+				"analysis": "本题考管理项目知识输出—经验教训登记册。根据题意，该项目会产生多个相似的可交付成果，那么第一个可交付成果开发过程中产生的经验教训就十分重要，可以帮助项目经理在后续的成果开发中起到重要的参考作用。",
+				"question_id": "zzQuestionDiv-zzQuestionDiv7965",
+				"content": "143、\t\t一个项目团队成功实现了一个关键里程碑，为此，团队满足了一个新工艺的关键技术需求，然后使用该工艺开发了几个类似可交付成果的第一个。\r\n项目经理下一步应该怎么做？\r\n【单选】",
+				"option": [
+					{
+						"content": "A：开展绩效评估",
+						"id": "x7965A",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7965"
+					},
+					{
+						"content": "B：将该项目移交给运营团队",
+						"id": "x7965B",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7965"
+					},
+					{
+						"content": "C：记录经验教训",
+						"id": "x7965C",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7965"
+					},
+					{
+						"content": "D：确保已记录最终成本",
+						"id": "x7965D",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7965"
+					}
+				]
+			},
+			{
+				"correct_answer": [
+					"x7966B"
+				],
+				"answer": [
+					"x7966B"
+				],
+				"analysis": "本题考事业环境因素内容。缺乏的机械属于基础设施的范畴。",
+				"question_id": "zzQuestionDiv-zzQuestionDiv7966",
+				"content": "144、\t\t在一个为期两年的新高速公路建设项目的前八个月中，由于缺乏一种机械，项目落后于进度计划。\r\n这属于哪一项事业环境因素？\r\n【单选】",
+				"option": [
+					{
+						"content": "A：组织结构",
+						"id": "x7966A",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7966"
+					},
+					{
+						"content": "B：基础设施",
+						"id": "x7966B",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7966"
+					},
+					{
+						"content": "C：相关方风险临界值",
+						"id": "x7966C",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7966"
+					},
+					{
+						"content": "D：可持续性",
+						"id": "x7966D",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7966"
+					}
+				]
+			},
+			{
+				"correct_answer": [
+					"x7967D"
+				],
+				"answer": [
+					"x7967D"
+				],
+				"analysis": "本题考指导与管理项目工作输入—组织过程资产（经验教训知识库）。项目在执行过程组，在没有特别说明的情况下，可以归到指导与管理项目工作过程中去。而且题目还提到了“之前完成的一个项目”，那么在执行工作时应该参考之前项目的经验教训文件，也就是组织过程资产。",
+				"question_id": "zzQuestionDiv-zzQuestionDiv7967",
+				"content": "145、\t\t项目经理正在执行一个新的项目，以解决之前完成的一个项目中的差距，项目经理首先应该做什么？【单选】",
+				"option": [
+					{
+						"content": "A：计划使用相同的项目资源",
+						"id": "x7967A",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7967"
+					},
+					{
+						"content": "B：准备项目管理计划",
+						"id": "x7967B",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7967"
+					},
+					{
+						"content": "C：定义需求，并最终确定范围",
+						"id": "x7967C",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7967"
+					},
+					{
+						"content": "D：参阅经验教训文件",
+						"id": "x7967D",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7967"
+					}
+				]
+			},
+			{
+				"correct_answer": [
+					"x7968D"
+				],
+				"answer": [
+					"x7968D"
+				],
+				"analysis": "本题考实施整体变更控制输入—项目管理计划（变更管理计划）。相关方提出变更请求，应该参考变更管理计划的内容来对待变更。",
+				"question_id": "zzQuestionDiv-zzQuestionDiv7968",
+				"content": "146、\t\t在一个项目的最终阶段，一位关键相关方提出对主要可交付成果的新改进意见。团队不同意进行改进。\r\n项目经理应该怎么做？\r\n【单选】",
+				"option": [
+					{
+						"content": "A：将该情况记录在风险登记册中",
+						"id": "x7968A",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7968"
+					},
+					{
+						"content": "B：提交变更请求",
+						"id": "x7968B",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7968"
+					},
+					{
+						"content": "C：审查沟通管理计划",
+						"id": "x7968C",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7968"
+					},
+					{
+						"content": "D：审查变更管理计划",
+						"id": "x7968D",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7968"
+					}
+				]
+			},
+			{
+				"correct_answer": [
+					"x7969D"
+				],
+				"answer": [
+					"x7969D"
+				],
+				"analysis": "本题考规划资源管理输出—团队章程。团队章程对项目团队成员的可接受行为确定了明确的期望。尽早认可并遵守明确的规则,有助于 减少误解,提高生产力;讨论诸如行为规范、沟通、决策、会议礼仪等领域,团队成员可以了解彼 此重要的价值观。由团队制定或参与制定的团队章程可发挥最佳效果。所有项目团队成员都分担责 任,确保遵守团队章程中规定的规则。可定期审查和更新团队章程,确保团队始终了解团队基本规 则,并指导新成员融入团队。",
+				"question_id": "zzQuestionDiv-zzQuestionDiv7969",
+				"content": "147、\t\t一位新团队成员加入一个项目，项目经理的纪律严明，并期待按时参加每周会议，这位新成员来自一个文化自由的组织，由于习惯，一直迟到参加各种会议，当问到为什么迟到时，该团队成员回应说他们忙于处理可交付成果，他们认为应该优先处理可交付成果。\r\n项目经理应该怎么做？\r\n【单选】",
+				"option": [
+					{
+						"content": "A：暂停该团队成员的工作并解释这种行为是不允许的",
+						"id": "x7969A",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7969"
+					},
+					{
+						"content": "B：两次与该团队成员会面，解释守时至关重要",
+						"id": "x7969B",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7969"
+					},
+					{
+						"content": "C：忽略这种行为，因为这名团队成员正在确保总过不受影响",
+						"id": "x7969C",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7969"
+					},
+					{
+						"content": "D：强调基本规则并影响团队，以便所有人都了解并遵守这些规则",
+						"id": "x7969D",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7969"
+					}
+				]
+			},
+			{
+				"correct_answer": [
+					"x7970C"
+				],
+				"answer": [
+					"x7970C"
+				],
+				"analysis": "本题考控制进度工具—进度压缩（赶工）。从题干的信息来考虑，CPI=1.2，说明成本节约，而且进度落后，那么就可以使用赶工方法来解决问题。赶工是通过增加资源,以最小的成本代价来压缩进度工期的一种技术。赶工的例子包括:批准加班、增加额外资源或支付加急费用,来加快关键路径上的活动。赶工只适用于那些通过增加资源就能缩短持续时间的,且位于关键路径上的活动。但赶工并非总是切实可行的,因它可能导致风险和/或成本的增加。",
+				"question_id": "zzQuestionDiv-zzQuestionDiv7970",
+				"content": "148、\t\t一个项目的成本绩效指数（CPI）为1.2，且关键路径上的一个可交付成果落后于进度。\r\n如果项目经理将项目带回正轨，项目会发生什么情况？\r\n【单选】",
+				"option": [
+					{
+						"content": "A：活动将并行执行",
+						"id": "x7970A",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7970"
+					},
+					{
+						"content": "B：范围将被修改",
+						"id": "x7970B",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7970"
+					},
+					{
+						"content": "C：成本和风险将会增加",
+						"id": "x7970C",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7970"
+					},
+					{
+						"content": "D：将导致返工",
+						"id": "x7970D",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7970"
+					}
+				]
+			},
+			{
+				"correct_answer": [
+					"x7971B"
+				],
+				"answer": [
+					"x7971B"
+				],
+				"analysis": "本题考指导与管理项目工作输出—问题日志。“一个海外项目团队担心由于对项目需求的误解而无��实现目标”可以理解为被提出的问题，要解决这个问题，应该先记录在问题日志中，再进行分析找到最佳解决方案。",
+				"question_id": "zzQuestionDiv-zzQuestionDiv7971",
+				"content": "149、\t\t项目经理通过电子邮件向所有项目相关方（包括本地和海外团队成员）分发每周项目更新，一个海外项目团队担心由于对项目需求的误解而无法实现目标。\r\n项目经理应该怎么做？\r\n【单选】",
+				"option": [
+					{
+						"content": "A：单独与该海外团队谈话澄清该问题",
+						"id": "x7971A",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7971"
+					},
+					{
+						"content": "B：将该问题记录在问题日志中",
+						"id": "x7971B",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7971"
+					},
+					{
+						"content": "C：分配另一个海外团队来帮助/知道他们",
+						"id": "x7971C",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7971"
+					},
+					{
+						"content": "D：与所有相关方开会，讨论这个问题",
+						"id": "x7971D",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7971"
+					}
+				]
+			},
+			{
+				"correct_answer": [
+					"x7972B"
+				],
+				"answer": [
+					"x7972B"
+				],
+				"analysis": "本题考控制成本工具—挣值分析。CV=EV-AC=5,000美元；SV=EV-PV=-5,000美元，说明进度落后，成本节约。",
+				"question_id": "zzQuestionDiv-zzQuestionDiv7972",
+				"content": "150、\t\t在一个价值50,000美元的项目中途，项目经理进行挣值分析（EVA）。结果显示计划价值（PV）为25,000美元，挣值（EV）为20,000美元。实际成本（AC）为15,000美元。\r\n根据这些结果，项目的状态是什么？\r\n【单选】",
+				"option": [
+					{
+						"content": "A：落后于进度，并超出预算",
+						"id": "x7972A",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7972"
+					},
+					{
+						"content": "B：落后于进度，但低于预算",
+						"id": "x7972B",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7972"
+					},
+					{
+						"content": "C：超前于进度，并低于预算",
+						"id": "x7972C",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7972"
+					},
+					{
+						"content": "D：超前于进度，但超出预算",
+						"id": "x7972D",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7972"
+					}
+				]
+			},
+			{
+				"correct_answer": [
+					"x7973C"
+				],
+				"answer": [
+					"x7973C"
+				],
+				"analysis": "本题考控制成本输出—变更请求。项目中出现了成本超支，和原计划要求不符，那么这时候可以提交纠正措施的变更请求。",
+				"question_id": "zzQuestionDiv-zzQuestionDiv7973",
+				"content": "151、\t\t一项新功能被批准用于软件开发项目，在该功能获得批准三周后，一位团队成员得知这项新功能的开发已经超出预算。\r\n项目经理下一步应该怎么做？\r\n【单选】",
+				"option": [
+					{
+						"content": "A：接受预算超支，因为该功能已获得批准",
+						"id": "x7973A",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7973"
+					},
+					{
+						"content": "B：停止开发新功能",
+						"id": "x7973B",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7973"
+					},
+					{
+						"content": "C：提交变更请求",
+						"id": "x7973C",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7973"
+					},
+					{
+						"content": "D：更新成本基准",
+						"id": "x7973D",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7973"
+					}
+				]
+			},
+			{
+				"correct_answer": [
+					"x7974C"
+				],
+				"answer": [
+					"x7974C"
+				],
+				"analysis": "本题考监督风险输入—项目文件（风险报告），工具—审计。根据题意，当前审计过程，而且涉及风险，那么正在做风险审计，该过程的参考文件是风险报告，能够帮助发起人了解风险原因。",
+				"question_id": "zzQuestionDiv-zzQuestionDiv7974",
+				"content": "152、\t\t一次项目审计发现，一项关键变更是在规定流程之外被拒绝。这对其它交付产生中等影响，发起人要求知道原因。\r\n项目经理首先应该审查哪一项？\r\n【单选】",
+				"option": [
+					{
+						"content": "A：变更日志",
+						"id": "x7974A",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7974"
+					},
+					{
+						"content": "B：需求跟踪矩阵",
+						"id": "x7974B",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7974"
+					},
+					{
+						"content": "C：风险报告",
+						"id": "x7974C",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7974"
+					},
+					{
+						"content": "D：变更请求",
+						"id": "x7974D",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7974"
+					}
+				]
+			},
+			{
+				"correct_answer": [
+					"x7975C"
+				],
+				"answer": [
+					"x7975C"
+				],
+				"analysis": "本题考规划沟通管理输出—沟通管理计划。“使用正确的渠道来处理正确的信息”这属于沟通领域范畴，应该在沟通管理计划中进行定义。",
+				"question_id": "zzQuestionDiv-zzQuestionDiv7975",
+				"content": "153、\t\t项目经理正在管理一个全球性项目，该项目的资源位于不同地区，若要使用正确的渠道来处理正确的信息，项目经理应该怎么做？【单选】",
+				"option": [
+					{
+						"content": "A：安排在不同时区召开会议",
+						"id": "x7975A",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7975"
+					},
+					{
+						"content": "B：频繁举行视频会议",
+						"id": "x7975B",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7975"
+					},
+					{
+						"content": "C：制定沟通管理计划",
+						"id": "x7975C",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7975"
+					},
+					{
+						"content": "D：创建相关方参与计划",
+						"id": "x7975D",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7975"
+					}
+				]
+			},
+			{
+				"correct_answer": [
+					"x7976B"
+				],
+				"answer": [
+					"x7976B"
+				],
+				"analysis": "本题考适应型生命周期内容。题目强调要“快速实施类似的产品”，并且“有关竞争对手新解决方案的信息很少”，所以没有办法一次将项目的成果做好，就需要根据当前信息快速推出产品，并不断的迭代更新。",
+				"question_id": "zzQuestionDiv-zzQuestionDiv7976",
+				"content": "154、\t\t一家公司的竞争对手向市场推出了一种新的解决方案。该公司的首席执行官决定创建一个项目来评估这种新解决方案的影响，并快速实施类似的产品来留住现有客户。有关竞争对手新解决方案的信息很少，发起人必须在得知这些信息之后尽快满足需求。\r\n在制定项目章程时，项目经理应该向发起人建议什么？\r\n【单选】",
+				"option": [
+					{
+						"content": "A：在项目章程中定义一个多阶段项目，分阶段处理每个新需求",
+						"id": "x7976A",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7976"
+					},
+					{
+						"content": "B：与关键相关方一起审查在该项目中使用适应性方法的可行性",
+						"id": "x7976B",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7976"
+					},
+					{
+						"content": "C：制定一份项目章程，仅识别，列明各种需求并对需求进行优先级排序，然后在后续项目中实施这些需求",
+						"id": "x7976C",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7976"
+					},
+					{
+						"content": "D：根据识别到的需求使用小增量来改进当前服务的现有功能",
+						"id": "x7976D",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7976"
+					}
+				]
+			},
+			{
+				"correct_answer": [
+					"x7977C"
+				],
+				"answer": [
+					"x7977C"
+				],
+				"analysis": "本题考规划沟通管理、规划相关方参与输入—相关方登记册。“相关方要求更频繁、更详细地更新项目状态，该相关方也表示有兴趣协助该项目”是当前相关方表示出的状态，项目经理应该根据该情况来更新相关方登记册中该相关方的角色和期望，以便进一步对其制定沟通和相关方计划，来满足相关方期望。",
+				"question_id": "zzQuestionDiv-zzQuestionDiv7977",
+				"content": "155、\t\t一位相关方要求更频繁、更详细地更新项目状态，该相关方也表示有兴趣协助该项目。\r\n项目经理下一步应该怎么做？\r\n【单选】",
+				"option": [
+					{
+						"content": "A：尽快发送详细的状态报告并更新相关方登记册",
+						"id": "x7977A",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7977"
+					},
+					{
+						"content": "B：将该相关方包含在所有详细的项目状态沟通中，并将该相关方的参与程度更新为支持",
+						"id": "x7977B",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7977"
+					},
+					{
+						"content": "C：与团队开会以审查相关方登记册并重新评估角色和报告要求",
+						"id": "x7977C",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7977"
+					},
+					{
+						"content": "D：更新具有同样参与程度的所有相关方的详细状态报告",
+						"id": "x7977D",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7977"
+					}
+				]
+			},
+			{
+				"correct_answer": [
+					"x7978C"
+				],
+				"answer": [
+					"x7978A"
+				],
+				"analysis": "本题考规划范围管理输出—范围管理计划。范围管理计划是项目管理计划的组成部分,描述将如何定义、制定、监督、控制和确认项目范围。该计划将指导团队如何确定项目可交付成果。",
+				"question_id": "zzQuestionDiv-zzQuestionDiv7978",
+				"content": "156、\t\t在发起人批准项目后，项目经理邀请发起人，选定的团队成员和其他相关方出席一次会议，会议的主要目的是制定一份文件，该文件将指导团队确定主要项目可交付成果。\r\n这次会议的最终输出是什么？\r\n【单选】",
+				"option": [
+					{
+						"content": "A：里程碑清单",
+						"id": "x7978A",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7978"
+					},
+					{
+						"content": "B：工作分解结构（WBS）词典",
+						"id": "x7978B",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7978"
+					},
+					{
+						"content": "C：范围管理计划",
+						"id": "x7978C",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7978"
+					},
+					{
+						"content": "D：需求管理计划",
+						"id": "x7978D",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7978"
+					}
+				]
+			},
+			{
+				"correct_answer": [
+					"x7979A"
+				],
+				"answer": [
+					"x7979A"
+				],
+				"analysis": "本题考控制成本工具—数据分析（挣值分析）。成本偏差(CV)是在某个给定时点的预算亏空或盈余量,表示为挣值与实际 成本之差。它是测量项目成本绩效的一种指标,等于挣值(EV)减去实际成本(AC)。 项目结束时的成本偏差,就是完工预算(BAC)与实际成本之间的差值。由于成本偏差指 明了实际绩效与成本支出之间的关系。本题不能选CPI，虽然是成本指标，但是并不能反映相对于预算的执行情况，只能反映成本绩效。",
+				"question_id": "zzQuestionDiv-zzQuestionDiv7979",
+				"content": "157、\t\t在向项目指导委员会提交项目状态时，一位高管要求项目经理提供项目相对于其预算的执行情况的更新，项目经理应该向该高官报告哪一个测量指标？【单选】",
+				"option": [
+					{
+						"content": "A：成本偏差（CV）",
+						"id": "x7979A",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7979"
+					},
+					{
+						"content": "B：成本绩效指数（CPI）",
+						"id": "x7979B",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7979"
+					},
+					{
+						"content": "C：实际成本（AC）",
+						"id": "x7979C",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7979"
+					},
+					{
+						"content": "D：挣值（EV）",
+						"id": "x7979D",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7979"
+					}
+				]
+			},
+			{
+				"correct_answer": [
+					"x7980B"
+				],
+				"answer": [
+					"x7980D"
+				],
+				"analysis": "本题考定义范围输入—假设日志。从题干的描述上来看，制定产品的详细描述这属于项目范围说明书，是定义范围过程的输出，该过程的输入有范围管理计划、项目章程，工具有专家判断、引导技术，和该过程吻合。所以四个选项中只有B选项属于定义范围的输入。",
+				"question_id": "zzQuestionDiv-zzQuestionDiv7980",
+				"content": "158、\t\t项目经理与项目相关方和团队成员开会，审查范围管理计划，批准的章程和其他需求文档，专家判断和引导技术用于制定所需产品的详细描述。\r\n项目经理还应使用哪一项其它输入？\r\n【单选】",
+				"option": [
+					{
+						"content": "A：过往项目的经验教训登记册",
+						"id": "x7980A",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7980"
+					},
+					{
+						"content": "B：假设日志",
+						"id": "x7980B",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7980"
+					},
+					{
+						"content": "C：相关方登记册",
+						"id": "x7980C",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7980"
+					},
+					{
+						"content": "D：需求跟踪矩阵",
+						"id": "x7980D",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7980"
+					}
+				]
+			},
+			{
+				"correct_answer": [
+					"x7981A"
+				],
+				"answer": [
+					"x7981A"
+				],
+				"analysis": "本题考结束项目或阶段输出—组织过程资产更新。项目已经完成，而且得到了验证，通知了客户，说明项目进入收尾，那么在收尾过程组还需要做经验教训的总结。",
+				"question_id": "zzQuestionDiv-zzQuestionDiv7981",
+				"content": "159、\t\t项目经理完成了一个重要的IT部署项目，项目经理与发布经理确认，所有系统都在正常运营，并且质量保证团队已经验证了这些功能。\r\n通知客户之后，项目经理下一步应该怎么做？\r\n【单选】",
+				"option": [
+					{
+						"content": "A：将经验教训更新到组织知识库中",
+						"id": "x7981A",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7981"
+					},
+					{
+						"content": "B：更新风险登记册，项目相关方和项目团队成员",
+						"id": "x7981B",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7981"
+					},
+					{
+						"content": "C：关闭采购计划",
+						"id": "x7981C",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7981"
+					},
+					{
+						"content": "D：确认并完成发布文档",
+						"id": "x7981D",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7981"
+					}
+				]
+			},
+			{
+				"correct_answer": [
+					"x7982A"
+				],
+				"answer": [
+					"x7982A"
+				],
+				"analysis": "本题考管理团队工具—人际关系与团队技能（冲突管理）。两个团队由于产品交付时间问题导致关系紧张，出现冲突，最佳冲突处理方法是合作/解决问题，综合考虑不同的观点和意见,采用合作的态度和开放式对话引导各方达成共识和承诺,这种方法可以带来双赢局面。",
+				"question_id": "zzQuestionDiv-zzQuestionDiv7982",
+				"content": "160、\t\t几个子团队正在为一个具有固定工期的项目工作，实施团队经常延迟向质量保证（QA）团队提供工作产品，从而导致关系紧张。\r\n项目经理应该怎么做？\r\n【单选】",
+				"option": [
+					{
+						"content": "A：与两个团队一起，以便质量保证团队可以说明实施团队延迟交付的影响，并讨论可能的解决方案",
+						"id": "x7982A",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7982"
+					},
+					{
+						"content": "B：将提供给实施团队进行质量保证任务的实际预期时间加倍，以确保在延迟交付的情况下有足够的时间进行全面测试",
+						"id": "x7982B",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7982"
+					},
+					{
+						"content": "C：指示质量保证团队在可用时间内完成尽可能多的测试",
+						"id": "x7982C",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7982"
+					},
+					{
+						"content": "D：为质量保证团队增加人员，以便即使由于延迟交付而压缩进度计划，也可以完成测试",
+						"id": "x7982D",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7982"
+					}
+				]
+			},
+			{
+				"correct_answer": [
+					"x7983C"
+				],
+				"answer": [
+					"x7983C"
+				],
+				"analysis": "本题考识别风险输出—风险登记册。题目描述“这个风险记录在风险登记册中”，说明风险已经识别，而“如果进行了适当的风险管理，本可以预防这个风险”说明该风险虽然记录，但是没有进行管理，那么这个问题可能是由于没有指定风险责任人，导致该风险没有人管理导致，在开始时就指定风险责任人，可以预防该风险。本题不能选B，因为“更新现有风险管理计划”是发生当前问题之后的操作，而不是事先行为。",
+				"question_id": "zzQuestionDiv-zzQuestionDiv7983",
+				"content": "161、\t\t一个风险在项目现场变成现实，这个风险记录在风险登记册中，调查团队得出结论，如果进行了适当的风险管理，本可以预防这个风险。\r\n若要避免这个问题，项目经理应该事先做什么？\r\n【单选】",
+				"option": [
+					{
+						"content": "A：审查过往项目的经验教训",
+						"id": "x7983A",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7983"
+					},
+					{
+						"content": "B：更新现有风险管理计划",
+						"id": "x7983B",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7983"
+					},
+					{
+						"content": "C：为风险登记册上的事项指定风险责任人",
+						"id": "x7983C",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7983"
+					},
+					{
+						"content": "D：为已识别到的风险创建风险减轻行动",
+						"id": "x7983D",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7983"
+					}
+				]
+			},
+			{
+				"correct_answer": [
+					"x7984A"
+				],
+				"answer": [
+					"x7984A"
+				],
+				"analysis": "本题考定性风险分析和定量风险分析过程。对项目中的风险进行分析，主要靠定量和定性分析这两个过程，如果是对项目总体目标影响的评估，可以进行定量风险分析过程完成。",
+				"question_id": "zzQuestionDiv-zzQuestionDiv7984",
+				"content": "162、\t\t项目发起人对项目进行审查并对一些项目风险提出质疑，项目发起人要求项目经理分析这些风险对项目总体目标的影响。\r\n项目经理应该执行下列哪一项？\r\n【单选】",
+				"option": [
+					{
+						"content": "A：定量和定性风险分析",
+						"id": "x7984A",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7984"
+					},
+					{
+						"content": "B：假设条件和制约因素分析",
+						"id": "x7984B",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7984"
+					},
+					{
+						"content": "C：优势、劣势、机会与威胁（SWOT）分析",
+						"id": "x7984C",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7984"
+					},
+					{
+						"content": "D：核对单分析",
+						"id": "x7984D",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7984"
+					}
+				]
+			},
+			{
+				"correct_answer": [
+					"x7985D"
+				],
+				"answer": [
+					"x7985D"
+				],
+				"analysis": "本题考识别相关方输出—相关方登记册。项目经理刚加入项目，通过发起人了解了一些相关方的信息，那么首先应该将其添加到相关方登记册中。",
+				"question_id": "zzQuestionDiv-zzQuestionDiv7985",
+				"content": "163、\t\t项目经理加入一个备受瞩目的项目，该项目将为公司带来重大效益，项目发起人告诉项目经理，一些关键相关方不赞同项目的效益，并且可能会抵制该项目的工作。\r\n项目经理应该怎么做？\r\n【单选】",
+				"option": [
+					{
+						"content": "A：制定责任分配矩阵（RAM）",
+						"id": "x7985A",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7985"
+					},
+					{
+						"content": "B：要求发起人获得相关方的支持",
+						"id": "x7985B",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7985"
+					},
+					{
+						"content": "C：与相关方开会展示该项目",
+						"id": "x7985C",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7985"
+					},
+					{
+						"content": "D：更新相关方登记册，添加这项信息",
+						"id": "x7985D",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7985"
+					}
+				]
+			},
+			{
+				"correct_answer": [
+					"x7986A"
+				],
+				"answer": [
+					"x7986A"
+				],
+				"analysis": "本题考管理团队工具—人际关系与团队技能。由于组织更改了开��方法，那么有可能会导致员工对于新方法的不理解而辞职，项目经理加入向后，应该使用人际关系与团队技能来与团队成员交流，来帮助团队成员接受新方法。",
+				"question_id": "zzQuestionDiv-zzQuestionDiv7986",
+				"content": "164、\t\t一家公司转向采用跨职能团队进行项目开发的敏捷方法，并将项目经理分配到一个关键项目，项目经理应该如何避免员工辞职的可能性？【单选】",
+				"option": [
+					{
+						"content": "A：进行圆桌讨论、研讨会和一对一会议",
+						"id": "x7986A",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7986"
+					},
+					{
+						"content": "B：成立一个委员会来确定敏捷方法",
+						"id": "x7986B",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7986"
+					},
+					{
+						"content": "C：要求人力资源部门参与该项目以协助员工管理",
+						"id": "x7986C",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7986"
+					},
+					{
+						"content": "D：为所有项目团队成员协商更好的工资或项目奖金",
+						"id": "x7986D",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7986"
+					}
+				]
+			},
+			{
+				"correct_answer": [
+					"x7987B"
+				],
+				"answer": [
+					"x7987B"
+				],
+				"analysis": "本题考敏捷方法中的迭代回顾会议。迭代回顾会议可以进行经验教训总结，所有感兴趣的相关方都可以参加该会议，但是和项目工作直接相关的成员必须要参加。",
+				"question_id": "zzQuestionDiv-zzQuestionDiv7987",
+				"content": "165、\t\t项目团队在交付产品增量时遇到困难。项目经理安排一次回顾总结会议以找出差距。\r\n谁应该参加这次会议？\r\n【单选】",
+				"option": [
+					{
+						"content": "A：指导委员会成员",
+						"id": "x7987A",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7987"
+					},
+					{
+						"content": "B：所有直接参与项目生产进度工作的成员",
+						"id": "x7987B",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7987"
+					},
+					{
+						"content": "C：项目管理办公室（PMO）的负责人和项目经理",
+						"id": "x7987C",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7987"
+					},
+					{
+						"content": "D：参与该项目的每个团队的团队领导",
+						"id": "x7987D",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7987"
+					}
+				]
+			},
+			{
+				"correct_answer": [
+					"x7988A"
+				],
+				"answer": [
+					"x7988A"
+				],
+				"analysis": "本题考控制成本输出—变更请求。CPI<1，说明成本超支，成本基准的资金已经不够用，这时候可以提交变更请求尝试增加成本基准。B和C选项都对CPI没有帮助，D选项需要提交变更请求才可以动用。",
+				"question_id": "zzQuestionDiv-zzQuestionDiv7988",
+				"content": "166、\t\t项目执行六个月后，项目经理确定成本绩效指数（CPI）为0.9，且趋势分析显示CPI呈下降趋势，项目经理下一步应该怎么做？【单选】",
+				"option": [
+					{
+						"content": "A：提交重定成本基准的变更请求",
+						"id": "x7988A",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7988"
+					},
+					{
+						"content": "B：请求额外的资源",
+						"id": "x7988B",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7988"
+					},
+					{
+						"content": "C：对项目进度赶工",
+						"id": "x7988C",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7988"
+					},
+					{
+						"content": "D：使用管理储备",
+						"id": "x7988D",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7988"
+					}
+				]
+			},
+			{
+				"correct_answer": [
+					"x7989A"
+				],
+				"answer": [
+					"x7989A"
+				],
+				"analysis": "本题考管理质量工具—问题解决流程。项目中出现的问题，在确定解决策略时，应该群策群力，以助于问题的解决。",
+				"question_id": "zzQuestionDiv-zzQuestionDiv7989",
+				"content": "167、\t\t正在审查问题日志的项目经理注意到，分配给某些团队成员的活动明显落后于进度。项目经理应该怎么做？【单选】",
+				"option": [
+					{
+						"content": "A：与相关团队成员一起审查活动，以确定解决策略",
+						"id": "x7989A",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7989"
+					},
+					{
+						"content": "B：将该问题升级上报给项目发起人解决",
+						"id": "x7989B",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7989"
+					},
+					{
+						"content": "C：要求负责的团队成员解释延迟的原因以及解决问题的策略",
+						"id": "x7989C",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7989"
+					},
+					{
+						"content": "D：要求负责的团队成员将他们得活动恢复到正常进度",
+						"id": "x7989D",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7989"
+					}
+				]
+			},
+			{
+				"correct_answer": [
+					"x7990B"
+				],
+				"answer": [
+					"x7990B"
+				],
+				"analysis": "本题考制定项目章程输入—事业环境因素。项目中的假设记录在假设日志中，而假设日志中的假设条件和制约因素是相辅相成的，所以在不考虑制约因素的情况下，假设是不正确的。而制约因素和事业环境因素相关，所以应该选B。",
+				"question_id": "zzQuestionDiv-zzQuestionDiv7990",
+				"content": "168、\t\t当面临缺乏历史数据时，项目经理会做出各种假设，许多这些假设被证明是不正确的，至少引发了一个高影响的问题。\r\n若要避免这个问题，项目经理应该事先做什么？\r\n【单选】",
+				"option": [
+					{
+						"content": "A：显性知识",
+						"id": "x7990A",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7990"
+					},
+					{
+						"content": "B：事业环境因素",
+						"id": "x7990B",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7990"
+					},
+					{
+						"content": "C：专家判断",
+						"id": "x7990C",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7990"
+					},
+					{
+						"content": "D：组织过程资产",
+						"id": "x7990D",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7990"
+					}
+				]
+			},
+			{
+				"correct_answer": [
+					"x7991B"
+				],
+				"answer": [
+					"x7991B"
+				],
+				"analysis": "本题考管理团队工具—人际关系与团队技能（冲突管理），指导与管理项目工作输出—变更请求。高速公路改道，原计划需要变化，需要提交变更，应用变更管理；转移附近居民，可能会涉及到人际关系冲突，需要用到冲突管理方法。",
+				"question_id": "zzQuestionDiv-zzQuestionDiv7991",
+				"content": "169、\t\t一个高速公路建设项目按时、按预算执行，项目经理刚刚得知现场发现了一个不可预见的矿藏。这将要求高速公路改道，而改道将需要转移附近居民。\r\n项目经理将需要哪一项工具或技能来处理这个问题？\r\n【单选】",
+				"option": [
+					{
+						"content": "A：与当地政府机构的良好个人关系",
+						"id": "x7991A",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7991"
+					},
+					{
+						"content": "B：冲突管理和变更管理",
+						"id": "x7991B",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7991"
+					},
+					{
+						"content": "C：范围蔓延管理",
+						"id": "x7991C",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7991"
+					},
+					{
+						"content": "D：了解行业实践",
+						"id": "x7991D",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7991"
+					}
+				]
+			},
+			{
+				"correct_answer": [
+					"x7992D"
+				],
+				"answer": [
+					"x7992D"
+				],
+				"analysis": "本题考管理质量工具—问题解决。“整体项目绩效低于预期的项目目标，并且一些关键的可交付成果未能满足客户的需求”可以理解为问题，按照问题解决流程，应该先进行根本原因分析，在考虑可选的备选解决方案。",
+				"question_id": "zzQuestionDiv-zzQuestionDiv7992",
+				"content": "170、\t\t在项目状态审查会议期间，显而易见的是，整体项目绩效低于预期的项目目标，并且一些关键的可交付成果未能满足客户的需求。项目经理应该怎么做？【单选】",
+				"option": [
+					{
+						"content": "A：更新范围管理计划并执行备选方案分析",
+						"id": "x7992A",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7992"
+					},
+					{
+						"content": "B：使用德尔菲技术并执行备选方案分析",
+						"id": "x7992B",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7992"
+					},
+					{
+						"content": "C：执行趋势分析并更新质量管理计划",
+						"id": "x7992C",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7992"
+					},
+					{
+						"content": "D：执行根本原因和备选方案分析",
+						"id": "x7992D",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7992"
+					}
+				]
+			},
+			{
+				"correct_answer": [
+					"x7993B"
+				],
+				"answer": [
+					"x7993B"
+				],
+				"analysis": "本题考识别风险输出—风险登记册。资源“不是按计划分别��行独立的任务”可以理解为风险，风险识别后要更新风险登记册，并进行分析。本题不能选A和D，计划的更新需要提交变更才可以。",
+				"question_id": "zzQuestionDiv-zzQuestionDiv7993",
+				"content": "171、\t\t项目经理正在领导一个全球虚拟团队，在一次每周项目状态会议上，项目经理意识到来自不同地方的两名团队成员正在执行同一个任务，而不是按计划分别执行独立的任务。\r\n项目经理下一步应该怎么做？\r\n【单选】",
+				"option": [
+					{
+						"content": "A：依照人员分配工具重新培训整个团队并更新项目进度计划",
+						"id": "x7993A",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7993"
+					},
+					{
+						"content": "B：修订风险登记册以显示这对项目管理计划的影响",
+						"id": "x7993B",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7993"
+					},
+					{
+						"content": "C：通知项目相关方，这将影响项目进度",
+						"id": "x7993C",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7993"
+					},
+					{
+						"content": "D：通知项目发起人并更新资源管理计划",
+						"id": "x7993D",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7993"
+					}
+				]
+			},
+			{
+				"correct_answer": [
+					"x7994D"
+				],
+				"answer": [
+					"x7994D"
+				],
+				"analysis": "本题考识别相关方工具—数据分析（相关方分析）。设计没有满足客户需求，导致被拒绝，如果在项目开始时关注相关方的需求，对相关方进行分析，那么就可以最大限度地避免被客户拒绝的尴尬。",
+				"question_id": "zzQuestionDiv-zzQuestionDiv7994",
+				"content": "172、\t\t一个专业的项目团队正在管理一个大型项目，上个月，工程顾问提交了最初的设计建议书供客户审查，项目经理得知该设计因未能满足客户需求而被拒绝。\r\n若要确保更有利的结果，项目经理应该事先做什么？\r\n【单选】",
+				"option": [
+					{
+						"content": "A：制定项目章程",
+						"id": "x7994A",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7994"
+					},
+					{
+						"content": "B：召开项目启动大会",
+						"id": "x7994B",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7994"
+					},
+					{
+						"content": "C：创建需求跟踪矩阵",
+						"id": "x7994C",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7994"
+					},
+					{
+						"content": "D：执行相关方分析",
+						"id": "x7994D",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7994"
+					}
+				]
+			},
+			{
+				"correct_answer": [
+					"x7995D"
+				],
+				"answer": [
+					"x7995D"
+				],
+				"analysis": "本题考职业道德相关内容。由于ERP供应商的侵权行为，导致其没有资格再继续该项目，出于职业道德考虑，应该与该供应商取消合同。",
+				"question_id": "zzQuestionDiv-zzQuestionDiv7995",
+				"content": "173、\t\t一家组织启动一个项目来实施一个新的企业资源规划（ERP）系统。某一第三方就该系统的某个具体模块对ERP供应商提出了侵权索赔。\r\n如果该第三方的侵权索赔成功，项目经理应该怎么做？\r\n【单选】",
+				"option": [
+					{
+						"content": "A：坚称ERP供应商已获得该模块的权利，以便组织可以继续使用该模块",
+						"id": "x7995A",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7995"
+					},
+					{
+						"content": "B：要求ERP供应商将该模块免费更换为同等相当的模块",
+						"id": "x7995B",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7995"
+					},
+					{
+						"content": "C：坚持让ERP供应商退还该模块的成本，包括所有相关的实施费用",
+						"id": "x7995C",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7995"
+					},
+					{
+						"content": "D：取消合同",
+						"id": "x7995D",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7995"
+					}
+				]
+			},
+			{
+				"correct_answer": [
+					"x7996B"
+				],
+				"answer": [
+					"x7996B"
+				],
+				"analysis": "本题考实施整体变更控制输入—项目管理计划（变更管理计划），变更管理计划定义了CCB或其他人来批准变更。",
+				"question_id": "zzQuestionDiv-zzQuestionDiv7996",
+				"content": "174、\t\t在一次状态会议上，客户的一名员工要求项目经理提供新的产品功能，项目经理不确定谁有权批准这一请求。\r\n项目经理首先应该查阅哪份文件？\r\n【单选】",
+				"option": [
+					{
+						"content": "A：变更日志",
+						"id": "x7996A",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7996"
+					},
+					{
+						"content": "B：变更管理计划",
+						"id": "x7996B",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7996"
+					},
+					{
+						"content": "C：执行、负责、咨询和知情（RACI）矩阵",
+						"id": "x7996C",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7996"
+					},
+					{
+						"content": "D：组织过程资产",
+						"id": "x7996D",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7996"
+					}
+				]
+			},
+			{
+				"correct_answer": [
+					"x7997A"
+				],
+				"answer": [
+					"x7997A"
+				],
+				"analysis": "本题考风险领域内容。团队成员识别到一个问题，该问题只有在特定情景下才会发生，所以属于风险，由于风险的不确定性，不能就直接进行项目的变更，应该进行风险的分析并制定相应的应对措施，并通知相关方，以便相关方理解风险的概率和影响及重要程度。",
+				"question_id": "zzQuestionDiv-zzQuestionDiv7997",
+				"content": "175、\t\t已根据批准的范围启动一个项目，在实施项目设计过程中，一位团队成员表示该产品在特定情景下不能满足需求。解决这个问题将增加范围和成本，且项目将错过最后期限。项目发起人不提供额外的资金来支持这个项目。\r\n项目经理应该怎么做？\r\n【单选】",
+				"option": [
+					{
+						"content": "A：进行风险分析并向项目发起人更新进展",
+						"id": "x7997A",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7997"
+					},
+					{
+						"content": "B：执行实施整体变更控制过程",
+						"id": "x7997B",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7997"
+					},
+					{
+						"content": "C：纠正问题，以让客户满意",
+						"id": "x7997C",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7997"
+					},
+					{
+						"content": "D：通知客户并协商接受风险",
+						"id": "x7997D",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7997"
+					}
+				]
+			},
+			{
+				"correct_answer": [
+					"x7998A"
+				],
+				"answer": [
+					"x7998A"
+				],
+				"analysis": "本题考规划相关方参与工具—相关方参与度评估矩阵，输出—相关方参与计划。相关方参与计划是项目管理计划的组成部分。它确定用于促进相关方有效参与决策和执行的策略和行动。所以调整相关方参与和期望的方法应该记录在相关方参与计划中。",
+				"question_id": "zzQuestionDiv-zzQuestionDiv7998",
+				"content": "176、\t\t项目经理必须管理潜在的相关方利益冲突，相关方参与评估矩阵识别到一个反对项目且有影响力的相关方。\r\n项目经理应该如何调整该相关方的期望？\r\n【单选】",
+				"option": [
+					{
+						"content": "A：创建相关方参与计划",
+						"id": "x7998A",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7998"
+					},
+					{
+						"content": "B：与其沟通相关方参与计划",
+						"id": "x7998B",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7998"
+					},
+					{
+						"content": "C：与所有相关方开会，对项目目标达成共识",
+						"id": "x7998C",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7998"
+					},
+					{
+						"content": "D：更新相关方登记册",
+						"id": "x7998D",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7998"
+					}
+				]
+			},
+			{
+				"correct_answer": [
+					"x7999A"
+				],
+				"answer": [
+					"x7999A"
+				],
+				"analysis": "本题考识别相关方工具—数据表现（凸显模型）。题目描述当前是一个“庞大而复杂的项目”。凸显模型适用于复杂的相关方大型社区,或在相关方社区内部存在复杂的关系 网络。凸显模型可用于确定已识别相关方的相对重要性。",
+				"question_id": "zzQuestionDiv-zzQuestionDiv7999",
+				"content": "177、\t\t项目经理正与多位相关方一起管理一个庞大而复杂的项目，一些相关方反对项目的效益，而另一些则非常支持。\r\n项目经理应该使用什么来澄清并正确管理这些相关方？\r\n【单选】",
+				"option": [
+					{
+						"content": "A：凸显模型",
+						"id": "x7999A",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7999"
+					},
+					{
+						"content": "B：权力/利益方格",
+						"id": "x7999B",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7999"
+					},
+					{
+						"content": "C：影响/影响力方格（impact/influence grid）",
+						"id": "x7999C",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7999"
+					},
+					{
+						"content": "D：相关方立方体",
+						"id": "x7999D",
+						"question_id": "zzQuestionDiv-zzQuestionDiv7999"
+					}
+				]
+			},
+			{
+				"correct_answer": [
+					"x8000D"
+				],
+				"answer": [
+					"x8000D"
+				],
+				"analysis": "本题考管理质量工具—问题解决。质量过程出现问题，应该按照问题解决流程进行处理，先确定根本原因，再得到相应的解决方案。",
+				"question_id": "zzQuestionDiv-zzQuestionDiv8000",
+				"content": "178、\t\t由于质量过程的问题，一个项目明显落后于进度计划，项目相关方坚持要求项目经理采取任何必要的行动来满足初始时间表。\r\n项目经理下一步应该怎么做？\r\n【单选】",
+				"option": [
+					{
+						"content": "A：与相关方谈判质量标准并更新质量管理计划",
+						"id": "x8000A",
+						"question_id": "zzQuestionDiv-zzQuestionDiv8000"
+					},
+					{
+						"content": "B：重新确定客户的需求清单优先级并调整项目范围",
+						"id": "x8000B",
+						"question_id": "zzQuestionDiv-zzQuestionDiv8000"
+					},
+					{
+						"content": "C：在风险登记册中记录所有问题并接受质量过程",
+						"id": "x8000C",
+						"question_id": "zzQuestionDiv-zzQuestionDiv8000"
+					},
+					{
+						"content": "D：审查质量核对单以确定根本原因并实施所需的变更",
+						"id": "x8000D",
+						"question_id": "zzQuestionDiv-zzQuestionDiv8000"
+					}
+				]
+			},
+			{
+				"correct_answer": [
+					"x8001A"
+				],
+				"answer": [
+					"x8001A"
+				],
+				"analysis": "本题考制定项目管理计划过程内容。当前在启动过程组，由于启动时并不会出现详细的进度计划和范围，所以可以在规划过程组进一步细化。",
+				"question_id": "zzQuestionDiv-zzQuestionDiv8001",
+				"content": "179、\t\t在启动阶段，项目经理意识到主要里程碑与范围不一致，这可能导致误解，项目经理下一步应该怎么做？【单选】",
+				"option": [
+					{
+						"content": "A：在项目管理计划中详细说明范围和可交付成果",
+						"id": "x8001A",
+						"question_id": "zzQuestionDiv-zzQuestionDiv8001"
+					},
+					{
+						"content": "B：提出一项变更请求，以修改范围和可交付成果",
+						"id": "x8001B",
+						"question_id": "zzQuestionDiv-zzQuestionDiv8001"
+					},
+					{
+						"content": "C：在项目章程中规定范围和可交付成果",
+						"id": "x8001C",
+						"question_id": "zzQuestionDiv-zzQuestionDiv8001"
+					},
+					{
+						"content": "D：在问题日志中记录误解范围和可交付成果的可能性",
+						"id": "x8001D",
+						"question_id": "zzQuestionDiv-zzQuestionDiv8001"
+					}
+				]
+			},
+			{
+				"correct_answer": [
+					"x8002C"
+				],
+				"answer": [
+					"x8002C"
+				],
+				"analysis": "本题考建设团队工具—培训。题目描述当前在“执行”过程组，而且目前需要建立团队，来满足项目要求，由于团队建立后，涉及到“快速”实施，那么就需要对当前的团队进行培训。",
+				"question_id": "zzQuestionDiv-zzQuestionDiv8002",
+				"content": "180、\t\t在一个项目的执行阶段，项目经理需要快速分配资源以建立团队并按时满足项目要求，项目经理下一步应该怎么做？【单选】",
+				"option": [
+					{
+						"content": "A：创建图书馆服务",
+						"id": "x8002A",
+						"question_id": "zzQuestionDiv-zzQuestionDiv8002"
+					},
+					{
+						"content": "B：举行一系列研讨会",
+						"id": "x8002B",
+						"question_id": "zzQuestionDiv-zzQuestionDiv8002"
+					},
+					{
+						"content": "C：培训新团队",
+						"id": "x8002C",
+						"question_id": "zzQuestionDiv-zzQuestionDiv8002"
+					},
+					{
+						"content": "D：举行网络研讨会",
+						"id": "x8002D",
+						"question_id": "zzQuestionDiv-zzQuestionDiv8002"
+					}
+				]
+			},
+			{
+				"correct_answer": [
+					"x8003B"
+				],
+				"answer": [
+					"x8003B"
+				],
+				"analysis": "本题考控制相关方参与输出—项目文件更新（相关方登记册）。项目中相关方发生了变化，首先应该更新相关方登记册，删除该相关方或者降低该相关方的影响等级。",
+				"question_id": "zzQuestionDiv-zzQuestionDiv8003",
+				"content": "181、\t\t在项目开发阶段，职能经理被调到另一个部门，不再参与项目。项目经理首先应该做什么？【单选】",
+				"option": [
+					{
+						"content": "A：修订沟通管理计划",
+						"id": "x8003A",
+						"question_id": "zzQuestionDiv-zzQuestionDiv8003"
+					},
+					{
+						"content": "B：更新相关方登记册",
+						"id": "x8003B",
+						"question_id": "zzQuestionDiv-zzQuestionDiv8003"
+					},
+					{
+						"content": "C：评估对风险的影响",
+						"id": "x8003C",
+						"question_id": "zzQuestionDiv-zzQuestionDiv8003"
+					},
+					{
+						"content": "D：查看项目团队派工单",
+						"id": "x8003D",
+						"question_id": "zzQuestionDiv-zzQuestionDiv8003"
+					}
+				]
+			},
+			{
+				"correct_answer": [
+					"x8004C"
+				],
+				"answer": [
+					"x8004C"
+				],
+				"analysis": "本题考管理团队输入—项目文件（问题日志）。由于组织结构的调整，导致人员配备出现了变化，那么需要确定资源来解决问题，在确定资源之前，应该先通过问题日志了解该问题的解决进展，以便配备合适的资源来解决问题。",
+				"question_id": "zzQuestionDiv-zzQuestionDiv8004",
+				"content": "182、\t\t由于组织结构调整，负责解决问题日志中某一事项的小组已被解散，项目经理首先应该怎么做？【单选】",
+				"option": [
+					{
+						"content": "A：确定现在由谁负责该小组的任务",
+						"id": "x8004A",
+						"question_id": "zzQuestionDiv-zzQuestionDiv8004"
+					},
+					{
+						"content": "B：评估该问题的优先级",
+						"id": "x8004B",
+						"question_id": "zzQuestionDiv-zzQuestionDiv8004"
+					},
+					{
+						"content": "C：确定解决问题所取得的任何进展",
+						"id": "x8004C",
+						"question_id": "zzQuestionDiv-zzQuestionDiv8004"
+					},
+					{
+						"content": "D：确定可以解决问题的项目资源",
+						"id": "x8004D",
+						"question_id": "zzQuestionDiv-zzQuestionDiv8004"
+					}
+				]
+			},
+			{
+				"correct_answer": [
+					"x8005D"
+				],
+				"answer": [
+					"x8005D"
+				],
+				"analysis": "本题考管理相关方参与输入—相关方参与计划。“本地机构”属于相关方，由于在一开始没有对该相关方设立特别的相关方管理策略，导致后期项目受到这些相关方的阻碍。所以应该在一开始有一个完善的相关方参与计划，并按照其实施，来避免这类的问题。",
+				"question_id": "zzQuestionDiv-zzQuestionDiv8005",
+				"content": "183、\t\t在执行一个几乎落后于进度的项目时，项目经理必须试运行一台新设备。受此影响的一个本地机构要求立即停止项目，因为没有向他们提供批准项目的机会。\r\n若要避免这个问题，项目经理应该事先做什么？\r\n【单选】",
+				"option": [
+					{
+						"content": "A：使用冲突管理技术",
+						"id": "x8005A",
+						"question_id": "zzQuestionDiv-zzQuestionDiv8005"
+					},
+					{
+						"content": "B：获得所有相关方签署和批准项目章程",
+						"id": "x8005B",
+						"question_id": "zzQuestionDiv-zzQuestionDiv8005"
+					},
+					{
+						"content": "C：使用谈判和影响技巧和技能",
+						"id": "x8005C",
+						"question_id": "zzQuestionDiv-zzQuestionDiv8005"
+					},
+					{
+						"content": "D：实施相关方参与计划",
+						"id": "x8005D",
+						"question_id": "zzQuestionDiv-zzQuestionDiv8005"
+					}
+				]
+			},
+			{
+				"correct_answer": [
+					"x8006C"
+				],
+				"answer": [
+					"x8006C"
+				],
+				"analysis": "本题考制定项目章程过程内容。项目章程中应该包含整体风险（高层级风险），但是项目章程中没有记录，那么需要和发起人就该问题进行讨论，是否有后续措施例如在规划过程组进行详细风险的识别。",
+				"question_id": "zzQuestionDiv-zzQuestionDiv8006",
+				"content": "184、\t\t项目经理在收到项目发起人的项目章程后，发现一个众所周知的高层级风险并未列入其中，项目经理应该怎么做？【单选】",
+				"option": [
+					{
+						"content": "A：将该风险包含进工作说明书（SOW）中",
+						"id": "x8006A",
+						"question_id": "zzQuestionDiv-zzQuestionDiv8006"
+					},
+					{
+						"content": "B：开始实施整体变更控制过程",
+						"id": "x8006B",
+						"question_id": "zzQuestionDiv-zzQuestionDiv8006"
+					},
+					{
+						"content": "C：与项目发起人讨论该问题",
+						"id": "x8006C",
+						"question_id": "zzQuestionDiv-zzQuestionDiv8006"
+					},
+					{
+						"content": "D：修订风险管理计划，以包含该风险",
+						"id": "x8006D",
+						"question_id": "zzQuestionDiv-zzQuestionDiv8006"
+					}
+				]
+			},
+			{
+				"correct_answer": [
+					"x8007A"
+				],
+				"answer": [
+					"x8007A"
+				],
+				"analysis": "本题考实施风险应对内容。应对风险所使用的成本也就是储备，是在规划风险应对过程中设定的，也就是说这是经过充分考虑后得到的风���应对措施，所以对于应对风险所付出的成本是小于风险造成的影响的，需要向相关方解释。",
+				"question_id": "zzQuestionDiv-zzQuestionDiv8007",
+				"content": "185、\t\t在项目执行过程中，一位关键相关方对项目经理实施一项风险规避策略的大量成本表示担心，项目经理应该告诉该相关方什么信息？【单选】",
+				"option": [
+					{
+						"content": "A：如果这个风险变成现实，则项目成本可能高于风险规避策略的成本",
+						"id": "x8007A",
+						"question_id": "zzQuestionDiv-zzQuestionDiv8007"
+					},
+					{
+						"content": "B：这个风险变成现实的概率很高，因此风险规避成本是必要的",
+						"id": "x8007B",
+						"question_id": "zzQuestionDiv-zzQuestionDiv8007"
+					},
+					{
+						"content": "C：这个风险在风险登记册中的优先级和影响均较高",
+						"id": "x8007C",
+						"question_id": "zzQuestionDiv-zzQuestionDiv8007"
+					},
+					{
+						"content": "D：他们将终止风险规避策略，以减少项目开支",
+						"id": "x8007D",
+						"question_id": "zzQuestionDiv-zzQuestionDiv8007"
+					}
+				]
+			},
+			{
+				"correct_answer": [
+					"x8008A"
+				],
+				"answer": [
+					"x8008A"
+				],
+				"analysis": "本题考制定项目章程工具—数据收集（头脑风暴）。由于项目中设计到多个相关方，包括“负责人”、“管理团队”、“顾问”等。所以为项目提供概念，需要集思广益，使用头脑风暴比较合适。虽然专家判断也属于制定项目章程过程的工具，但是该工具是用来基于某应用领域、知识领域、学科和行业等的专业知识而做出的,关于当前活动的合理判断，所以并不能提供项目概念。",
+				"question_id": "zzQuestionDiv-zzQuestionDiv8008",
+				"content": "186、\t\t一家咨询公司的负责人发起一个项目，拟开发一种新的业务模式，以增加市场份额和收入，由于该公司很成功，管理团队和顾问并不认为需要新的业务模式，并要求在启动项目之前提供项目概念。\r\n应该用什么来制定项目概念？\r\n【单选】",
+				"option": [
+					{
+						"content": "A：头脑风暴",
+						"id": "x8008A",
+						"question_id": "zzQuestionDiv-zzQuestionDiv8008"
+					},
+					{
+						"content": "B：专家判断",
+						"id": "x8008B",
+						"question_id": "zzQuestionDiv-zzQuestionDiv8008"
+					},
+					{
+						"content": "C：六西格玛技术",
+						"id": "x8008C",
+						"question_id": "zzQuestionDiv-zzQuestionDiv8008"
+					},
+					{
+						"content": "D：预测",
+						"id": "x8008D",
+						"question_id": "zzQuestionDiv-zzQuestionDiv8008"
+					}
+				]
+			},
+			{
+				"correct_answer": [
+					"x8009D"
+				],
+				"answer": [
+					"x8009D"
+				],
+				"analysis": "本题考制定项目章程输出—项目章程。项目章程中记录了高层级需求，而且项目章程是制定项目管理计划的输入，符合题意。",
+				"question_id": "zzQuestionDiv-zzQuestionDiv8009",
+				"content": "187、\t\t项目发起人向项目经理提出高层级项目需求，然后项目经理在制定项目管理计划之前，要求与一名主题专家（SME）进行访谈。\r\n根据这些信息，项目发起人使用的文件是什么？\r\n【单选】",
+				"option": [
+					{
+						"content": "A：项目工作说明书（SOW）",
+						"id": "x8009A",
+						"question_id": "zzQuestionDiv-zzQuestionDiv8009"
+					},
+					{
+						"content": "B：项目战略计划",
+						"id": "x8009B",
+						"question_id": "zzQuestionDiv-zzQuestionDiv8009"
+					},
+					{
+						"content": "C：项目商业论证",
+						"id": "x8009C",
+						"question_id": "zzQuestionDiv-zzQuestionDiv8009"
+					},
+					{
+						"content": "D：项目章程",
+						"id": "x8009D",
+						"question_id": "zzQuestionDiv-zzQuestionDiv8009"
+					}
+				]
+			},
+			{
+				"correct_answer": [
+					"x8010D"
+				],
+				"answer": [
+					"x8010D"
+				],
+				"analysis": "本题考规划采购管理输入—组织过程资产（合同类型）。对于买方来说，固定总价合同是风险最小的。",
+				"question_id": "zzQuestionDiv-zzQuestionDiv8010",
+				"content": "188、\t\t项目的混凝土供应商通知项目经理，材料将比预定时间晚三个星期交付，项目经理更新了进度计划并通知项目团队。\r\n在这种情况下，哪种合同类型承担的项目风险最小？\r\n【单选】",
+				"option": [
+					{
+						"content": "A：总价加激励费用合同（FPIF）",
+						"id": "x8010A",
+						"question_id": "zzQuestionDiv-zzQuestionDiv8010"
+					},
+					{
+						"content": "B：总价加经济价格调整合同（FP-EPA）",
+						"id": "x8010B",
+						"question_id": "zzQuestionDiv-zzQuestionDiv8010"
+					},
+					{
+						"content": "C：工料合同（T&M）",
+						"id": "x8010C",
+						"question_id": "zzQuestionDiv-zzQuestionDiv8010"
+					},
+					{
+						"content": "D：固定总价合同（FFP）",
+						"id": "x8010D",
+						"question_id": "zzQuestionDiv-zzQuestionDiv8010"
+					}
+				]
+			},
+			{
+				"correct_answer": [
+					"x8011B"
+				],
+				"answer": [
+					"x8011B"
+				],
+				"analysis": "本题考结束项目或阶段输入—组织过程资产。项目收尾时需要参考组织的项目收尾指南，以便进行后续的收尾活动。",
+				"question_id": "zzQuestionDiv-zzQuestionDiv8011",
+				"content": "189、\t\t由于缺乏资金，一个项目在启动阶段被终止，项目经理必须对项目收尾，项目经理首先应该做什么？【单选】",
+				"option": [
+					{
+						"content": "A：查阅沟通管理计划，适当地通知所有干系人",
+						"id": "x8011A",
+						"question_id": "zzQuestionDiv-zzQuestionDiv8011"
+					},
+					{
+						"content": "B：审查组织的项目收尾指南",
+						"id": "x8011B",
+						"question_id": "zzQuestionDiv-zzQuestionDiv8011"
+					},
+					{
+						"content": "C：执行风险分析，确定终止项目的潜在影响",
+						"id": "x8011C",
+						"question_id": "zzQuestionDiv-zzQuestionDiv8011"
+					},
+					{
+						"content": "D：结束所有项目采购过程",
+						"id": "x8011D",
+						"question_id": "zzQuestionDiv-zzQuestionDiv8011"
+					}
+				]
+			},
+			{
+				"correct_answer": [
+					"x8012A"
+				],
+				"answer": [
+					"x8012A"
+				],
+				"analysis": "本题考察的是沟通技术中拉式沟通的适用场景。",
+				"question_id": "zzQuestionDiv-zzQuestionDiv8012",
+				"content": "190、\t\t项目经理成功完成一个项目，需要收集在地理位置上分散的大量相关方的反馈意见，项目经理应使用什么沟通方法来收集反馈意见？【单选】",
+				"option": [
+					{
+						"content": "A：拉式沟通",
+						"id": "x8012A",
+						"question_id": "zzQuestionDiv-zzQuestionDiv8012"
+					},
+					{
+						"content": "B：推式沟通",
+						"id": "x8012B",
+						"question_id": "zzQuestionDiv-zzQuestionDiv8012"
+					},
+					{
+						"content": "C：有效沟通",
+						"id": "x8012C",
+						"question_id": "zzQuestionDiv-zzQuestionDiv8012"
+					},
+					{
+						"content": "D：互动沟通",
+						"id": "x8012D",
+						"question_id": "zzQuestionDiv-zzQuestionDiv8012"
+					}
+				]
+			},
+			{
+				"correct_answer": [
+					"x8013B"
+				],
+				"answer": [
+					"x8013B"
+				],
+				"analysis": "本题考管理沟通输入—项目管理计划（沟通管理计划）。项目中的沟通是按照沟通管理计划进行的，所以项目团队应该参考沟通管理计划。",
+				"question_id": "zzQuestionDiv-zzQuestionDiv8013",
+				"content": "191、\t\t在项目执行期间，项目经理确定沟通与沟通管理计划不符，项目经理应该怎么做？【单选】",
+				"option": [
+					{
+						"content": "A：实施有组织的非正式沟通，作为重要项目里程碑的一部分",
+						"id": "x8013A",
+						"question_id": "zzQuestionDiv-zzQuestionDiv8013"
+					},
+					{
+						"content": "B：让团队成员查阅沟通管理计划",
+						"id": "x8013B",
+						"question_id": "zzQuestionDiv-zzQuestionDiv8013"
+					},
+					{
+						"content": "C：让团队成员审查项目管理计划",
+						"id": "x8013C",
+						"question_id": "zzQuestionDiv-zzQuestionDiv8013"
+					},
+					{
+						"content": "D：通知相关方，收到的所有信息不属于沟通管理计划的一部分",
+						"id": "x8013D",
+						"question_id": "zzQuestionDiv-zzQuestionDiv8013"
+					}
+				]
+			},
+			{
+				"correct_answer": [
+					"x8014C"
+				],
+				"answer": [
+					"x8014C"
+				],
+				"analysis": "本题考管理团队工具—人际关系与团队技能。团队成员无法按时完成任务，题目并没有说这是什么原因导致，可能是技能问题，也可能是个人问题、环境问题等其它原因，所以这时候项目经理应该先了解具体的问题情况，在考虑纠正措施。",
+				"question_id": "zzQuestionDiv-zzQuestionDiv8014",
+				"content": "192、\t\t一位新团队成员在一个月前加入团队，并接受了资源管理计划中规定的必要培训，这位新团队成员无法按时完成分配的任务，从而影响到团队绩效。\r\n项目经理下一步应该怎么做？\r\n【单选】",
+				"option": [
+					{
+						"content": "A：识别所需的额外培训并更新资源管理计划",
+						"id": "x8014A",
+						"question_id": "zzQuestionDiv-zzQuestionDiv8014"
+					},
+					{
+						"content": "B：将问题升级上报给管理层，要求将该团队成员调到另一个项目，并找到一位经验更丰富的资源作为替代",
+						"id": "x8014B",
+						"question_id": "zzQuestionDiv-zzQuestionDiv8014"
+					},
+					{
+						"content": "C：与该团队成员讨论这个问题，并一致达成一项具有可测量纠正措施的行动计划",
+						"id": "x8014C",
+						"question_id": "zzQuestionDiv-zzQuestionDiv8014"
+					},
+					{
+						"content": "D：在下一次计划的绩效评估中解决该团队成员的培训需求",
+						"id": "x8014D",
+						"question_id": "zzQuestionDiv-zzQuestionDiv8014"
+					}
+				]
+			},
+			{
+				"correct_answer": [
+					"x8015B"
+				],
+				"answer": [
+					"x8015B"
+				],
+				"analysis": "本题考指导与管理项目工作输出—问题日志。题目中描述了项目经理解决了问题，却收到了客户的处罚费用通知，说明这种解决方法不符合客户的期望。所以应该在一开始记录问题日志，然后按照问题解决流程获得最佳问题处理方法，来避免这个客户不满意的情况。所以题目问的“避免这个‘问题’”是指避免客户不满意的问题。",
+				"question_id": "zzQuestionDiv-zzQuestionDiv8015",
+				"content": "193、\t\t一位经验丰富的项目经理在到达一个重大开发里程碑之前识别到一个问题。项目经理采取相应的行动，并能够按时解决问题，两周后，发起人通知项目经理，客户发出了处罚费。\r\n若要避免这个问题，项目经理应该事先做什么？\r\n【单选】",
+				"option": [
+					{
+						"content": "A：提出变更请求",
+						"id": "x8015A",
+						"question_id": "zzQuestionDiv-zzQuestionDiv8015"
+					},
+					{
+						"content": "B：更新问题日志",
+						"id": "x8015B",
+						"question_id": "zzQuestionDiv-zzQuestionDiv8015"
+					},
+					{
+						"content": "C：通知客户",
+						"id": "x8015C",
+						"question_id": "zzQuestionDiv-zzQuestionDiv8015"
+					},
+					{
+						"content": "D：更新风险日志",
+						"id": "x8015D",
+						"question_id": "zzQuestionDiv-zzQuestionDiv8015"
+					}
+				]
+			},
+			{
+				"correct_answer": [
+					"x8016A"
+				],
+				"answer": [
+					"x8016A"
+				],
+				"analysis": "本题考监督沟通输入—沟通管理计划。根据题意，项目资源提出了问题，却是职能经理向项目经理提出的，所以项目经理感到意外，因为该问题应该由该资源汇报给项目经理，所以这里沟通出现了问题，应该让该资源遵循沟通计划。",
+				"question_id": "zzQuestionDiv-zzQuestionDiv8016",
+				"content": "194、\t\t一个关键项目资源的职能经理通知项目经理，该资源对项目的方向和进度表示严重关切。这个信息让项目经理感到意外，因为在最近的任何团队会议都没有表达存在这个问题。\r\n项目经理应该怎么做？\r\n【单选】",
+				"option": [
+					{
+						"content": "A：向该关键资源沟通遵循沟通管理计划的重要性，以有效解决问题",
+						"id": "x8016A",
+						"question_id": "zzQuestionDiv-zzQuestionDiv8016"
+					},
+					{
+						"content": "B：进行一项行动，以更好地了解该资源关切的问题，并制定一份计划来解决这些问题",
+						"id": "x8016B",
+						"question_id": "zzQuestionDiv-zzQuestionDiv8016"
+					},
+					{
+						"content": "C：在问题日志中添加这些关切的问题，并在下次项目状态会议上讨论这些问题",
+						"id": "x8016C",
+						"question_id": "zzQuestionDiv-zzQuestionDiv8016"
+					},
+					{
+						"content": "D：与该关键资源和职能经理开会，以讨论他们关切的问题",
+						"id": "x8016D",
+						"question_id": "zzQuestionDiv-zzQuestionDiv8016"
+					}
+				]
+			},
+			{
+				"correct_answer": [
+					"x8017C"
+				],
+				"answer": [
+					"x8017C"
+				],
+				"analysis": "本题考定量风险分析工具—数据分析（决策树分析）。启动的项目有利有弊，可以可以通过决策树分析来了解到正面和负面的风险评估情况。C选项的制定决策（decision making）可以理解为决策树（decision tree）。",
+				"question_id": "zzQuestionDiv-zzQuestionDiv8017",
+				"content": "195、\t\t一家咨询公司的负责人启动一个项目来扩大公司提供的服务质量，该公司具有竞争优势，出色的专业知识以及卓越的声誉，高管团队担心与增加新服务相关的负面业务结果的可能性。\r\n若要评估负面业务结果的可能性和影响，项目经理应该使用什么？\r\n【单选】",
+				"option": [
+					{
+						"content": "A：因果图",
+						"id": "x8017A",
+						"question_id": "zzQuestionDiv-zzQuestionDiv8017"
+					},
+					{
+						"content": "B：预测",
+						"id": "x8017B",
+						"question_id": "zzQuestionDiv-zzQuestionDiv8017"
+					},
+					{
+						"content": "C：制定决策",
+						"id": "x8017C",
+						"question_id": "zzQuestionDiv-zzQuestionDiv8017"
+					},
+					{
+						"content": "D：风险评估矩阵",
+						"id": "x8017D",
+						"question_id": "zzQuestionDiv-zzQuestionDiv8017"
+					}
+				]
+			},
+			{
+				"correct_answer": [
+					"x8018D"
+				],
+				"answer": [
+					"x8018D"
+				],
+				"analysis": "本题考规划沟通管理输出—沟通管理计划。题目问得是沟通问题，那么沟通的指导文件是沟通管理计划，选择D最好。",
+				"question_id": "zzQuestionDiv-zzQuestionDiv8018",
+				"content": "196、\t\t项目经理得知他们不知情的情况下已经为项目分配了资源，经过调查，项目经理发现这些资源需求是合理的。\r\n若要避免这种沟通不畅的情况，项目经理事先应该做什么？\r\n【单选】",
+				"option": [
+					{
+						"content": "A：亲自创建资源管理计划",
+						"id": "x8018A",
+						"question_id": "zzQuestionDiv-zzQuestionDiv8018"
+					},
+					{
+						"content": "B：更新采购和成本管理计划",
+						"id": "x8018B",
+						"question_id": "zzQuestionDiv-zzQuestionDiv8018"
+					},
+					{
+						"content": "C：明确定义并沟通每个资源的角色与职责",
+						"id": "x8018C",
+						"question_id": "zzQuestionDiv-zzQuestionDiv8018"
+					},
+					{
+						"content": "D：修订沟通管理计划",
+						"id": "x8018D",
+						"question_id": "zzQuestionDiv-zzQuestionDiv8018"
+					}
+				]
+			},
+			{
+				"correct_answer": [
+					"x8019C"
+				],
+				"answer": [
+					"x8019C"
+				],
+				"analysis": "本题考规划风险应对输入—组织过程资产。风险应对计划没有被发起人批准，是由于不愿意多付出成本导致，但是风险的应对不一定是靠增加成本来应对，也可能使用其他的方式，可以参考以往项目的经验教训，帮助制定风险应对计划。",
+				"question_id": "zzQuestionDiv-zzQuestionDiv8019",
+				"content": "197、\t\t项目经理识别并登记多个风险，然后为项目起草一份风险应对计划。然而，由于资金限制以及发起人不愿意为不确定的活动创建预算，风险应对计划未获批准。\r\n项目经理应该怎么做？\r\n【单选】",
+				"option": [
+					{
+						"content": "A：将该问题升级上报给高级相关方",
+						"id": "x8019A",
+						"question_id": "zzQuestionDiv-zzQuestionDiv8019"
+					},
+					{
+						"content": "B：请求批准风险应对计划，以解决高优先级风险",
+						"id": "x8019B",
+						"question_id": "zzQuestionDiv-zzQuestionDiv8019"
+					},
+					{
+						"content": "C：就其他项目的预算利用情况审查组织过程资产",
+						"id": "x8019C",
+						"question_id": "zzQuestionDiv-zzQuestionDiv8019"
+					},
+					{
+						"content": "D：接受发起人的决定，并继续执行项目",
+						"id": "x8019D",
+						"question_id": "zzQuestionDiv-zzQuestionDiv8019"
+					}
+				]
+			},
+			{
+				"correct_answer": [
+					"x8020A"
+				],
+				"answer": [
+					"x8020A"
+				],
+				"analysis": "本题考实施整体变更控制内容。项目中出现了多个学科，由于在不同的学科开展变更控制过程，那么就要求在进行变更请求影响分析时就考虑这些学科。而要求其他学科都有代表加入CCB，这个是不现实的。",
+				"question_id": "zzQuestionDiv-zzQuestionDiv8020",
+				"content": "198、\t\t一个全球多学科项目的项目经理如何才能确保在所有学科中使用变更控制过程？【单选】",
+				"option": [
+					{
+						"content": "A：执行影响分析以考虑所有项目学科",
+						"id": "x8020A",
+						"question_id": "zzQuestionDiv-zzQuestionDiv8020"
+					},
+					{
+						"content": "B：确保变更控制委员会（CCB）有来自所有学科的代表",
+						"id": "x8020B",
+						"question_id": "zzQuestionDiv-zzQuestionDiv8020"
+					},
+					{
+						"content": "C：邀请所有学科参加变更控制委员会会议，但仅从所参加的学科收集意见",
+						"id": "x8020C",
+						"question_id": "zzQuestionDiv-zzQuestionDiv8020"
+					},
+					{
+						"content": "D：代表其他学科控制所有变更请求",
+						"id": "x8020D",
+						"question_id": "zzQuestionDiv-zzQuestionDiv8020"
+					}
+				]
+			},
+			{
+				"correct_answer": [
+					"x8021B"
+				],
+				"answer": [
+					"x8021B"
+				],
+				"analysis": "本题考收集需求输出—需求文件。“质量保证经理坚持要求将精确度和准确度标准添加进质量管理计划中”这属于需求，应该记录在需求文件中。",
+				"question_id": "zzQuestionDiv-zzQuestionDiv8021",
+				"content": "199、\t\t在一个新项目的规划阶段，质量保证经理坚持要求将精确度和准确度标准添加进质量管理计划中，项目经理可以从哪里找到这个信息？【单选】",
+				"option": [
+					{
+						"content": "A：事业环境因素",
+						"id": "x8021A",
+						"question_id": "zzQuestionDiv-zzQuestionDiv8021"
+					},
+					{
+						"content": "B：需求文件",
+						"id": "x8021B",
+						"question_id": "zzQuestionDiv-zzQuestionDiv8021"
+					},
+					{
+						"content": "C：变更控制过程文档",
+						"id": "x8021C",
+						"question_id": "zzQuestionDiv-zzQuestionDiv8021"
+					},
+					{
+						"content": "D：组织过程资产",
+						"id": "x8021D",
+						"question_id": "zzQuestionDiv-zzQuestionDiv8021"
+					}
+				]
+			},
+			{
+				"correct_answer": [
+					"x8022B"
+				],
+				"answer": [
+					"x8022B"
+				],
+				"analysis": "本题考识别相关方输出—相关方登记册。可交付成果的制定来自于相关方的需求，而相关方的需求来自相关方登记册，所以当成果和期望不一致时，应该先确定是否创建了相关方登记册，以便后续制定成果。",
+				"question_id": "zzQuestionDiv-zzQuestionDiv8022",
+				"content": "200、\t\t项目经理发现项目可交付成果与发起人期望之间存在若干不一致之处，为确保一致，项目经理应该制定下列哪一项？【单选】",
+				"option": [
+					{
+						"content": "A：风险登记册",
+						"id": "x8022A",
+						"question_id": "zzQuestionDiv-zzQuestionDiv8022"
+					},
+					{
+						"content": "B：相关方登记册",
+						"id": "x8022B",
+						"question_id": "zzQuestionDiv-zzQuestionDiv8022"
+					},
+					{
+						"content": "C：沟通管理计划",
+						"id": "x8022C",
+						"question_id": "zzQuestionDiv-zzQuestionDiv8022"
+					},
+					{
+						"content": "D：工作分解结构",
+						"id": "x8022D",
+						"question_id": "zzQuestionDiv-zzQuestionDiv8022"
+					}
+				]
+			}
+		],
+		"total_question": 200,
+		"score": 187
+	}
+}
