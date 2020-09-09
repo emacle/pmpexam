@@ -9,6 +9,10 @@
   },
   "dependencies": {
     "core-js": "^3.6.5",
+    "fs": "0.0.1-security",
+    "htmlparser2": "^4.1.0",
+    "lodash": "^4.17.20",
+    "node-sass": "^4.14.1",
     "pretty-checkbox-vue": "^1.1.9",
     "vant": "^2.10.5",
     "vue": "^2.6.11",
