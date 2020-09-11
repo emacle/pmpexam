@@ -82,15 +82,6 @@
 </template>
 
 <script>
-import aJson from './a.json';
-import bJson from './b.json';
-
-import aHtmlJson from './aHtml.json';
-import bHtmlJson from './bHtml.json';
-import cHtmlJson from './cHtml.json';
-import dHtmlJson from './dHtml.json';
-import eHtmlJson from './eHtml.json';
-
 import PrettyRadio from 'pretty-checkbox-vue/radio';
 import 'pretty-checkbox/src/pretty-checkbox.scss';
 
@@ -115,42 +106,21 @@ export default {
       showAnswer: false,
       show: false,
       jsonText: undefined,
-      data: undefined,
-      aJson,
-      bJson,
-      aHtmlJson,
-      bHtmlJson,
-      cHtmlJson,
-      dHtmlJson,
-      eHtmlJson
+      data: { name: '' },
     }
   },
   watch: {
     $route: {
       handler: function (route) {
-        console.log(route.params.id)
-        if (route.params.id === 'a') {
-          this.data = aJson.data
-          console.log(this.data)
-        } else if (route.params.id === 'b') {
-          this.data = bJson.data
-          console.log(this.data)
-        } else if (this.$route.params.id === 'ahtml') {
-          this.data = aHtmlJson.data
-          console.log(this.data)
-        } else if (this.$route.params.id === 'bhtml') {
-          this.data = bHtmlJson.data
-          console.log(this.data)
-        } else if (this.$route.params.id === 'chtml') {
-          this.data = cHtmlJson.data
-          console.log(this.data)
-        } else if (this.$route.params.id === 'dhtml') {
-          this.data = dHtmlJson.data
-          console.log(this.data)
-        } else if (this.$route.params.id === 'ehtml') {
-          this.data = eHtmlJson.data
-          console.log(this.data)
-        }
+        console.log(route.params.id, route)
+        this.$http.get(route.params.id + ".json").then(res => {
+          if (!res.code) {
+            console.log(res.data)
+            this.data = res.data
+          }
+        }).catch(e => {
+          console.log(e)
+        })
       },
       immediate: true
     },
@@ -162,34 +132,16 @@ export default {
       }
     }
   },
-  created() {
-    // console.log(this.$route);
-    // console.log(this.$route.params.id);
-    if (this.$route.params.id === 'a') {
-      this.data = aJson.data
-      console.log(this.data)
-    } else if (this.$route.params.id === 'b') {
-      this.data = bJson.data
-      console.log(this.data)
-    } else if (this.$route.params.id === 'ahtml') {
-      this.data = aHtmlJson.data
-      console.log(this.data)
-    } else if (this.$route.params.id === 'bhtml') {
-      this.data = bHtmlJson.data
-      console.log(this.data)
-    } else if (this.$route.params.id === 'chtml') {
-      this.data = cHtmlJson.data
-      console.log(this.data)
-    } else if (this.$route.params.id === 'dhtml') {
-      this.data = dHtmlJson.data
-      console.log(this.data)
-    } else if (this.$route.params.id === 'ehtml') {
-      this.data = eHtmlJson.data
-      console.log(this.data)
-    }
-
-  },
+  created() { },
   mounted: function () {
+    this.$http.get(this.$route.params.id + ".json").then(res => {
+      if (!res.code) {
+        console.log(res.data)
+        this.data = res.data
+      }
+    }).catch(e => {
+      console.log(e)
+    })
   },
   methods: {
     // 跳到注册

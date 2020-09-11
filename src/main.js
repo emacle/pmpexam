@@ -1,6 +1,7 @@
 import Vue from 'vue'
 import App from './App.vue'
 import router from './router'
+import { $http } from '@/common/http'
 
 import { Button, Tag, NavBar, ActionSheet } from 'vant'
 Vue.use(Button)
@@ -34,6 +35,7 @@ import { List } from 'vant';
 
 Vue.use(List);
 Vue.config.productionTip = false
+Vue.prototype.$http = $http
 
 new Vue({
   router,
