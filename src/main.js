@@ -34,6 +34,10 @@ Vue.use(Row);
 import { List } from 'vant';
 
 Vue.use(List);
+
+import VueClipboard from 'vue-clipboard2' 
+Vue.use(VueClipboard)
+
 Vue.config.productionTip = false
 Vue.prototype.$http = $http
 
