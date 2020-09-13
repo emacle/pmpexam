@@ -132,7 +132,9 @@ export default {
       }
     }
   },
-  created() { },
+  created() {
+
+  },
   mounted: function () {
     this.$http.get(this.$route.params.id + ".json").then(res => {
       if (!res.code) {
