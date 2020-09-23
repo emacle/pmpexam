@@ -3,6 +3,7 @@
     <van-sticky>
       <van-nav-bar :title="data.name" right-text="菜单" @click-right="show = true" />
     </van-sticky>
+
     <van-popup v-model="show" position="right" :style="{ width:'30%',height: '100%'}">
       <!-- :style="{ height: '100%', width:'20%' }" -->
 
@@ -43,17 +44,33 @@
 
       <van-button type="primary" size="small" style="margin-left:2px" @click="submit()">submit</van-button>
     </van-popup>
+    <div class="container is-fluid">
+      <div class="notification">
+        <textarea
+          class="textarea"
+          rows="1"
+          cols="10"
+          v-model="jsonText"
+          placeholder="copy json string"
+        ></textarea>
+      </div>
+    </div>
 
-    <textarea v-model="jsonText" placeholder="copy json string"></textarea>
     <!-- <van-button type="primary">主要按钮</van-button> -->
 
-    <div :id="v.question_id" align="left" v-for="(v,k) in data.result" :key="k">
+    <div
+      class="container notification"
+      :id="v.question_id"
+      align="left"
+      v-for="(v,k) in data.result"
+      :key="k"
+    >
       {{k+1}}. {{v.content | replaceHtmlTag}}
       <!-- {{ v.correct_answer[0] }} {{ v.answer[0] }} -->
 
-      <p style="margin-left:20px" v-for="(vo,ko) in v.option" :key="ko">
+      <p class="control" v-for="(vo,ko) in v.option" :key="ko">
         <p-radio
-          class="p-default p-curve"
+          class="radio p-default p-curve"
           :name="vo.question_id"
           color="primary-o"
           :checked="vo.id === v.answer[0]?true:false"
@@ -63,7 +80,11 @@
           hover="true"
         >
           {{arr[ko]}}. {{vo.content | replaceHtmlTag }}
-          <label slot="hover-label" v-if="showAnswer">
+          <label
+            class="radio"
+            slot="hover-label"
+            v-if="showAnswer"
+          >
             <span
               v-if="vo.id === v.correct_answer[0]"
               style="color:blue"
@@ -71,12 +92,15 @@
             <!-- {{vo.id}} -->
             <span v-else style="color:red">{{arr[ko]}}.{{vo.content | replaceHtmlTag }} - 错误答案</span>
           </label>
-          <label slot="hover-label" v-else>{{arr[ko]}}. {{vo.content | replaceHtmlTag }}</label>
+          <label
+            class="radio"
+            slot="hover-label"
+            v-else
+          >{{arr[ko]}}. {{vo.content | replaceHtmlTag }}</label>
         </p-radio>
       </p>
 
-      <div style="margin-left:16px" v-if="showAnswer">解析：{{ v.analysis }}</div>
-      <br />
+      <div v-if="showAnswer">解析：{{ v.analysis }}</div>
     </div>
   </div>
 </template>
