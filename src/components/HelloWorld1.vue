@@ -1,19 +1,17 @@
 <template>
   <div class="hello">
     <h4>生成 新ab格式</h4>通过
-    <a href="https://toolslick.com/conversion/data/html-to-json">html-to-json</a> 网站将html转换成json，再复制到时下面textarea里转换成ab格式的json
-    <hr />
-    <textarea
-      class="comments"
-      rows="5"
-      cols="5"
-      v-model="jsonText"
-      placeholder="copy json string"
-    ></textarea>
-    <hr />
-    <textarea class="comments" rows="5" cols="5" v-model="copyText"></textarea>
-    <hr />
+    <a href="https://toolslick.com/conversion/data/html-to-json">html-to-json</a>
+
+    网站将html转换成json，再复制到时下面textarea里转换成ab格式的json
+    <div class="container notification">
+      <textarea class="textarea is-small" v-model="jsonText" placeholder="copy json string"></textarea>
+    </div>
+    <div class="container notification">
+      <textarea class="textarea is-small" v-model="copyText"></textarea>
+    </div>
     <button
+      class="button is-primary"
       type="button"
       v-clipboard:copy="copyText"
       v-clipboard:success="onCopy"

@@ -9,6 +9,7 @@
   },
   "dependencies": {
     "axios": "^0.20.0",
+    "bulma": "^0.9.0",
     "core-js": "^3.6.5",
     "fs": "0.0.1-security",
     "htmlparser2": "^4.1.0",

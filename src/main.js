@@ -38,6 +38,11 @@ Vue.use(List);
 import VueClipboard from 'vue-clipboard2' 
 Vue.use(VueClipboard)
 
+import bulma from 'bulma'
+import 'bulma/css/bulma.css'
+ 
+Vue.use(bulma)
+
 Vue.config.productionTip = false
 Vue.prototype.$http = $http
 
