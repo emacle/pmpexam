@@ -1,50 +1,65 @@
 <template>
   <div>
     <van-sticky>
-      <van-nav-bar :title="data.name" right-text="菜单" @click-right="show = true" />
+      <van-nav-bar
+        :title="data.name"
+        right-text="菜单"
+        @click-right="show = true"
+      />
     </van-sticky>
-
-    <van-popup v-model="show" position="right" :style="{ width:'30%',height: '100%'}">
+    <van-popup
+      v-model="show"
+      position="right"
+      :style="{ width: '30%', height: '100%' }"
+    >
       <!-- :style="{ height: '100%', width:'20%' }" -->
 
-      <span v-for="(v,k) in data.result" :key="k">
+      <span v-for="(v, k) in data.result" :key="k">
         <van-tag
-          :plain="showAnswer?false:true"
-          :type="showAnswer?'success':'primary'"
+          :plain="showAnswer ? false : true"
+          :type="showAnswer ? 'success' : 'primary'"
           size="medium"
-          v-if="v.correct_answer[0]==v.answer[0] && showAnswer"
-          style="margin-left:2px;margin-bottom:2px"
+          v-if="v.correct_answer[0] == v.answer[0] && showAnswer"
+          style="margin-left: 2px; margin-bottom: 2px"
           @click="goAnchor(v.question_id)"
-        >{{k+1}}</van-tag>
+          >{{ k + 1 }}</van-tag
+        >
         <van-tag
-          :plain="showAnswer?false:true"
-          :type="showAnswer?'danger':'primary'"
+          :plain="showAnswer ? false : true"
+          :type="showAnswer ? 'danger' : 'primary'"
           size="medium"
-          v-else-if="v.correct_answer[0]!==v.answer[0] && showAnswer"
-          style="margin-left:2px;margin-bottom:2px"
+          v-else-if="v.correct_answer[0] !== v.answer[0] && showAnswer"
+          style="margin-left: 2px; margin-bottom: 2px"
           @click="goAnchor(v.question_id)"
-        >{{k+1}}</van-tag>
+          >{{ k + 1 }}</van-tag
+        >
         <van-tag
-          :plain="showAnswer?false:true"
+          :plain="showAnswer ? false : true"
           type="primary"
           size="medium"
-          style="margin-left:2px;margin-bottom:2px"
+          style="margin-left: 2px; margin-bottom: 2px"
           v-else
           @click="goAnchor(v.question_id)"
-        >{{k+1}}</van-tag>
+          >{{ k + 1 }}</van-tag
+        >
         <!-- <br v-if="(k+1)%30==0" /> -->
       </span>
       <br />
 
+      <van-button type="primary" size="small" @click="showAnswer = !showAnswer"
+        >解析答案{{ data.score }} / {{ 200 - data.score }}
+      </van-button>
+
       <van-button
         type="primary"
         size="small"
-        @click="showAnswer=!showAnswer"
-      >解析答案{{data.score}} / {{200-data.score}}</van-button>
-
-      <van-button type="primary" size="small" style="margin-left:2px" @click="submit()">submit</van-button>
+        style="margin-left: 2px"
+        @click="submit()"
+        >submit
+      </van-button>
     </van-popup>
-    <div class="container is-fluid">
+
+    <div class="container">
       <div class="notification">
         <textarea
           class="textarea"
@@ -55,65 +70,64 @@
         ></textarea>
       </div>
     </div>
-
     <!-- <van-button type="primary">主要按钮</van-button> -->
+    <div class="container">
+      <div
+        :id="v.question_id"
+        align="left"
+        v-for="(v, k) in data.result"
+        :key="k"
+        class="notification"
+      >
+        {{ k + 1 }}. {{ v.content | replaceHtmlTag }}
+        <!-- {{ v.correct_answer[0] }} {{ v.answer[0] }} -->
 
-    <div
-      class="container notification"
-      :id="v.question_id"
-      align="left"
-      v-for="(v,k) in data.result"
-      :key="k"
-    >
-      {{k+1}}. {{v.content | replaceHtmlTag}}
-      <!-- {{ v.correct_answer[0] }} {{ v.answer[0] }} -->
-
-      <p class="control" v-for="(vo,ko) in v.option" :key="ko">
-        <p-radio
-          class="radio p-default p-curve"
-          :name="vo.question_id"
-          color="primary-o"
-          :checked="vo.id === v.answer[0]?true:false"
-          hover-color="primary-o"
-          :value="vo.id"
-          v-model="v.answer[0]"
-          hover="true"
+        <div
+          v-for="(vo, ko) in v.option"
+          :key="ko"
+          class="pretty p-default p-curve p-has-hover"
+          align="left"
         >
-          {{arr[ko]}}. {{vo.content | replaceHtmlTag }}
-          <label
-            class="radio"
-            slot="hover-label"
-            v-if="showAnswer"
-          >
-            <span
-              v-if="vo.id === v.correct_answer[0]"
-              style="color:blue"
-            >{{arr[ko]}}.{{vo.content | replaceHtmlTag }} -正确答案</span>
-            <!-- {{vo.id}} -->
-            <span v-else style="color:red">{{arr[ko]}}.{{vo.content | replaceHtmlTag }} - 错误答案</span>
-          </label>
-          <label
-            class="radio"
-            slot="hover-label"
-            v-else
-          >{{arr[ko]}}. {{vo.content | replaceHtmlTag }}</label>
-        </p-radio>
-      </p>
-
-      <div v-if="showAnswer">解析：{{ v.analysis }}</div>
+          <input
+            type="radio"
+            :name="vo.question_id"
+            :value="vo.id"
+            v-model="v.answer[0]"
+          />
+          <div v-if="!showAnswer" class="state p-primary-o">
+            <label> {{ arr[ko] }}. {{ vo.content | replaceHtmlTag }} </label>
+          </div>
+          <div v-if="!showAnswer" class="state p-primary-o p-is-hover">
+            <label> {{ arr[ko] }}. {{ vo.content | replaceHtmlTag }} </label>
+          </div>
+          <div v-if="showAnswer" class="state p-primary-o">
+            <label> {{ arr[ko] }}. {{ vo.content | replaceHtmlTag }} </label>
+          </div>
+          <div v-if="showAnswer" class="state p-primary-o p-is-hover">
+            <label>
+              <span v-if="vo.id === v.correct_answer[0]" style="color: blue">
+                {{ arr[ko] }}.{{ vo.content | replaceHtmlTag }} ✓
+              </span>
+              <span v-else style="color: red">
+                {{ arr[ko] }}.{{ vo.content | replaceHtmlTag }} ✗
+              </span>
+            </label>
+          </div>
+        </div>
+        <div style="margin-left: 16px" v-if="showAnswer">
+          解析：{{ v.analysis }}
+        </div>
+        <br />
+      </div>
     </div>
   </div>
 </template>
 
 <script>
-import PrettyRadio from 'pretty-checkbox-vue/radio';
 import 'pretty-checkbox/src/pretty-checkbox.scss';
 
 export default {
   name: 'Paper',
-  components: {
-    'p-radio': PrettyRadio
-  },
   filters: {
     replaceHtmlTag(str) {
       if (typeof str != "string") {
@@ -188,5 +202,21 @@ export default {
 <style scoped>
 .sidebar {
   background-color: SteelBlue;
+}
+/* Overwriting some Pretty-Checkbox styles to allow for word wrapping */
+.pretty {
+  white-space: normal;
+  width: 100%;
+}
+
+.pretty .state label {
+  text-indent: 0;
+  padding-left: 2rem;
+}
+
+.pretty .state label:after,
+.pretty .state label:before,
+.pretty.p-icon .state .icon {
+  top: 0;
 }
 </style>
