@@ -15,7 +15,7 @@
     "htmlparser2": "^4.1.0",
     "lodash": "^4.17.20",
     "node-sass": "^4.14.1",
-    "pretty-checkbox-vue": "^1.1.9",
+    "pretty-checkbox": "^3.0.3",
     "vant": "^2.10.5",
     "vue": "^2.6.11",
     "vue-clipboard2": "^0.3.1",
